@@ -3,7 +3,7 @@
 
 A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and examples: original creator prompts, video previews, source links, and practical adaptation notes for cinematic scenes, realistic vlogs, sci-fi worlds, anime characters, and dialogue.
 
-**Model version note:** The initial examples are Grok Imagine videos archived from YouMind with original post links. Their exact model versions are unconfirmed, so they are labeled Grok Imagine Video rather than verified 2.0 outputs. Prompt text retains its source language and wording.
+**Model version note:** The initial examples are Grok Imagine videos with original creator post links. Their exact model versions are unconfirmed, so they are labeled Grok Imagine Video rather than verified 2.0 outputs. Prompt text retains its source language and wording.
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
@@ -66,8 +66,6 @@ Use the timed beats as a structure, then replace the desk activity and personal 
 
 [Original post on X](<https://x.com/iamahmedfaraz66/status/2085574151058677777>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#korean-student-vlog-smartphone-video-8761>)
 
-[Prompt source on YouMind](<https://youmind.com/video-prompts/korean-student-vlog-smartphone-video-8761>)
-
 <a id="imperial-spaceship-arrival-video-10390"></a>
 
 ## Imperial Spaceship Arrival
@@ -89,8 +87,6 @@ Replace the spaceship and planet, then add a camera position or arrival action f
 **Shared by:** [@ojiji2025](<https://x.com/ojiji2025>)
 
 [Original post on X](<https://x.com/ojiji2025/status/2095840673530576995>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#imperial-spaceship-arrival-video-10390>)
-
-[Prompt source on YouMind](<https://youmind.com/video-prompts/imperial-spaceship-arrival-video-10390>)
 
 <a id="ultra-realistic-fashion-video-on-a-yacht-1063"></a>
 
@@ -120,8 +116,6 @@ Replace the model styling and boat setting while preserving the pose transition,
 
 [Original post on X](<https://x.com/MarioNawfal/status/2032459163230478355>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#ultra-realistic-fashion-video-on-a-yacht-1063>)
 
-[Prompt source on YouMind](<https://youmind.com/video-prompts/ultra-realistic-fashion-video-on-a-yacht-1063>)
-
 <a id="multi-scene-spacecraft-flight-video-3223"></a>
 
 ## Fast Multi-Scene Spacecraft Flight
@@ -143,8 +137,6 @@ Use the pacing with another vehicle, and specify which details each zoom should 
 **Shared by:** [@doganuraldesign](<https://x.com/doganuraldesign>)
 
 [Original post on X](<https://x.com/doganuraldesign/status/2044049325299204120>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#multi-scene-spacecraft-flight-video-3223>)
-
-[Prompt source on YouMind](<https://youmind.com/video-prompts/multi-scene-spacecraft-flight-video-3223>)
 
 <a id="grok-imagine-travel-vlog-prompt-11680"></a>
 
@@ -210,8 +202,6 @@ The prompt references four input assets that are not included here. Supply your 
 
 [Original post on X](<https://x.com/john87445528/status/2104992239713767535>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#grok-imagine-travel-vlog-prompt-11680>)
 
-[Prompt source on YouMind](<https://youmind.com/video-prompts/grok-imagine-travel-vlog-prompt-11680>)
-
 <a id="sci-fi-subject-example-for-grok-imagine-prompt-template-2805"></a>
 
 ## Futuristic Farmer and Giant Machines
@@ -233,8 +223,6 @@ Replace the farmer and crop while keeping the foreground vehicle and large backg
 **Shared by:** [@doganuraldesign](<https://x.com/doganuraldesign>)
 
 [Original post on X](<https://x.com/doganuraldesign/status/2040808815361225174>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#sci-fi-subject-example-for-grok-imagine-prompt-template-2805>)
-
-[Prompt source on YouMind](<https://youmind.com/video-prompts/sci-fi-subject-example-for-grok-imagine-prompt-template-2805>)
 
 <a id="sci-fi-fashion-scene-on-mars-1072"></a>
 
@@ -260,8 +248,6 @@ Replace the outfit and city while keeping a clear subject, action, and setting.
 
 [Original post on X](<https://x.com/EHuanglu/status/2032323153813279066>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#sci-fi-fashion-scene-on-mars-1072>)
 
-[Prompt source on YouMind](<https://youmind.com/video-prompts/sci-fi-fashion-scene-on-mars-1072>)
-
 <a id="mars-grizzly-bear-spacesuit-video-8412"></a>
 
 ## Grizzly Bear in a Mars Spacesuit
@@ -281,8 +267,6 @@ Swap the animal and planet, then specify a distinctive costume and lighting.
 **Shared by:** [@elonmusk](<https://x.com/elonmusk>)
 
 [Original post on X](<https://x.com/elonmusk/status/1956402132137214241>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#mars-grizzly-bear-spacesuit-video-8412>)
-
-[Prompt source on YouMind](<https://youmind.com/video-prompts/mars-grizzly-bear-spacesuit-video-8412>)
 
 <a id="idol-nene-arena-concert-7366"></a>
 
@@ -305,8 +289,6 @@ Replace the performer and dialogue while retaining the stage action and crowd at
 **Shared by:** [@PeterPanLam1990](<https://x.com/PeterPanLam1990>)
 
 [Original post on X](<https://x.com/PeterPanLam1990/status/2077682158886605281>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#idol-nene-arena-concert-7366>)
-
-[Prompt source on YouMind](<https://youmind.com/video-prompts/idol-nene-arena-concert-7366>)
 
 <a id="morning-selfie-video-monologue-9474"></a>
 
@@ -348,8 +330,6 @@ The prompt refers to Image 1 and Image 2, which are not included here. Supply yo
 
 [Original post on X](<https://x.com/john87445528/status/2089921747407552927>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#morning-selfie-video-monologue-9474>)
 
-[Prompt source on YouMind](<https://youmind.com/video-prompts/morning-selfie-video-monologue-9474>)
-
 <a id="woman-walking-sunflower-field-6560"></a>
 
 ## Sunflower Field Walk
@@ -370,8 +350,6 @@ Change the field and wardrobe while preserving the walking action and gentle env
 
 [Original post on X](<https://x.com/MarioNawfal/status/2070902475238818282>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#woman-walking-sunflower-field-6560>)
 
-[Prompt source on YouMind](<https://youmind.com/video-prompts/woman-walking-sunflower-field-6560>)
-
 <a id="detailed-anime-cyberpunk-dragon-woman-video-1042"></a>
 
 ## Anime Cyberpunk Dragon Character
@@ -391,8 +369,6 @@ Use the lighting and design vocabulary for your own character. The archived text
 **Shared by:** [@tetsuoai](<https://x.com/tetsuoai>)
 
 [Original post on X](<https://x.com/tetsuoai/status/2031633073641763213>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#detailed-anime-cyberpunk-dragon-woman-video-1042>)
-
-[Prompt source on YouMind](<https://youmind.com/video-prompts/detailed-anime-cyberpunk-dragon-woman-video-1042>)
 
 <a id="cinematic-wide-shot-of-sadie-sink-in-orange-graduation-attire-1595"></a>
 
@@ -416,8 +392,6 @@ Adapt the clothing and ceremony while keeping the foreground perspective and bac
 
 [Original post on X](<https://x.com/Jodie_Noraa/status/2033863767935668547>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#cinematic-wide-shot-of-sadie-sink-in-orange-graduation-attire-1595>)
 
-[Prompt source on YouMind](<https://youmind.com/video-prompts/cinematic-wide-shot-of-sadie-sink-in-orange-graduation-attire-1595>)
-
 <a id="elon-musk-self-introduction-video-prompt-1758"></a>
 
 ## Elon Musk Character Self-Introduction
@@ -437,8 +411,6 @@ Replace the quoted speech and character with your own fictional speaker. This ex
 **Shared by:** [@dvorahfr](<https://x.com/dvorahfr>)
 
 [Original post on X](<https://x.com/dvorahfr/status/2034780105210220851>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#elon-musk-self-introduction-video-prompt-1758>)
-
-[Prompt source on YouMind](<https://youmind.com/video-prompts/elon-musk-self-introduction-video-prompt-1758>)
 
 ## Contributing
 
