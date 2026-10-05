@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **14 examples**, with collection entries reviewed through **2026-10-04**.
+The collection currently contains **34 examples**, with collection entries reviewed through **2026-10-05**.
 
 ## How to use these prompts
 
@@ -31,6 +31,26 @@ The collection currently contains **14 examples**, with collection entries revie
 - [Anime Cyberpunk Dragon Character](<#detailed-anime-cyberpunk-dragon-woman-video-1042>)
 - [Cinematic Graduation Wide Shot](<#cinematic-wide-shot-of-sadie-sink-in-orange-graduation-attire-1595>)
 - [Elon Musk Character Self-Introduction](<#elon-musk-self-introduction-video-prompt-1758>)
+- [Television interview crew](<#television-interview-crew>)
+- [Yellowstone eruption at midnight](<#yellowstone-eruption-midnight>)
+- [Yellowstone eruption in daylight](<#yellowstone-eruption-daylight>)
+- [Mount Aso eruption at midnight](<#aso-eruption-midnight>)
+- [Mount Aso eruption from a neighborhood](<#aso-eruption-neighborhood>)
+- [Horseback couple in silhouette](<#horseback-couple-silhouettes>)
+- [A cowboy lassos the moon](<#cowboy-lassos-the-moon>)
+- [Garden walk with a short prompt](<#garden-walk-short-prompt>)
+- [The Odyssey cinematic pilot](<#odyssey-cinematic-pilot>)
+- [The Odyssey segmentation workflow](<#odyssey-segmentation-workflow>)
+- [The Odyssey imperfect camera framing](<#odyssey-imperfect-camera>)
+- [Grok Imagine Video Lite showcase](<#fal-video-lite-showcase>)
+- [Imagine v0.9 launch showcase](<#imagine-v09-launch-showcase>)
+- [Starship and a Mars vision](<#starship-mars-vision>)
+- [Everyday character loop](<#everyday-character-loop>)
+- [Autumn chick animation](<#autumn-chick-animation>)
+- [Rabbit dance animation](<#rabbit-dance-animation>)
+- [Anime group and a final blink](<#anime-group-final-blink>)
+- [Japanese sweets shop interior](<#japanese-sweets-shop-interior>)
+- [Midjourney reference animated with Grok](<#midjourney-reference-animation>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -411,6 +431,438 @@ Replace the quoted speech and character with your own fictional speaker. This ex
 **Shared by:** [@dvorahfr](<https://x.com/dvorahfr>)
 
 [Original post on X](<https://x.com/dvorahfr/status/2034780105210220851>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#elon-musk-self-introduction-video-prompt-1758>)
+
+<a id="television-interview-crew"></a>
+
+## Television interview crew
+
+[![Television interview crew](<https://pbs.twimg.com/amplify_video_thumb/2106666065853833216/img/oLy-p_uRTRfpDTBO.jpg>)](<https://x.com/jaras70berlin/status/2106666100163326282>)
+
+A television interview scene coordinates a makeup artist, camera operator and lighting technician.
+
+**Model:** Grok Imagine Video
+
+### Creator prompt · `en`
+
+```text
+A television crew is filming an interview with me. The makeup artist lightly powders my face with a brush. The cameraman adjusts the camera, and the technician sets up the lighting.
+```
+
+### How to adapt it
+
+Assign each person one action and keep the camera setup simple to make the sequence easier to follow.
+
+**Shared by:** [Jarosław Justka](<https://x.com/jaras70berlin>)
+
+[Original post on X](<https://x.com/jaras70berlin/status/2106666100163326282>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#television-interview-crew>)
+
+<a id="yellowstone-eruption-midnight"></a>
+
+## Yellowstone eruption at midnight
+
+[![Yellowstone eruption at midnight](<https://pbs.twimg.com/amplify_video_thumb/2106540226026123265/img/ooHRAvWa5FoIFvO3.jpg>)](<https://x.com/KlRITO369/status/2106540428933910741>)
+
+A Japanese prompt frames a fictional Yellowstone eruption from a nearby viewpoint at midnight.
+
+**Model:** Grok Imagine Video
+
+### Creator prompt · `ja`
+
+```text
+イエローストーン破局噴火半径100メーターから見た風景　深夜帯
+```
+
+### How to adapt it
+
+Compare the same viewpoint at different times of day while keeping the eruption and camera position consistent.
+
+**Shared by:** [KlRITO](<https://x.com/KlRITO369>)
+
+[Original post on X](<https://x.com/KlRITO369/status/2106540428933910741>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#yellowstone-eruption-midnight>)
+
+<a id="yellowstone-eruption-daylight"></a>
+
+## Yellowstone eruption in daylight
+
+[![Yellowstone eruption in daylight](<https://pbs.twimg.com/amplify_video_thumb/2106539240784003072/img/1Tvn8z7X5MgM1u1K.jpg>)](<https://x.com/KlRITO369/status/2106539558246748558>)
+
+A short Japanese prompt depicts a fictional Yellowstone eruption from a viewpoint 100 meters away.
+
+**Model:** Grok Imagine Video
+
+### Creator prompt · `ja`
+
+```text
+イエローストーン破局噴火半径100メーターから見た風景
+```
+
+### How to adapt it
+
+Pair a named setting with an explicit viewing distance, then compare framing against the midnight example.
+
+**Shared by:** [KlRITO](<https://x.com/KlRITO369>)
+
+[Original post on X](<https://x.com/KlRITO369/status/2106539558246748558>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#yellowstone-eruption-daylight>)
+
+<a id="aso-eruption-midnight"></a>
+
+## Mount Aso eruption at midnight
+
+[![Mount Aso eruption at midnight](<https://pbs.twimg.com/amplify_video_thumb/2106536797648130049/img/CMr-srP4Agpekn1F.jpg>)](<https://x.com/KlRITO369/status/2106536933568770299>)
+
+A fictional Mount Aso eruption is viewed from a residential neighborhood at midnight.
+
+**Model:** Grok Imagine Video
+
+### Creator prompt · `ja`
+
+```text
+阿蘇山破局噴火深夜の住宅地から見た風景
+```
+
+### How to adapt it
+
+Use foreground buildings to establish scale and specify the time of day for a clear lighting contrast.
+
+**Shared by:** [KlRITO](<https://x.com/KlRITO369>)
+
+[Original post on X](<https://x.com/KlRITO369/status/2106536933568770299>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#aso-eruption-midnight>)
+
+<a id="aso-eruption-neighborhood"></a>
+
+## Mount Aso eruption from a neighborhood
+
+[![Mount Aso eruption from a neighborhood](<https://pbs.twimg.com/amplify_video_thumb/2106536184952541184/img/BNP9TufW9GQpDK_u.jpg>)](<https://x.com/KlRITO369/status/2106536331950358914>)
+
+A fictional eruption near Mount Aso places residential buildings in the foreground.
+
+**Model:** Grok Imagine Video
+
+### Creator prompt · `ja`
+
+```text
+阿蘇山破局噴火阿蘇山近郊住宅地から見た風景
+```
+
+### How to adapt it
+
+Keep the neighborhood viewpoint fixed when comparing daylight and nighttime versions of the same event.
+
+**Shared by:** [KlRITO](<https://x.com/KlRITO369>)
+
+[Original post on X](<https://x.com/KlRITO369/status/2106536331950358914>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#aso-eruption-neighborhood>)
+
+<a id="horseback-couple-silhouettes"></a>
+
+## Horseback couple in silhouette
+
+[![Horseback couple in silhouette](<https://pbs.twimg.com/amplify_video_thumb/2106970095637737472/img/OP2ZrC_OfCCjlqc9.jpg>)](<https://x.com/HawkinsonLindy/status/2106970164659093766>)
+
+A concise prompt adds a cowboy and cowgirl riding side by side as dark silhouettes.
+
+**Model:** Grok Imagine Video
+
+### Creator prompt · `en`
+
+```text
+Add cowboy and cowgirl on horseback side by side as dark silhouettes
+```
+
+### How to adapt it
+
+Define the number of riders, their relative position and silhouette treatment; provide your own starting image if needed.
+
+**Shared by:** [Lindy Hawkinson](<https://x.com/HawkinsonLindy>)
+
+[Original post on X](<https://x.com/HawkinsonLindy/status/2106970164659093766>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#horseback-couple-silhouettes>)
+
+<a id="cowboy-lassos-the-moon"></a>
+
+## A cowboy lassos the moon
+
+[![A cowboy lassos the moon](<https://pbs.twimg.com/amplify_video_thumb/2106958971860922368/img/oC39C_Oo8yP4Hbq0.jpg>)](<https://x.com/carry_robey/status/2106958989573439901>)
+
+A surreal cowboy sequence combines a moon-lasso action, a camera pan, a hat tip and a music direction.
+
+**Model:** Grok Imagine Video
+
+### Creator prompt · `en`
+
+```text
+Photorealistic video of Sam Elliott on the back of a horse. He takes a lasso from his saddle and lasso’s it around the moon pulling the moon closer to earth. The camera pans to Sam’s face and he smiles at the camera abd tips his cowboy hat. No talking add legendary music.
+```
+
+### How to adapt it
+
+Replace the named person with an original cowboy character and keep the lasso, camera pan and hat tip in a clear order.
+
+**Shared by:** [Carry Robey](<https://x.com/carry_robey>)
+
+[Original post on X](<https://x.com/carry_robey/status/2106958989573439901>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#cowboy-lassos-the-moon>)
+
+<a id="garden-walk-short-prompt"></a>
+
+## Garden walk with a short prompt
+
+[![Garden walk with a short prompt](<https://pbs.twimg.com/amplify_video_thumb/2106954463529586688/img/HBOiFBzosNDChqJ0.jpg>)](<https://x.com/yen74056616/status/2106954486380138760>)
+
+The creator publishes a minimal garden-walk prompt alongside a vertical character video.
+
+**Model:** Grok Imagine Video
+
+### Creator prompt · `en`
+
+```text
+Walk in the garden.
+```
+
+### How to adapt it
+
+Start with one action, then add a setting or camera instruction only if the first result needs more direction.
+
+**Shared by:** [Yen Noelle](<https://x.com/yen74056616>)
+
+[Original post on X](<https://x.com/yen74056616/status/2106954486380138760>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#garden-walk-short-prompt>)
+
+<a id="odyssey-cinematic-pilot"></a>
+
+## The Odyssey cinematic pilot
+
+[![The Odyssey cinematic pilot](<https://pbs.twimg.com/amplify_video_thumb/2105014179526778880/img/QCkLJBxF0z8smZI5.jpg>)](<https://x.com/imagine/status/2105021180558413985>)
+
+Grok Imagine shares a cinematic pilot made with Wonder Studios, with a documented multi-image and multi-video workflow.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan a short scene list and consistent visual references before assembling multiple generated clips into a larger story.
+
+**Shared by:** [Grok Imagine](<https://x.com/imagine>)
+
+[Original post on X](<https://x.com/imagine/status/2105021180558413985>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#odyssey-cinematic-pilot>)
+
+<a id="odyssey-segmentation-workflow"></a>
+
+## The Odyssey segmentation workflow
+
+[![The Odyssey segmentation workflow](<https://pbs.twimg.com/amplify_video_thumb/2105016883850481664/img/ekXRhzdGwY7d0hb4.jpg>)](<https://x.com/imagine/status/2105021182676516900>)
+
+An official workflow example describes precise image edits while preserving a gritty, slightly desaturated base style.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Choose a base look, then edit clothing, hair or props individually before animating the revised references.
+
+**Shared by:** [Grok Imagine](<https://x.com/imagine>)
+
+[Original post on X](<https://x.com/imagine/status/2105021182676516900>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#odyssey-segmentation-workflow>)
+
+<a id="odyssey-imperfect-camera"></a>
+
+## The Odyssey imperfect camera framing
+
+[![The Odyssey imperfect camera framing](<https://pbs.twimg.com/amplify_video_thumb/2105018020242526208/img/fxkL5tUnvQTnmbu6.jpg>)](<https://x.com/imagine/status/2105021186552025262>)
+
+An official filmmaking example recommends off-level framing, off-center subjects and camera wobble for added texture.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Specify one controlled imperfection, such as off-center framing, and compare it with a cleanly framed version.
+
+**Shared by:** [Grok Imagine](<https://x.com/imagine>)
+
+[Original post on X](<https://x.com/imagine/status/2105021186552025262>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#odyssey-imperfect-camera>)
+
+<a id="fal-video-lite-showcase"></a>
+
+## Grok Imagine Video Lite showcase
+
+[![Grok Imagine Video Lite showcase](<https://pbs.twimg.com/ext_tw_video_thumb/2105759363201748992/pu/img/jduceKPj1q0dFgDj.jpg>)](<https://x.com/fal/status/2105759422223929375>)
+
+fal shares a Grok Imagine Video 1.5 Lite launch clip illustrating the video family with native audio support.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a short clip to compare motion and audio together, choosing an aspect ratio suited to the intended viewing format.
+
+**Shared by:** [fal](<https://x.com/fal>)
+
+[Original post on X](<https://x.com/fal/status/2105759422223929375>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#fal-video-lite-showcase>)
+
+<a id="imagine-v09-launch-showcase"></a>
+
+## Imagine v0.9 launch showcase
+
+[![Imagine v0.9 launch showcase](<https://pbs.twimg.com/amplify_video_thumb/1975607848563576832/img/bOjNxEPNVwsUCLhf.jpg>)](<https://x.com/SpaceXAI/status/1975607901571199086>)
+
+xAI shares an Imagine v0.9 video showcase highlighting visual quality, motion and generated audio.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Compare character movement, framing and sound across short scenes instead of judging the showcase as one continuous generation.
+
+**Shared by:** [SpaceXAI](<https://x.com/SpaceXAI>)
+
+[Original post on X](<https://x.com/SpaceXAI/status/1975607901571199086>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#imagine-v09-launch-showcase>)
+
+<a id="starship-mars-vision"></a>
+
+## Starship and a Mars vision
+
+[![Starship and a Mars vision](<https://pbs.twimg.com/amplify_video_thumb/2104168915907883008/img/HI3MjvgWT2p1o5Nq.jpg>)](<https://x.com/bowie_HQ/status/2104169842983182498>)
+
+A creator attributes a speculative Starship-themed video to Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use an original presenter and a fictional space setting to explore a futuristic scene without presenting it as real footage.
+
+**Shared by:** [Bowie](<https://x.com/bowie_HQ>)
+
+[Original post on X](<https://x.com/bowie_HQ/status/2104169842983182498>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#starship-mars-vision>)
+
+<a id="everyday-character-loop"></a>
+
+## Everyday character loop
+
+[![Everyday character loop](<https://pbs.twimg.com/amplify_video_thumb/2106142517850947584/img/RSW6ELF1MpPnVtZh.jpg>)](<https://x.com/FFBuncho/status/2106142944759779707>)
+
+A Japanese creator shares an everyday character clip as an example of making loop videos with Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the camera fixed and return the character to the opening pose for a loop-friendly motion study.
+
+**Shared by:** [ふくぶん](<https://x.com/FFBuncho>)
+
+[Original post on X](<https://x.com/FFBuncho/status/2106142944759779707>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#everyday-character-loop>)
+
+<a id="autumn-chick-animation"></a>
+
+## Autumn chick animation
+
+[![Autumn chick animation](<https://pbs.twimg.com/amplify_video_thumb/2106168266934960128/img/j6suLwF20Ipb7fkE.jpg>)](<https://x.com/yumesyokunin/status/2106168341736063446>)
+
+A Grok Imagine-tagged animation pairs an autumn setting with a large illustrated chick and a small character.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a simple seasonal palette and one repeating movement to explore a compact illustrated scene.
+
+**Shared by:** [夢職人](<https://x.com/yumesyokunin>)
+
+[Original post on X](<https://x.com/yumesyokunin/status/2106168341736063446>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#autumn-chick-animation>)
+
+<a id="rabbit-dance-animation"></a>
+
+## Rabbit dance animation
+
+[![Rabbit dance animation](<https://pbs.twimg.com/amplify_video_thumb/2105814899616358400/img/N-azCmqmM7vKoFZ2.jpg>)](<https://x.com/yumesyokunin/status/2105814961599689159>)
+
+A creator shares a Grok Imagine animation centered on dancing with rabbits.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the background simple and define one repeated dance gesture before adding more characters or movement.
+
+**Shared by:** [夢職人](<https://x.com/yumesyokunin>)
+
+[Original post on X](<https://x.com/yumesyokunin/status/2105814961599689159>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#rabbit-dance-animation>)
+
+<a id="anime-group-final-blink"></a>
+
+## Anime group and a final blink
+
+[![Anime group and a final blink](<https://pbs.twimg.com/amplify_video_thumb/2105229658610651136/img/p4XF_tHmGi51tg39.jpg>)](<https://x.com/yumesyokunin/status/2105248791825666082>)
+
+A creator highlights the final blink in a Grok Imagine animation featuring an illustrated group.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a mostly stable composition so small facial changes and the timing of a blink remain easy to notice.
+
+**Shared by:** [夢職人](<https://x.com/yumesyokunin>)
+
+[Original post on X](<https://x.com/yumesyokunin/status/2105248791825666082>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#anime-group-final-blink>)
+
+<a id="japanese-sweets-shop-interior"></a>
+
+## Japanese sweets shop interior
+
+[![Japanese sweets shop interior](<https://pbs.twimg.com/amplify_video_thumb/2106623660664729600/img/C-YOfkYtxSilcWNM.jpg>)](<https://x.com/KOa5p/status/2106623687914889615>)
+
+A Grok Imagine-tagged clip introduces the layout of a Japanese sweets shop.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Establish a consistent interior reference and describe a short camera path through the shop.
+
+**Shared by:** [テマリ](<https://x.com/KOa5p>)
+
+[Original post on X](<https://x.com/KOa5p/status/2106623687914889615>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#japanese-sweets-shop-interior>)
+
+<a id="midjourney-reference-animation"></a>
+
+## Midjourney reference animated with Grok
+
+[![Midjourney reference animated with Grok](<https://pbs.twimg.com/amplify_video_thumb/2106644717740191744/img/jne6tcYGbP6rwPCl.jpg>)](<https://x.com/liluocheng13/status/2106645329076682854>)
+
+The creator credits Midjourney 8.2 for the image and Grok Imagine for the video animation.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Provide your own still image, then focus the animation direction on a small number of subject or camera movements.
+
+**Shared by:** [Zidan 子丹](<https://x.com/liluocheng13>)
+
+[Original post on X](<https://x.com/liluocheng13/status/2106645329076682854>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#midjourney-reference-animation>)
 
 ## Contributing
 
