@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **34 examples**, with collection entries reviewed through **2026-10-05**.
+The collection currently contains **50 examples**, with collection entries reviewed through **2026-10-06**.
 
 ## How to use these prompts
 
@@ -51,6 +51,22 @@ The collection currently contains **34 examples**, with collection entries revie
 - [Anime group and a final blink](<#anime-group-final-blink>)
 - [Japanese sweets shop interior](<#japanese-sweets-shop-interior>)
 - [Midjourney reference animated with Grok](<#midjourney-reference-animation>)
+- [Winged companions cuddle](<#winged-companions-cuddle>)
+- [Grok and an underwater waltz](<#grok-underwater-waltz>)
+- [White-haired warrior action sequence](<#white-haired-warrior-four-shot-action>)
+- [Cyberpunk hologram camera pullback](<#cyberpunk-hologram-single-shot-pullback>)
+- [Quiet waters and swans](<#quiet-water-swan-fantasy>)
+- [Anime mountain supply carrier](<#anime-mountain-supply-carrier>)
+- [Fictional sauce ad with the Imagine agent](<#fictional-tomatol-agent-commercial>)
+- [Anime dialogue in Kansai dialect](<#kansai-dialect-anime-dialogue>)
+- [Colorful alien night animation](<#colorful-alien-night-animation>)
+- [Fantasy priest figure animation](<#fantasy-priest-figure-animation>)
+- [Sunrise skateboard action](<#sunrise-skateboard-action>)
+- [Angel beside a waterfall temple](<#angel-waterfall-temple>)
+- [Kaleidoscope character experiment](<#kaleidoscope-character-experiment>)
+- [Halloween cake party animation](<#halloween-cake-party-animation>)
+- [Seabird over a sunrise coast](<#seabird-sunrise-coast-flight>)
+- [Autumn garden ambient music video](<#autumn-garden-ambient-music-video>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -863,6 +879,356 @@ Provide your own still image, then focus the animation direction on a small numb
 **Shared by:** [Zidan 子丹](<https://x.com/liluocheng13>)
 
 [Original post on X](<https://x.com/liluocheng13/status/2106645329076682854>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#midjourney-reference-animation>)
+
+<a id="winged-companions-cuddle"></a>
+
+## Winged companions cuddle
+
+[![Winged companions cuddle](<https://pbs.twimg.com/amplify_video_thumb/2107344536351416320/img/_g-Y56ppC9pDY7f6.jpg>)](<https://x.com/Enlightened4_/status/2107344563790553595>)
+
+A short creator prompt asks for nose cuddles, wing movement and snuggling in a decorative fantasy scene.
+
+**Model:** Grok Imagine Video
+
+```text
+Cuddle noses shake wings snuggle
+```
+
+### How to adapt it
+
+Keep the three small actions, then specify which companion moves first and how tightly the camera frames them.
+
+**Shared by:** [Senovia Wicks](<https://x.com/Enlightened4_>)
+
+[Original post on X](<https://x.com/Enlightened4_/status/2107344563790553595>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#winged-companions-cuddle>)
+
+<a id="grok-underwater-waltz"></a>
+
+## Grok and an underwater waltz
+
+[![Grok and an underwater waltz](<https://pbs.twimg.com/amplify_video_thumb/2107327566281650176/img/K38fB6L-qjR787xE.jpg>)](<https://x.com/lighthouse42f/status/2107327599676629346>)
+
+A four-word prompt places Grok in an underwater waltz, with a robot, octopus and human character in the preview.
+
+**Model:** Grok Imagine Video
+
+```text
+Grok and underwater waltz
+```
+
+### How to adapt it
+
+Add a clear dancing pair, one slow camera move and a consistent direction for bubbles and hair.
+
+**Shared by:** [Cathy has this](<https://x.com/lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2107327599676629346>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#grok-underwater-waltz>)
+
+<a id="white-haired-warrior-four-shot-action"></a>
+
+## White-haired warrior action sequence
+
+[![White-haired warrior action sequence](<https://pbs.twimg.com/media/HT6204EbAAANe7C.jpg>)](<https://x.com/Rizi_ru/status/2107322835568046132>)
+
+A detailed four-scene prompt stages a white-haired warrior, blue energy and water effects in a misty fantasy forest.
+
+**Model:** Grok Imagine Video
+
+```text
+Create a 15-second cinematic vertical 9:16 dark-fantasy action sequence, inspired by high-budget Asian fantasy cinema.
+
+Scene 1 — 0–3s:
+A mysterious white-haired warrior stands in a misty ancient mountain forest, surrounded by shallow reflective water. Long white hair moves naturally in the wind, wearing elegant black-and-white fantasy robes. The camera slowly pushes toward the warrior as blue-white energy begins swirling around them.
+
+Scene 2 — 3–7s:
+Several shadowy black-armored warriors emerge through the mist and rush forward. The white-haired warrior suddenly moves with supernatural speed, creating a powerful circular wave of glowing blue water and energy. Cinematic slow motion, realistic cloth and hair physics, flying water droplets.
+
+Scene 3 — 7–11s:
+Close-up combat. The white-haired warrior blocks an enemy weapon with a glowing energy blade. A bright blue-white shockwave explodes between them, sending water droplets and particles through the air. Dynamic camera orbit, dramatic impact, detailed facial expressions.
+
+Scene 4 — 11–15s:
+The warrior releases one final concentrated energy strike. A huge arc of blue-white energy sweeps across the water, knocking the shadow warriors backward. End with the white-haired warrior standing calmly in the mist as glowing particles fall around them.
+
+Visual style: photorealistic cinematic fantasy, ultra-detailed characters, realistic skin and hair, physically accurate water, volumetric fog, dramatic moonlight, deep shadows, blue-white magical energy, realistic particle effects, anamorphic cinematic lighting, shallow depth of field, smooth camera motion, high-budget VFX, epic atmosphere.
+
+No text, no subtitles, no logos, no watermark, no cartoon look, no distorted faces, no extra limbs, no blurry characters. Maintain consistent character appearance throughout the entire video.
+```
+
+### How to adapt it
+
+Reuse the timed scene structure; simplify the cast and repeat the same costume and energy color in every shot.
+
+**Shared by:** [Rizi](<https://x.com/Rizi_ru>)
+
+[Original post on X](<https://x.com/Rizi_ru/status/2107322835568046132>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#white-haired-warrior-four-shot-action>)
+
+<a id="cyberpunk-hologram-single-shot-pullback"></a>
+
+## Cyberpunk hologram camera pullback
+
+[![Cyberpunk hologram camera pullback](<https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg>)](<https://x.com/ziro1005/status/2107227204157608164>)
+
+A Japanese prompt requests one uncut vertical shot pulling back from a holographic idol to a futuristic city.
+
+**Model:** Grok Imagine Video
+
+```text
+※必ず縦長指示
+動画生成お願いします！
+サイバーパンクの未来都市
+カメラ長回しのカット無しワン・シーン。
+ホログラムのアイドル広告アップから街全体を俯瞰するようなカメラワーク。ドリーアウト。
+まるでドローン撮影のような（機体は絶対見せない）。
+どこかの片隅に小さな赤い鳥居を目立たなく建たせて。
+```
+
+### How to adapt it
+
+Keep the hologram-to-city reveal, then change the ad subject and choose one small landmark to anchor the wider view.
+
+**Shared by:** [じろじろin下関](<https://x.com/ziro1005>)
+
+[Original post on X](<https://x.com/ziro1005/status/2107227204157608164>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#cyberpunk-hologram-single-shot-pullback>)
+
+<a id="quiet-water-swan-fantasy"></a>
+
+## Quiet waters and swans
+
+[![Quiet waters and swans](<https://pbs.twimg.com/amplify_video_thumb/2107336251317641216/img/y_wTylJ9edGh_nqu.jpg>)](<https://x.com/yael_maimon/status/2107336272695984168>)
+
+A creator-attributed Grok Imagine result pairs a winged character with swans beside quiet woodland water.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+For a similar scene, define one gentle gesture, slow water movement and a stable camera before adding extra characters.
+
+**Shared by:** [Yael Maimon](<https://x.com/yael_maimon>)
+
+[Original post on X](<https://x.com/yael_maimon/status/2107336272695984168>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#quiet-water-swan-fantasy>)
+
+<a id="anime-mountain-supply-carrier"></a>
+
+## Anime mountain supply carrier
+
+[![Anime mountain supply carrier](<https://pbs.twimg.com/amplify_video_thumb/2107337709807390720/img/eLYLiUU1IYc_Hb7f.jpg>)](<https://x.com/misakibarubaru/status/2107337802153341043>)
+
+An anime character carries mountain-hut supplies through autumn woodland in a creator-attributed Grok Imagine video.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with a readable backpack silhouette and one walking direction; keep the trail and season consistent.
+
+**Shared by:** [大石蔵人@ゲンキトリッパー](<https://x.com/misakibarubaru>)
+
+[Original post on X](<https://x.com/misakibarubaru/status/2107337802153341043>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#anime-mountain-supply-carrier>)
+
+<a id="fictional-tomatol-agent-commercial"></a>
+
+## Fictional sauce ad with the Imagine agent
+
+[![Fictional sauce ad with the Imagine agent](<https://pbs.twimg.com/amplify_video_thumb/2107336107683655680/img/VGznwDbyg04HhFaK.jpg>)](<https://x.com/mys1111/status/2107336147517002226>)
+
+The creator describes a fictional Tomatol ad built from a Grok reference image and three clips joined by the Imagine agent.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan a product reveal, a use scene and a closing shot; keep the fictional package consistent across clips.
+
+**Shared by:** [MYS AI](<https://x.com/mys1111>)
+
+[Original post on X](<https://x.com/mys1111/status/2107336147517002226>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#fictional-tomatol-agent-commercial>)
+
+<a id="kansai-dialect-anime-dialogue"></a>
+
+## Anime dialogue in Kansai dialect
+
+[![Anime dialogue in Kansai dialect](<https://pbs.twimg.com/amplify_video_thumb/2107305366962995200/img/Xoi6nDD10CYzZf8G.jpg>)](<https://x.com/0xkaiware/status/2107305390950219949>)
+
+A creator reports making a 15-second Grok Imagine character video with Kansai dialogue and testing other Japanese dialects.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Choose one short line in the intended dialect and a simple expression; review pronunciation and lip movement separately.
+
+**Shared by:** [かいわれ](<https://x.com/0xkaiware>)
+
+[Original post on X](<https://x.com/0xkaiware/status/2107305390950219949>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#kansai-dialect-anime-dialogue>)
+
+<a id="colorful-alien-night-animation"></a>
+
+## Colorful alien night animation
+
+[![Colorful alien night animation](<https://pbs.twimg.com/amplify_video_thumb/2107306375114006529/img/Q3jpmGHChNKCWvig.jpg>)](<https://x.com/Sherice0799/status/2107306459750867322>)
+
+A playful alien scene uses third-party artwork credited to SocialSight and animation credited to Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Animate one blink or small wave first, then add restrained background motion to preserve the colorful illustration.
+
+**Shared by:** [Sherice](<https://x.com/Sherice0799>)
+
+[Original post on X](<https://x.com/Sherice0799/status/2107306459750867322>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#colorful-alien-night-animation>)
+
+<a id="fantasy-priest-figure-animation"></a>
+
+## Fantasy priest figure animation
+
+[![Fantasy priest figure animation](<https://pbs.twimg.com/amplify_video_thumb/2105970691631976448/img/V1IS-mSNbD-wX5gT.jpg>)](<https://x.com/ban_chan7847/status/2107312392405475361>)
+
+A creator shares priest and priestess fantasy figures with a Grok Imagine tag and a figure-animation theme.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the figures and weapons clearly separated; begin with a small pose change and stable background lighting.
+
+**Shared by:** [ばんちゃんねる](<https://x.com/ban_chan7847>)
+
+[Original post on X](<https://x.com/ban_chan7847/status/2107312392405475361>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#fantasy-priest-figure-animation>)
+
+<a id="sunrise-skateboard-action"></a>
+
+## Sunrise skateboard action
+
+[![Sunrise skateboard action](<https://pbs.twimg.com/amplify_video_thumb/2107269290324049920/img/0XDJvhGgEo3xFe61.jpg>)](<https://x.com/KaTbgsJhym8493/status/2107269388059680812>)
+
+A Grok Imagine-tagged video depicts a skateboarder against a bright sunrise with an accompanying Japanese scene caption.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use one jump and a clear landing path; choose a camera angle that keeps the board and feet visible.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2107269388059680812>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#sunrise-skateboard-action>)
+
+<a id="angel-waterfall-temple"></a>
+
+## Angel beside a waterfall temple
+
+[![Angel beside a waterfall temple](<https://pbs.twimg.com/amplify_video_thumb/2107276220387979264/img/tQDht3mODxuip7iT.jpg>)](<https://x.com/KaTbgsJhym8493/status/2107276342551289910>)
+
+A Grok Imagine-tagged fantasy scene places a white-winged angel near a waterfall and stone temple.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Give the wings a small movement and let the waterfall supply most of the motion; keep the architecture fixed.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2107276342551289910>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#angel-waterfall-temple>)
+
+<a id="kaleidoscope-character-experiment"></a>
+
+## Kaleidoscope character experiment
+
+[![Kaleidoscope character experiment](<https://pbs.twimg.com/amplify_video_thumb/2107140581982171136/img/FopllwqSUZEiaeZE.jpg>)](<https://x.com/HashedAIvideo/status/2107231103740453137>)
+
+A creator shares a Grok Imagine kaleidoscope retry and notes that an unexpected spoken phrase was not requested.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Describe the symmetry and how the reflections move, then check the audio for speech you did not request.
+
+**Shared by:** [YUKI NAK AI美女動画生成師 見習](<https://x.com/HashedAIvideo>)
+
+[Original post on X](<https://x.com/HashedAIvideo/status/2107231103740453137>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#kaleidoscope-character-experiment>)
+
+<a id="halloween-cake-party-animation"></a>
+
+## Halloween cake party animation
+
+[![Halloween cake party animation](<https://pbs.twimg.com/amplify_video_thumb/2107093492317171712/img/WVBt9NUQSvH-ItdC.jpg>)](<https://x.com/gazokuneko/status/2107095282248994956>)
+
+Anthropomorphized Grok agents appear at a Halloween cake party in a creator-tagged Grok Imagine video.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep one cake-cutting action and a fixed table composition; use candlelight and restrained character gestures.
+
+**Shared by:** [雅俗ねこ](<https://x.com/gazokuneko>)
+
+[Original post on X](<https://x.com/gazokuneko/status/2107095282248994956>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#halloween-cake-party-animation>)
+
+<a id="seabird-sunrise-coast-flight"></a>
+
+## Seabird over a sunrise coast
+
+[![Seabird over a sunrise coast](<https://pbs.twimg.com/amplify_video_thumb/2107225780342476800/img/XHj0e9-_XWuNn-XR.jpg>)](<https://x.com/KaTbgsJhym8493/status/2107225797782274550>)
+
+A Grok Imagine-tagged coastal video frames a seabird flying toward sunrise above waves and a long beach.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Pick one flight direction and camera distance; keep wave motion slower than the bird to make the movement readable.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2107225797782274550>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#seabird-sunrise-coast-flight>)
+
+<a id="autumn-garden-ambient-music-video"></a>
+
+## Autumn garden ambient music video
+
+[![Autumn garden ambient music video](<https://pbs.twimg.com/amplify_video_thumb/2107344660318576640/img/GSZyx4TTVFATYJlQ.jpg>)](<https://x.com/omusubihitotu/status/2107349019882340505>)
+
+An autumn garden music video credits Grok Imagine for the visuals and Suno AI for the music.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build a restrained garden loop with a fixed window frame, then edit it to separately produced ambient music.
+
+**Shared by:** [おむすびひとつ](<https://x.com/omusubihitotu>)
+
+[Original post on X](<https://x.com/omusubihitotu/status/2107349019882340505>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#autumn-garden-ambient-music-video>)
 
 ## Contributing
 
