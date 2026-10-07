@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **50 examples**, with collection entries reviewed through **2026-10-06**.
+The collection currently contains **64 examples**, with collection entries reviewed through **2026-10-07**.
 
 ## How to use these prompts
 
@@ -67,6 +67,20 @@ The collection currently contains **50 examples**, with collection entries revie
 - [Halloween cake party animation](<#halloween-cake-party-animation>)
 - [Seabird over a sunrise coast](<#seabird-sunrise-coast-flight>)
 - [Autumn garden ambient music video](<#autumn-garden-ambient-music-video>)
+- [A childhood photograph animated](<#childhood-photo-animation>)
+- [Kitten on a vintage bicycle](<#kitten-vintage-bicycle>)
+- [Sewing Time with Casper](<#casper-sewing-room>)
+- [Tea portrait with a floral hat](<#floral-hat-tea-portrait>)
+- [Steampunk cat adventure](<#steampunk-cat-adventure>)
+- [Horseback riding with a short prompt](<#horseback-riding-short-prompt>)
+- [Royal tent dialogue and camera direction](<#royal-tent-dialogue-scene>)
+- [Pirate figure at a ship wheel](<#pirate-figure-ship-wheel>)
+- [Z-Image character motion experiment](<#z-image-character-running>)
+- [First love short film prelude](<#first-love-short-film-prelude>)
+- [Harpy figure anatomy experiment](<#harpy-figure-anatomy-experiment>)
+- [Anime reference-frame experiment](<#anime-start-middle-end-frame-experiment>)
+- [Okinawa garden with a multi-tool workflow](<#okinawa-garden-multi-tool-film>)
+- [Dark lord under a burning eclipse](<#dark-lord-burning-eclipse>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -1229,6 +1243,313 @@ Build a restrained garden loop with a fixed window frame, then edit it to separa
 **Shared by:** [おむすびひとつ](<https://x.com/omusubihitotu>)
 
 [Original post on X](<https://x.com/omusubihitotu/status/2107349019882340505>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#autumn-garden-ambient-music-video>)
+
+<a id="childhood-photo-animation"></a>
+
+## A childhood photograph animated
+
+[![A childhood photograph animated](<https://pbs.twimg.com/amplify_video_thumb/2107705492743053312/img/RJWRZgP0GLmkmFwI.jpg>)](<https://x.com/g_vonlutzau/status/2107705511214981376>)
+
+A German reference-image prompt accompanies an animated black-and-white childhood photograph.
+
+**Model:** Grok Imagine Video
+
+```text
+@Image1
+Die kleine Gaby. Ich hatte nur ein Foto.
+```
+
+### How to adapt it
+
+Use your own photograph and describe a small movement while preserving its composition.
+
+**Shared by:** [Gabriele von Lutzau 🇩🇪 🇮🇱 🔬🚀](<https://x.com/g_vonlutzau>)
+
+[Original post on X](<https://x.com/g_vonlutzau/status/2107705511214981376>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#childhood-photo-animation>)
+
+<a id="kitten-vintage-bicycle"></a>
+
+## Kitten on a vintage bicycle
+
+[![Kitten on a vintage bicycle](<https://pbs.twimg.com/amplify_video_thumb/2107690410953035776/img/8Y1l1u17XYUFmLoa.jpg>)](<https://x.com/lighthouse42f/status/2107690424605585540>)
+
+A short English prompt accompanies a white kitten perched on a large vintage bicycle.
+
+**Model:** Grok Imagine Video
+
+```text
+Kitten wanted shorter bike I guess lol happier smile
+```
+
+### How to adapt it
+
+Start with your own kitten illustration, then specify a safer bicycle size and one facial expression.
+
+**Shared by:** [Cathy has this](<https://x.com/lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2107690424605585540>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#kitten-vintage-bicycle>)
+
+<a id="casper-sewing-room"></a>
+
+## Sewing Time with Casper
+
+[![Sewing Time with Casper](<https://pbs.twimg.com/amplify_video_thumb/2107688541665034240/img/TMPTZALwI3-AVi1W.jpg>)](<https://x.com/lighthouse42f/status/2107688555430735877>)
+
+A four-word prompt accompanies a colorful miniature sewing room filled with floral craft details.
+
+**Model:** Grok Imagine Video
+
+```text
+Sewing Time with Casper
+```
+
+### How to adapt it
+
+Replace the named character with your own craft-room subject and add one object motion.
+
+**Shared by:** [Cathy has this](<https://x.com/lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2107688555430735877>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#casper-sewing-room>)
+
+<a id="floral-hat-tea-portrait"></a>
+
+## Tea portrait with a floral hat
+
+[![Tea portrait with a floral hat](<https://pbs.twimg.com/amplify_video_thumb/2107686835807997952/img/LwrzOVTZBNp3ra76.jpg>)](<https://x.com/lighthouse42f/status/2107686854816596359>)
+
+A three-word prompt accompanies a stylized tea portrait with a large floral hat.
+
+**Model:** Grok Imagine Video
+
+```text
+Cup of tea
+```
+
+### How to adapt it
+
+Use a portrait you own and specify whether the subject lifts the cup or holds it still.
+
+**Shared by:** [Cathy has this](<https://x.com/lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2107686854816596359>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#floral-hat-tea-portrait>)
+
+<a id="steampunk-cat-adventure"></a>
+
+## Steampunk cat adventure
+
+[![Steampunk cat adventure](<https://pbs.twimg.com/amplify_video_thumb/2107682912758013952/img/306-Kv_z8xxccRAt.jpg>)](<https://x.com/lighthouse42f/status/2107682927970804014>)
+
+A three-word prompt accompanies a steampunk cat scene with stacked luggage and airships.
+
+**Model:** Grok Imagine Video
+
+```text
+Steam punk adventure
+```
+
+### How to adapt it
+
+Pair a character reference with one visible action and a restrained camera move.
+
+**Shared by:** [Cathy has this](<https://x.com/lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2107682927970804014>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#steampunk-cat-adventure>)
+
+<a id="horseback-riding-short-prompt"></a>
+
+## Horseback riding with a short prompt
+
+[![Horseback riding with a short prompt](<https://pbs.twimg.com/amplify_video_thumb/2107671977901387776/img/9IOWQhoLVv8HhU89.jpg>)](<https://x.com/yen74056616/status/2107671995290898716>)
+
+An unedited four-word English prompt accompanies a horseback scene in warm landscape light.
+
+**Model:** Grok Imagine Video
+
+```text
+She horseback riding .
+```
+
+### How to adapt it
+
+Use a riding reference and describe pace, rider posture, and a single tracking direction.
+
+**Shared by:** [Yen Noelle](<https://x.com/yen74056616>)
+
+[Original post on X](<https://x.com/yen74056616/status/2107671995290898716>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#horseback-riding-short-prompt>)
+
+<a id="royal-tent-dialogue-scene"></a>
+
+## Royal tent dialogue and camera direction
+
+[![Royal tent dialogue and camera direction](<https://pbs.twimg.com/amplify_video_thumb/2107699124749344768/img/NsEChVVWarv-iqeM.jpg>)](<https://x.com/KimMaria8ry/status/2107699153950155178>)
+
+A detailed English scene prompt combines royal dialogue, gestures, soft lighting, and camera movement.
+
+**Model:** Grok Imagine Video
+
+### Scene prompt · `en`
+
+```text
+Valeria turns and faces the opening of the Royal Tent.  Clearly disappointed that her appointed errand was to no avail.  She speaks with dejection in her voice.  Her voice is cold.  Her posture stony.
+
+She says:  "Artun, I will not argue with you.  Our lands are neighbors to each other.  But I will NOT allow you to destroy Alteppia.  If there is a battle for the future of this Planet, you know whose side I will be on!!"
+
+She then turns and bows low before Artun with respect.  The Wise Men of the Council dressed in their silver and blue robes stand and bow before the Queen of Kelaith in respect. 
+
+Artun warns Valeria quietly:  "Do not start a War, because you cannot get your way."
+
+Valeria smiles, bows and leaves the Royal Tent.
+
+"Overcast diffused light", 85 mm lens treatment,  camera pans to the left,   "slow dolly-in", atmospheric depth of field, volumetric lighting, parallax effect, glow effect, cross fade, high resolution output, native audio generation, --ar 16 9, ultra realistic,  ultra cinematic 4k style film
+```
+
+### How to adapt it
+
+Use original characters, shorten the dialogue, and test each speaker turn before editing a longer scene.
+
+**Shared by:** [Kim Maria](<https://x.com/KimMaria8ry>)
+
+[Original post on X](<https://x.com/KimMaria8ry/status/2107699153950155178>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#royal-tent-dialogue-scene>)
+
+<a id="pirate-figure-ship-wheel"></a>
+
+## Pirate figure at a ship wheel
+
+[![Pirate figure at a ship wheel](<https://pbs.twimg.com/amplify_video_thumb/2105974614291865600/img/6gJTlUMg0_U2zEiZ.jpg>)](<https://x.com/ban_chan7847/status/2107674779163476302>)
+
+A Grok Imagine-tagged fantasy figure clip features a pirate at a ship wheel beside a parrot.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Animate a figure you own with one wheel movement and a stable camera.
+
+**Shared by:** [ばんちゃんねる](<https://x.com/ban_chan7847>)
+
+[Original post on X](<https://x.com/ban_chan7847/status/2107674779163476302>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#pirate-figure-ship-wheel>)
+
+<a id="z-image-character-running"></a>
+
+## Z-Image character motion experiment
+
+[![Z-Image character motion experiment](<https://pbs.twimg.com/amplify_video_thumb/2107673831011917824/img/wmaDfUZI8ACpD5xc.jpg>)](<https://x.com/darkroomimage/status/2107674051766587715>)
+
+The creator attributes this character running experiment to a Z-Image and Grok Imagine workflow.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Separate image creation from motion testing and compare silhouette consistency during movement.
+
+**Shared by:** [darkroomimage](<https://x.com/darkroomimage>)
+
+[Original post on X](<https://x.com/darkroomimage/status/2107674051766587715>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#z-image-character-running>)
+
+<a id="first-love-short-film-prelude"></a>
+
+## First love short film prelude
+
+[![First love short film prelude](<https://pbs.twimg.com/amplify_video_thumb/2107669830480379905/img/wMWHeNnaNh6qsNVH.jpg>)](<https://x.com/grokbotstudios/status/2107670377920864301>)
+
+An edited short film about first love is credited to Grok Imagine, with music by SM Productions.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan a few original story beats, generate separate clips, and credit music independently.
+
+**Shared by:** [S M](<https://x.com/grokbotstudios>)
+
+[Original post on X](<https://x.com/grokbotstudios/status/2107670377920864301>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#first-love-short-film-prelude>)
+
+<a id="harpy-figure-anatomy-experiment"></a>
+
+## Harpy figure anatomy experiment
+
+[![Harpy figure anatomy experiment](<https://pbs.twimg.com/amplify_video_thumb/2106767470182957056/img/xv9XeblJxueakXcL.jpg>)](<https://x.com/ban_chan7847/status/2107584181408539004>)
+
+A fantasy harpy figure example includes the creator's report of repeated unwanted extra arms.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a clear wing silhouette and inspect anatomy across frames before selecting a result.
+
+**Shared by:** [ばんちゃんねる](<https://x.com/ban_chan7847>)
+
+[Original post on X](<https://x.com/ban_chan7847/status/2107584181408539004>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#harpy-figure-anatomy-experiment>)
+
+<a id="anime-start-middle-end-frame-experiment"></a>
+
+## Anime reference-frame experiment
+
+[![Anime reference-frame experiment](<https://pbs.twimg.com/amplify_video_thumb/2107565459654729728/img/9PERP3dGTHm_gAUs.jpg>)](<https://x.com/FC_Cicadas/status/2107567055537094807>)
+
+The creator reports testing start, middle, and final reference frames with an anime character.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Compare the intended pose at each beat and document the inputs separately from the final clip.
+
+**Shared by:** [Cicadas Francois Cosmos 🇯🇵](<https://x.com/FC_Cicadas>)
+
+[Original post on X](<https://x.com/FC_Cicadas/status/2107567055537094807>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#anime-start-middle-end-frame-experiment>)
+
+<a id="okinawa-garden-multi-tool-film"></a>
+
+## Okinawa garden with a multi-tool workflow
+
+[![Okinawa garden with a multi-tool workflow](<https://pbs.twimg.com/amplify_video_thumb/2107608343720448000/img/MIW5Ne6RO2VSfoVY.jpg>)](<https://x.com/sam_tmk/status/2107608423848456420>)
+
+A garden scene credits GPT image2.5 for images, Grok Imagine for video, Suno for music, and CapCut for editing.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Prepare your own garden reference, animate foliage gently, and assemble music as a separate editing step.
+
+**Shared by:** [たまちゃん | Tamachan](<https://x.com/sam_tmk>)
+
+[Original post on X](<https://x.com/sam_tmk/status/2107608423848456420>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#okinawa-garden-multi-tool-film>)
+
+<a id="dark-lord-burning-eclipse"></a>
+
+## Dark lord under a burning eclipse
+
+[![Dark lord under a burning eclipse](<https://pbs.twimg.com/amplify_video_thumb/2107691146357133312/img/f94WTQml7XwlBm9a.jpg>)](<https://x.com/ai_with_shah/status/2107691228259357145>)
+
+A fantasy character clip is attributed to Grok Imagine inside ImagineArt by its creator.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use an original character silhouette and animate the eclipse and fabric with restrained movement.
+
+**Shared by:** [Shah](<https://x.com/ai_with_shah>)
+
+[Original post on X](<https://x.com/ai_with_shah/status/2107691228259357145>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#dark-lord-burning-eclipse>)
 
 ## Contributing
 
