@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **64 examples**, with collection entries reviewed through **2026-10-07**.
+The collection currently contains **78 examples**, with collection entries reviewed through **2026-10-08**.
 
 ## How to use these prompts
 
@@ -81,6 +81,20 @@ The collection currently contains **64 examples**, with collection entries revie
 - [Anime reference-frame experiment](<#anime-start-middle-end-frame-experiment>)
 - [Okinawa garden with a multi-tool workflow](<#okinawa-garden-multi-tool-film>)
 - [Dark lord under a burning eclipse](<#dark-lord-burning-eclipse>)
+- [Last seaside walk](<#last-seaside-walk>)
+- [The Torn Veil fantasy lore](<#torn-veil-fantasy-lore>)
+- [Grok Bot music video revision](<#grok-bot-music-video-revision>)
+- [Vintage tango music video](<#vintage-tango-music-video>)
+- [Panda-hood character dance](<#panda-hood-character-dance>)
+- [Cats serve tea during reading](<#cats-serve-tea-reading>)
+- [Dance and lyric compositing](<#dance-and-lyric-compositing>)
+- [Anime cat spin animation](<#anime-cat-spin-animation>)
+- [Steaming ramen short](<#steaming-ramen-short>)
+- [Green character German video](<#green-character-german-video>)
+- [Anime creature greeting](<#anime-creature-greeting>)
+- [Panda rollercoaster](<#panda-rollercoaster>)
+- [Royal tent warning dialogue](<#royal-tent-warning-dialogue>)
+- [An 89-clip film workflow](<#eighty-nine-clip-film-workflow>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -1550,6 +1564,303 @@ Use an original character silhouette and animate the eclipse and fabric with res
 **Shared by:** [Shah](<https://x.com/ai_with_shah>)
 
 [Original post on X](<https://x.com/ai_with_shah/status/2107691228259357145>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#dark-lord-burning-eclipse>)
+
+<a id="last-seaside-walk"></a>
+
+## Last seaside walk
+
+[![Last seaside walk](<https://pbs.twimg.com/amplify_video_thumb/2108071982826999808/img/fpiz_VIhvbi51v_O.jpg>)](<https://x.com/Ajianzakka/status/2108072647594737988>)
+
+Two figures share a quiet walk along a rocky shore in a Grok Imagine result with an understated emotional caption.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a restrained action and a consistent shoreline setting for a quiet scene.
+
+**Shared by:** [MVLover](<https://x.com/Ajianzakka>)
+
+[Original post on X](<https://x.com/Ajianzakka/status/2108072647594737988>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#last-seaside-walk>)
+
+<a id="torn-veil-fantasy-lore"></a>
+
+## The Torn Veil fantasy lore
+
+[![The Torn Veil fantasy lore](<https://pbs.twimg.com/amplify_video_thumb/2108047376178991104/img/eiAFelE30kmbybev.jpg>)](<https://x.com/alanrknight74/status/2108047837892342071>)
+
+An author uses Grok Imagine to visualize the relationship between the Faceless and Pravu for a book-in-progress.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Describe the relationship and setting before specifying character motion.
+
+**Shared by:** [Alun R Knight](<https://x.com/alanrknight74>)
+
+[Original post on X](<https://x.com/alanrknight74/status/2108047837892342071>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#torn-veil-fantasy-lore>)
+
+<a id="grok-bot-music-video-revision"></a>
+
+## Grok Bot music video revision
+
+[![Grok Bot music video revision](<https://pbs.twimg.com/amplify_video_thumb/2108047060364668928/img/0rOuEPtajz5YFMoI.jpg>)](<https://x.com/NaturalSenseIAm/status/2108047285057884564>)
+
+The author reports replacing slideshow-like scenes with Grok Imagine animation and editing them to an existing song.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Review scene motion before cutting individual clips to your own song.
+
+**Shared by:** [Natural Sense I Am](<https://x.com/NaturalSenseIAm>)
+
+[Original post on X](<https://x.com/NaturalSenseIAm/status/2108047285057884564>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#grok-bot-music-video-revision>)
+
+<a id="vintage-tango-music-video"></a>
+
+## Vintage tango music video
+
+[![Vintage tango music video](<https://pbs.twimg.com/amplify_video_thumb/2108021014135533568/img/uvQTAhqF_OMLjIKu.jpg>)](<https://x.com/omusubihitotu/status/2108021582312706534>)
+
+A tango-inspired music video credits Grok Imagine for visuals and Suno for music.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build period-inspired performance clips, then edit them around separately produced music.
+
+**Shared by:** [おむすびひとつ](<https://x.com/omusubihitotu>)
+
+[Original post on X](<https://x.com/omusubihitotu/status/2108021582312706534>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#vintage-tango-music-video>)
+
+<a id="panda-hood-character-dance"></a>
+
+## Panda-hood character dance
+
+[![Panda-hood character dance](<https://pbs.twimg.com/amplify_video_thumb/2108016981500915712/img/e8V4HQUHWER1TF2J.jpg>)](<https://x.com/fe_yukichi/status/2108017013096624577>)
+
+A creator reports making a character dance from a single standing illustration and simple instructions.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with a clear full-body reference and ask for one short dance action.
+
+**Shared by:** [ゆきち/ AI](<https://x.com/fe_yukichi>)
+
+[Original post on X](<https://x.com/fe_yukichi/status/2108017013096624577>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#panda-hood-character-dance>)
+
+<a id="cats-serve-tea-reading"></a>
+
+## Cats serve tea during reading
+
+[![Cats serve tea during reading](<https://pbs.twimg.com/amplify_video_thumb/2108005487103168512/img/0Ao235YyvGgMNxWc.jpg>)](<https://x.com/hy1gXFIxWRcFRKR/status/2108005505142870412>)
+
+A short Japanese prompt places two cats making tea beside a woman reading on a long autumn night.
+
+**Model:** Grok Imagine Video
+
+```text
+秋の夜長、茶トラの猫と三毛猫がお茶を入れてくれる
+人間の女子は、読書をしているシーン
+```
+
+### How to adapt it
+
+Replace the animals or drink while preserving the quiet reading activity.
+
+**Shared by:** [りえきち🐈🩷（お花だいすきです。）](<https://x.com/hy1gXFIxWRcFRKR>)
+
+[Original post on X](<https://x.com/hy1gXFIxWRcFRKR/status/2108005505142870412>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#cats-serve-tea-reading>)
+
+<a id="dance-and-lyric-compositing"></a>
+
+## Dance and lyric compositing
+
+[![Dance and lyric compositing](<https://pbs.twimg.com/amplify_video_thumb/2108001568238997504/img/5xw9_XGhurQLtolS.jpg>)](<https://x.com/QgnVmh/status/2108001731619823867>)
+
+A multi-tool music video uses Grok Imagine dances, Suno music, generated character images, and separate lyric compositing.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Generate dance clips separately from lyric graphics, then align both in the edit.
+
+**Shared by:** [居留守](<https://x.com/QgnVmh>)
+
+[Original post on X](<https://x.com/QgnVmh/status/2108001731619823867>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#dance-and-lyric-compositing>)
+
+<a id="anime-cat-spin-animation"></a>
+
+## Anime cat spin animation
+
+[![Anime cat spin animation](<https://pbs.twimg.com/amplify_video_thumb/2107992083491643392/img/9sQypAETFgw8Uyrb.jpg>)](<https://x.com/yumesyokunin/status/2107992146901139764>)
+
+An anime-style character and cat appear in a playful Grok Imagine animation shared with a spinning caption.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a simple character silhouette and one clearly described motion.
+
+**Shared by:** [夢職人](<https://x.com/yumesyokunin>)
+
+[Original post on X](<https://x.com/yumesyokunin/status/2107992146901139764>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#anime-cat-spin-animation>)
+
+<a id="steaming-ramen-short"></a>
+
+## Steaming ramen short
+
+[![Steaming ramen short](<https://pbs.twimg.com/amplify_video_thumb/2107989662547824640/img/EwdYJr055obqNXEx.jpg>)](<https://x.com/dhythm_dev/status/2107989850268070083>)
+
+A creator practices Grok Imagine short-video generation with a steaming bowl of ramen.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the bowl fixed and request subtle steam motion for a food-focused shot.
+
+**Shared by:** [でぃずむ／Yuta Okada](<https://x.com/dhythm_dev>)
+
+[Original post on X](<https://x.com/dhythm_dev/status/2107989850268070083>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#steaming-ramen-short>)
+
+<a id="green-character-german-video"></a>
+
+## Green character German video
+
+[![Green character German video](<https://pbs.twimg.com/amplify_video_thumb/2107711962184368128/img/QNgDJqUneb47vVfZ.jpg>)](<https://x.com/DjangoDLM/status/2107712024461390057>)
+
+A creator shares a green-faced character clip generated with Grok Imagine and describes it as a German version.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Specify the dialogue language and check the resulting speech against your script.
+
+**Shared by:** [Gernot Seifert](<https://x.com/DjangoDLM>)
+
+[Original post on X](<https://x.com/DjangoDLM/status/2107712024461390057>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#green-character-german-video>)
+
+<a id="anime-creature-greeting"></a>
+
+## Anime creature greeting
+
+[![Anime creature greeting](<https://pbs.twimg.com/amplify_video_thumb/2107710964967829504/img/phn8JYNK-HCqLL0t.jpg>)](<https://x.com/animesurekatari/status/2107710990876065950>)
+
+A tiny Japanese greeting prompt accompanies a Grok Imagine clip of an anime creature.
+
+**Model:** Grok Imagine Video
+
+```text
+くこんにちは😃
+```
+
+### How to adapt it
+
+Keep the greeting brief and use your own creature design as the reference.
+
+**Shared by:** [アニメ語りスレまとめ](<https://x.com/animesurekatari>)
+
+[Original post on X](<https://x.com/animesurekatari/status/2107710990876065950>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#anime-creature-greeting>)
+
+<a id="panda-rollercoaster"></a>
+
+## Panda rollercoaster
+
+[![Panda rollercoaster](<https://pbs.twimg.com/amplify_video_thumb/2107697964894523392/img/P-y_-zpdIaWG107Q.jpg>)](<https://x.com/KaTbgsJhym8493/status/2107698004618883317>)
+
+A Grok Imagine result shows a panda riding a rollercoaster, shared with a Japanese encouragement caption.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Combine an expressive animal with a clear ride action and a close camera position.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2107698004618883317>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#panda-rollercoaster>)
+
+<a id="royal-tent-warning-dialogue"></a>
+
+## Royal tent warning dialogue
+
+[![Royal tent warning dialogue](<https://pbs.twimg.com/amplify_video_thumb/2107697675533537280/img/B3R-twcz15d6p6bn.jpg>)](<https://x.com/KimMaria8ry/status/2107697704939696463>)
+
+A detailed English prompt directs a tense royal conversation, respectful bows, camera movement, and a character exit.
+
+**Model:** Grok Imagine Video
+
+```text
+Valeria turns and faces the opening of the Royal Tent.  Clearly disappointed that her appointed errand was to no avail.  She speaks with dejection in her voice.  Her voice is cold.  Her posture stony.
+
+She says:  "Artun, I will not argue with you.  Our lands are neighbors to each other.  But I will NOT allow you to destroy Alteppia.  If there is a battle for the future of this Planet, you know whose side I will be on!!"
+
+She then turns and bows low before Artun with respect.  The Wise Men of the Council dressed in their silver and blue robes stand and bow before the Queen of Kelaith in respect. 
+
+Artun warns Valeria quietly:  "Do not start a War, because you cannot get your way."
+
+Valeria smiles, bows and leaves the Royal Tent.
+
+"Overcast diffused light", 85 mm lens treatment,  camera pans to the left,   "slow dolly-in", atmospheric depth of field, volumetric lighting, parallax effect, glow effect, cross fade, high resolution output, native audio generation, --ar 16 9, ultra realistic,  ultra cinematic 4k style film
+```
+
+### How to adapt it
+
+Shorten the exchange or divide it into separate clips, then check speaker changes and camera continuity.
+
+**Shared by:** [Kim Maria](<https://x.com/KimMaria8ry>)
+
+[Original post on X](<https://x.com/KimMaria8ry/status/2107697704939696463>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#royal-tent-warning-dialogue>)
+
+<a id="eighty-nine-clip-film-workflow"></a>
+
+## An 89-clip film workflow
+
+[![An 89-clip film workflow](<https://pbs.twimg.com/amplify_video_thumb/2107685525712941057/img/HKQUSMe_bG3aZLIr.jpg>)](<https://x.com/Legion_Forged/status/2107685753480441960>)
+
+The creator reports combining 89 Grok Imagine text-to-video clips with Grok Bot assistance and Sora-created audio.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan short clips as separate shots and assemble them with independently prepared audio.
+
+**Shared by:** [Legion Forged Gaming](<https://x.com/Legion_Forged>)
+
+[Original post on X](<https://x.com/Legion_Forged/status/2107685753480441960>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#eighty-nine-clip-film-workflow>)
 
 ## Contributing
 
