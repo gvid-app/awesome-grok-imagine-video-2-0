@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **78 examples**, with collection entries reviewed through **2026-10-08**.
+The collection currently contains **92 examples**, with collection entries reviewed through **2026-10-10**.
 
 ## How to use these prompts
 
@@ -95,6 +95,20 @@ The collection currently contains **78 examples**, with collection entries revie
 - [Panda rollercoaster](<#panda-rollercoaster>)
 - [Royal tent warning dialogue](<#royal-tent-warning-dialogue>)
 - [An 89-clip film workflow](<#eighty-nine-clip-film-workflow>)
+- [Kitten petting with Japanese dialogue](<#kitten-petting-japanese-dialogue>)
+- [Washi wedding dress dialogue](<#washi-wedding-dress-dialogue>)
+- [Typhoon dance with a short prompt](<#typhoon-dance-short-prompt>)
+- [A one-word Japanese greeting](<#japanese-greeting-short-prompt>)
+- [Facing a giant wave](<#facing-a-giant-wave>)
+- [An imaginary car showcase](<#imaginary-car-showcase>)
+- [French bulldogs rooftop comedy](<#french-bulldogs-rooftop-comedy>)
+- [A Model Y across five worlds](<#model-y-five-worlds-workflow>)
+- [Fennec animation with two models](<#fennec-grok-flow-comparison>)
+- [Bathroom character motion](<#bathroom-character-motion>)
+- [Agentic music video workflow](<#agentic-music-video-workflow>)
+- [A rainy bus stop portrait](<#rainy-bus-stop-portrait>)
+- [Samurai and puppy on an autumn bridge](<#samurai-puppy-autumn-bridge>)
+- [Autumn ambient care music video](<#autumn-care-music-workflow>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -1861,6 +1875,311 @@ Plan short clips as separate shots and assemble them with independently prepared
 **Shared by:** [Legion Forged Gaming](<https://x.com/Legion_Forged>)
 
 [Original post on X](<https://x.com/Legion_Forged/status/2107685753480441960>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#eighty-nine-clip-film-workflow>)
+
+<a id="kitten-petting-japanese-dialogue"></a>
+
+## Kitten petting with Japanese dialogue
+
+[![Kitten petting with Japanese dialogue](<https://pbs.twimg.com/amplify_video_thumb/2108747541735178240/img/rez1xJ3zF7e83zRZ.jpg>)](<https://x.com/HaluAIArt/status/2108761943096070220>)
+
+A Japanese prompt combines kitten petting, a slow camera push-in, gentle dialogue and acoustic background music.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+【映像指示】
+画像の女性が優しく微笑みながら膝の上の子猫の頭をなでる。子猫は気持ちよさそうに目を細めて「ニャー」と鳴く。カメラがゆっくりと女性の表情にズームインし、女性がカメラ目線でやわらかく語りかける。陽光が差し込むあたたかく平和な雰囲気。
+【台詞・音声】
+女性の声（やさしく穏やかなトーン）：「ねぇ、今日はどこにも行かずに…ずっとこうしていようか。」
+【効果音・BGM】
+猫のゴロゴロ音、アコースティックギターの静かなBGM
+```
+
+### How to adapt it
+
+Use a clear petting action and one spoken line; check the voice and animal sounds separately.
+
+**Shared by:** [はる](<https://x.com/HaluAIArt>)
+
+[Original post on X](<https://x.com/HaluAIArt/status/2108761943096070220>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#kitten-petting-japanese-dialogue>)
+
+<a id="washi-wedding-dress-dialogue"></a>
+
+## Washi wedding dress dialogue
+
+[![Washi wedding dress dialogue](<https://pbs.twimg.com/amplify_video_thumb/2108445685196652544/img/deEeilJ76hBfbCtM.jpg>)](<https://x.com/HaluAIArt/status/2108505252844515414>)
+
+A Japanese bridal prompt requests two reference images, a slow facial zoom, piano music and a spoken question.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+映像解説: 純白の花飾りドレスとベールを身に纏った綺麗な女性が、静かにカメラを見つめた後、優しく微笑んで語りかける8秒間の動画。人物の顔、髪型、衣装、背景は@Image1、@Image2を完全維持。BGMは静かなピアノ曲。
+
+カメラワーク: @Image1からゆっくりと@Image2の顔元へズームイン。
+
+セリフ（日本語字幕 / 音声）: 「ねぇ……本当に、私でいいの？……ううん、世界で一番幸せにしてね？」
+```
+
+### How to adapt it
+
+Replace both reference images with your own matching portraits and review the zoom and speech timing.
+
+**Shared by:** [はる](<https://x.com/HaluAIArt>)
+
+[Original post on X](<https://x.com/HaluAIArt/status/2108505252844515414>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#washi-wedding-dress-dialogue>)
+
+<a id="typhoon-dance-short-prompt"></a>
+
+## Typhoon dance with a short prompt
+
+[![Typhoon dance with a short prompt](<https://pbs.twimg.com/amplify_video_thumb/2108762598154055680/img/Qh4PgHw74o2oqWSk.jpg>)](<https://x.com/ykura/status/2108762832598962587>)
+
+A brief Japanese Grok Imagine prompt accompanies a character dance clip.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+台風ダンスらしい。
+```
+
+### How to adapt it
+
+Compare a short motion cue with a more explicit direction and speed using the same reference.
+
+**Shared by:** [( ´∀｀)くらもと@yoko](<https://x.com/ykura>)
+
+[Original post on X](<https://x.com/ykura/status/2108762832598962587>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#typhoon-dance-short-prompt>)
+
+<a id="japanese-greeting-short-prompt"></a>
+
+## A one-word Japanese greeting
+
+[![A one-word Japanese greeting](<https://pbs.twimg.com/amplify_video_thumb/2108729884877230080/img/twpwO9_6w1t7ygSU.jpg>)](<https://x.com/animesurekatari/status/2108729935603114389>)
+
+A short Japanese greeting prompt accompanies an animated character video.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+こんにちは😊
+```
+
+### How to adapt it
+
+Try one greeting with your own character reference and inspect mouth movement and voice delivery.
+
+**Shared by:** [アニメ語りスレまとめ](<https://x.com/animesurekatari>)
+
+[Original post on X](<https://x.com/animesurekatari/status/2108729935603114389>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#japanese-greeting-short-prompt>)
+
+<a id="facing-a-giant-wave"></a>
+
+## Facing a giant wave
+
+[![Facing a giant wave](<https://pbs.twimg.com/amplify_video_thumb/2108778114688098304/img/On6SThxQz27jzMj0.jpg>)](<https://x.com/ai_with_shah/status/2108778194560295222>)
+
+The creator attributes this towering-wave scene to Grok Imagine used inside ImagineArt.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep a small foreground subject and a large approaching wave to explore environmental scale.
+
+**Shared by:** [Shah](<https://x.com/ai_with_shah>)
+
+[Original post on X](<https://x.com/ai_with_shah/status/2108778194560295222>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#facing-a-giant-wave>)
+
+<a id="imaginary-car-showcase"></a>
+
+## An imaginary car showcase
+
+[![An imaginary car showcase](<https://pbs.twimg.com/amplify_video_thumb/2108782799419527168/img/T6frJWmxJQwP8Mpa.jpg>)](<https://x.com/noranekomaneki/status/2108782911969435983>)
+
+A fictional vehicle clip is explicitly labeled as generated with Grok Imagine by its creator.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with your own vehicle design and specify a single camera move around its distinctive details.
+
+**Shared by:** [のらねこ♂](<https://x.com/noranekomaneki>)
+
+[Original post on X](<https://x.com/noranekomaneki/status/2108782911969435983>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#imaginary-car-showcase>)
+
+<a id="french-bulldogs-rooftop-comedy"></a>
+
+## French bulldogs rooftop comedy
+
+[![French bulldogs rooftop comedy](<https://pbs.twimg.com/media/HUPCAuOWoAAPGWB.jpg>)](<https://x.com/PamMktgNut/status/2108742460373381289>)
+
+The creator describes two French bulldogs on a roof in a comedy episode co-created with Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Give each animal one readable action and test the timing of the visual gag in a short shot.
+
+**Shared by:** [Pam Moore](<https://x.com/PamMktgNut>)
+
+[Original post on X](<https://x.com/PamMktgNut/status/2108742460373381289>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#french-bulldogs-rooftop-comedy>)
+
+<a id="model-y-five-worlds-workflow"></a>
+
+## A Model Y across five worlds
+
+[![A Model Y across five worlds](<https://pbs.twimg.com/amplify_video_thumb/2108733461330628608/img/HjO-V6HNRsoQa0Aa.jpg>)](<https://x.com/bradshannon/status/2108733554301522011>)
+
+The creator reports using two car photos, Grok Imagine Video 1.5 and Grok Bot to assemble five worlds with music.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use your own car photos as continuity references, then edit separate environments to a prepared soundtrack.
+
+**Shared by:** [bradshannon](<https://x.com/bradshannon>)
+
+[Original post on X](<https://x.com/bradshannon/status/2108733554301522011>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#model-y-five-worlds-workflow>)
+
+<a id="fennec-grok-flow-comparison"></a>
+
+## Fennec animation with two models
+
+[![Fennec animation with two models](<https://pbs.twimg.com/amplify_video_thumb/2108735305306288128/img/XVFoMTe1TtyD1ZN3.jpg>)](<https://x.com/okagedog7/status/2108737525301055666>)
+
+The creator combines an anime-style fennec reference animation: Grok Imagine first, Google Flow second.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Test the same reference in separate clips and keep each model contribution labeled when editing them together.
+
+**Shared by:** [おかげイヌ７](<https://x.com/okagedog7>)
+
+[Original post on X](<https://x.com/okagedog7/status/2108737525301055666>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#fennec-grok-flow-comparison>)
+
+<a id="bathroom-character-motion"></a>
+
+## Bathroom character motion
+
+[![Bathroom character motion](<https://pbs.twimg.com/amplify_video_thumb/2108694614580543488/img/k90z_djlIbbzBwWg.jpg>)](<https://x.com/mitsunarinoai/status/2108694776904356163>)
+
+The creator identifies this bathroom character scene as a ten-second Grok Imagine video with movement and sink-side objects.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the camera steady and give the character one action while checking nearby objects for continuity.
+
+**Shared by:** [みつなり](<https://x.com/mitsunarinoai>)
+
+[Original post on X](<https://x.com/mitsunarinoai/status/2108694776904356163>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#bathroom-character-motion>)
+
+<a id="agentic-music-video-workflow"></a>
+
+## Agentic music video workflow
+
+[![Agentic music video workflow](<https://pbs.twimg.com/amplify_video_thumb/2041638247340953600/img/lVnOSlNnHeQcTtPi.jpg>)](<https://x.com/muse_inmotion/status/2108739366621458651>)
+
+The source credits Grok Imagine, Suno and CapCut for an edited music video titled Agentic Workflows in the Dark.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Generate individual visual shots, prepare audio separately and assemble both in a video editor.
+
+**Shared by:** [Sara](<https://x.com/muse_inmotion>)
+
+[Original post on X](<https://x.com/muse_inmotion/status/2108739366621458651>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#agentic-music-video-workflow>)
+
+<a id="rainy-bus-stop-portrait"></a>
+
+## A rainy bus stop portrait
+
+[![A rainy bus stop portrait](<https://pbs.twimg.com/amplify_video_thumb/2108439299440181248/img/xYWroR_hrUEpHXcu.jpg>)](<https://x.com/KaTbgsJhym8493/status/2108633598081241582>)
+
+A rain-and-umbrella character scene is shared with Grok Imagine attribution; the caption is poetic rather than a disclosed prompt.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Specify the rain, umbrella and one small gesture to keep the shot focused on atmosphere.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2108633598081241582>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#rainy-bus-stop-portrait>)
+
+<a id="samurai-puppy-autumn-bridge"></a>
+
+## Samurai and puppy on an autumn bridge
+
+[![Samurai and puppy on an autumn bridge](<https://pbs.twimg.com/amplify_video_thumb/2108796102707392512/img/tY2KQBroOI7Nbaoz.jpg>)](<https://x.com/KaTbgsJhym8493/status/2108796135850881532>)
+
+An autumn bridge scene pairs a samurai character with a puppy in a video tagged Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use one walking action and controlled leaf motion so the character and animal remain readable.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2108796135850881532>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#samurai-puppy-autumn-bridge>)
+
+<a id="autumn-care-music-workflow"></a>
+
+## Autumn ambient care music video
+
+[![Autumn ambient care music video](<https://pbs.twimg.com/amplify_video_thumb/2108479778072432640/img/_xkMJnPD5D4PJH5k.jpg>)](<https://x.com/omusubihitotu/status/2108481181524312072>)
+
+The creator credits Grok Imagine visuals and Suno music for an autumn ambient piece described as having no vocals or sudden changes.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Prepare a gentle soundtrack independently and edit calm visual shots without abrupt transitions.
+
+**Shared by:** [おむすびひとつ](<https://x.com/omusubihitotu>)
+
+[Original post on X](<https://x.com/omusubihitotu/status/2108481181524312072>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#autumn-care-music-workflow>)
 
 ## Contributing
 
