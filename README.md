@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **92 examples**, with collection entries reviewed through **2026-10-10**.
+The collection currently contains **106 examples**, with collection entries reviewed through **2026-10-12**.
 
 ## How to use these prompts
 
@@ -109,6 +109,20 @@ The collection currently contains **92 examples**, with collection entries revie
 - [A rainy bus stop portrait](<#rainy-bus-stop-portrait>)
 - [Samurai and puppy on an autumn bridge](<#samurai-puppy-autumn-bridge>)
 - [Autumn ambient care music video](<#autumn-care-music-workflow>)
+- [A lollipop instead of a deal](<#lollipop-dialogue-short-prompt>)
+- [A three-word reaction prompt](<#wow-reaction-short-prompt>)
+- [Steampunk observatory short prompt](<#steampunk-robot-observatory>)
+- [Moon assignment with a fantasy portrait](<#assigned-to-moon-short-prompt>)
+- [Butterfly animation](<#butterfly-grok-animation>)
+- [A helmet in a submarine corridor](<#submarine-corridor-helmet>)
+- [Night walk among festival lanterns](<#lantern-festival-night-walk>)
+- [Halloween dance prompt comparison](<#halloween-dance-language-comparison>)
+- [Video 1.5 agent launch showcase](<#video-15-agent-official-showcase>)
+- [Mecha character final-frame continuation](<#mecha-girl-final-frame-continuation>)
+- [Data-leak explainer with external narration](<#data-leak-explainer-multi-tool>)
+- [An unexpected character song](<#unexpected-character-song>)
+- [Conan and Behemoth figure battle](<#conan-behemoth-figure-battle>)
+- [Night gaze with a ChatGPT image workflow](<#night-gaze-chatgpt-reference>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -2180,6 +2194,302 @@ Prepare a gentle soundtrack independently and edit calm visual shots without abr
 **Shared by:** [おむすびひとつ](<https://x.com/omusubihitotu>)
 
 [Original post on X](<https://x.com/omusubihitotu/status/2108481181524312072>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#autumn-care-music-workflow>)
+
+<a id="lollipop-dialogue-short-prompt"></a>
+
+## A lollipop instead of a deal
+
+[![A lollipop instead of a deal](<https://pbs.twimg.com/amplify_video_thumb/2109490612605009920/img/LELV3OcQ_Jw3nCiL.jpg>)](<https://x.com/RoseSeguin26252/status/2109490631454118104>)
+
+A synthetic political dialogue clip uses a short English prompt offering a lollipop instead of a deal.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `en`
+
+```text
+No I’m not making a deal with you   Have a lollipop....
+```
+
+### How to adapt it
+
+Replace the offer and keep the spoken line brief. Specify who speaks and provide a reference if the character matters.
+
+**Shared by:** [Rose Seguin. MCGA](<https://x.com/@RoseSeguin26252>)
+
+[Original post on X](<https://x.com/RoseSeguin26252/status/2109490631454118104>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#lollipop-dialogue-short-prompt>)
+
+<a id="wow-reaction-short-prompt"></a>
+
+## A three-word reaction prompt
+
+[![A three-word reaction prompt](<https://pbs.twimg.com/amplify_video_thumb/2109488728657862656/img/H3AvVz8nVStk1DbL.jpg>)](<https://x.com/Deeezyp7vzk/status/2109488742633541911>)
+
+A creator shares a Grok Imagine clip with the three-word prompt “Wow that’s crazy”.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `en`
+
+```text
+Wow that’s crazy
+```
+
+### How to adapt it
+
+Try a short reaction line, then add a speaker, gesture and camera position for more control.
+
+**Shared by:** [yo von🍞](<https://x.com/@Deeezyp7vzk>)
+
+[Original post on X](<https://x.com/Deeezyp7vzk/status/2109488742633541911>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#wow-reaction-short-prompt>)
+
+<a id="steampunk-robot-observatory"></a>
+
+## Steampunk observatory short prompt
+
+[![Steampunk robot observatory](<https://pbs.twimg.com/amplify_video_thumb/2109488034957955072/img/GAvYPNRjGPCrQ_nE.jpg>)](<https://x.com/lighthouse42f/status/2109488113672392931>)
+
+A fantasy character portrait accompanies the short prompt “Steampunk robot observatory”.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `en`
+
+```text
+Steampunk robot observatory
+```
+
+### How to adapt it
+
+Add one clear robot action and a slow camera move to the observatory setting.
+
+**Shared by:** [Cathy has this](<https://x.com/@lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2109488113672392931>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#steampunk-robot-observatory>)
+
+<a id="assigned-to-moon-short-prompt"></a>
+
+## Moon assignment with a fantasy portrait
+
+[![Assigned to the moon](<https://pbs.twimg.com/amplify_video_thumb/2109486054646669312/img/rfqf4vK5Y8kYOEMp.jpg>)](<https://x.com/lighthouse42f/status/2109486068588523791>)
+
+A fantasy character clip uses the short prompt “Was assigned to moon”; the preview does not establish a lunar setting.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `en`
+
+```text
+Was assigned to moon
+```
+
+### How to adapt it
+
+Name the subject and one task on the lunar surface; add a reference image to guide appearance.
+
+**Shared by:** [Cathy has this](<https://x.com/@lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2109486068588523791>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#assigned-to-moon-short-prompt>)
+
+<a id="butterfly-grok-animation"></a>
+
+## Butterfly animation
+
+[![Butterfly animation](<https://pbs.twimg.com/amplify_video_thumb/2109488718700494848/img/USy9riq8zYeqxkrZ.jpg>)](<https://x.com/unplayed_keys/status/2109488760861708444>)
+
+A creator attributes this butterfly-themed video to Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with a butterfly reference and describe wing movement, background and a single camera move.
+
+**Shared by:** [Unplayed Keys](<https://x.com/@unplayed_keys>)
+
+[Original post on X](<https://x.com/unplayed_keys/status/2109488760861708444>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#butterfly-grok-animation>)
+
+<a id="submarine-corridor-helmet"></a>
+
+## A helmet in a submarine corridor
+
+[![A helmet in a submarine corridor](<https://pbs.twimg.com/amplify_video_thumb/2109294677799452672/img/FsGoEfZcHhDenO3r.jpg>)](<https://x.com/KaTbgsJhym8493/status/2109294705150443767>)
+
+A character carries a helmet through a dim metallic corridor in a Grok Imagine-tagged video.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a narrow corridor reference, a walking action and blue panel lighting. Keep the shot simple.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/@KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2109294705150443767>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#submarine-corridor-helmet>)
+
+<a id="lantern-festival-night-walk"></a>
+
+## Night walk among festival lanterns
+
+[![Night walk among festival lanterns](<https://pbs.twimg.com/amplify_video_thumb/2109285017373564928/img/mfXgmSs-gGjpqqLM.jpg>)](<https://x.com/KaTbgsJhym8493/status/2109285054497403293>)
+
+A Grok Imagine-tagged night scene pairs a traditional character with illuminated festival figures.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Describe one character walking past glowing lanterns; define the light colors and camera distance.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/@KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2109285054497403293>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#lantern-festival-night-walk>)
+
+<a id="halloween-dance-language-comparison"></a>
+
+## Halloween dance prompt comparison
+
+[![Halloween dance prompt comparison](<https://pbs.twimg.com/amplify_video_thumb/2109276809036759040/img/6-1lrfSywrW5LmBF.jpg>)](<https://x.com/kbzm_jp1/status/2109277776440353268>)
+
+A creator compares detailed English and one-line Japanese instructions for Halloween dancing.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Compare two prompts using the same reference. State whether dialogue is wanted; the author reports adding a no-dialogue instruction.
+
+**Shared by:** [コバンザメ　＄AIマネタイズ＄](<https://x.com/@kbzm_jp1>)
+
+[Original post on X](<https://x.com/kbzm_jp1/status/2109277776440353268>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#halloween-dance-language-comparison>)
+
+<a id="video-15-agent-official-showcase"></a>
+
+## Video 1.5 agent launch showcase
+
+[![Video 1.5 agent launch showcase](<https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg>)](<https://x.com/grok/status/2096298105213952178>)
+
+An official Grok post introduces the Imagine Video 1.5 agent and shows its multi-shot storytelling showcase.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan distinct shots around one subject and check continuity. Treat this as a showcase rather than a disclosed generation recipe.
+
+**Shared by:** [Grok](<https://x.com/@grok>)
+
+[Original post on X](<https://x.com/grok/status/2096298105213952178>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#video-15-agent-official-showcase>)
+
+<a id="mecha-girl-final-frame-continuation"></a>
+
+## Mecha character final-frame continuation
+
+[![Mecha character final-frame continuation](<https://pbs.twimg.com/amplify_video_thumb/2108554980437417984/img/wdxobFIB6X2pQaUp.jpg>)](<https://x.com/munou_ac/status/2108573198786678987>)
+
+A creator describes generating a mecha-character clip, extracting its final frame and generating a continuation.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Generate a short clip, export its final frame and use that frame for the next shot. Compare pose and framing across the join.
+
+**Shared by:** [てんねん](<https://x.com/@munou_ac>)
+
+[Original post on X](<https://x.com/munou_ac/status/2108573198786678987>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#mecha-girl-final-frame-continuation>)
+
+<a id="data-leak-explainer-multi-tool"></a>
+
+## Data-leak explainer with external narration
+
+[![Data-leak explainer with external narration](<https://pbs.twimg.com/amplify_video_thumb/2108564315649495040/img/sqAT_PG1YtRycRZj.jpg>)](<https://x.com/old_pgmrs_will/status/2108565389584257245>)
+
+A creator reports Grok Imagine visuals and Eleven v4 narration in an explainer orchestrated by Grok Bot.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Outline the explainer first, generate background shots and add separately recorded narration. Verify factual claims before publishing.
+
+**Shared by:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](<https://x.com/@old_pgmrs_will>)
+
+[Original post on X](<https://x.com/old_pgmrs_will/status/2108565389584257245>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#data-leak-explainer-multi-tool>)
+
+<a id="unexpected-character-song"></a>
+
+## An unexpected character song
+
+[![An unexpected character song](<https://pbs.twimg.com/amplify_video_thumb/2108558904527663104/img/_P9kkMUSq50s-0OE.jpg>)](<https://x.com/yumesyokunin/status/2108559157318291772>)
+
+A creator shares a Grok Imagine character video and reports that it unexpectedly started singing.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Define whether the character sings, speaks or stays silent. Review audio and lip movement alongside the visuals.
+
+**Shared by:** [夢職人](<https://x.com/@yumesyokunin>)
+
+[Original post on X](<https://x.com/yumesyokunin/status/2108559157318291772>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#unexpected-character-song>)
+
+<a id="conan-behemoth-figure-battle"></a>
+
+## Conan and Behemoth figure battle
+
+[![Conan and Behemoth figure battle](<https://pbs.twimg.com/amplify_video_thumb/2108403078211022848/img/31OQC5W-i_Uz-bjd.jpg>)](<https://x.com/ban_chan7847/status/2108761943049994611>)
+
+A creator animates a fantasy-figure confrontation in a Grok Imagine-tagged video.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use your own character references, one attack and a readable reaction. Keep the combat and camera instructions short.
+
+**Shared by:** [ばんちゃんねる](<https://x.com/@ban_chan7847>)
+
+[Original post on X](<https://x.com/ban_chan7847/status/2108761943049994611>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#conan-behemoth-figure-battle>)
+
+<a id="night-gaze-chatgpt-reference"></a>
+
+## Night gaze with a ChatGPT image workflow
+
+[![Night gaze with a ChatGPT image workflow](<https://pbs.twimg.com/amplify_video_thumb/2109247539270848512/img/SrEyOsGoDBE11Y9g.jpg>)](<https://x.com/Ema_Bonbon/status/2109283628513657266>)
+
+A night portrait video is tagged Grok Imagine and ChatGPT image generation by its creator.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Prepare a portrait reference, then describe subtle eye and head movement under consistent night lighting.
+
+**Shared by:** [∠だんだんありがと@めじゅ](<https://x.com/@Ema_Bonbon>)
+
+[Original post on X](<https://x.com/Ema_Bonbon/status/2109283628513657266>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#night-gaze-chatgpt-reference>)
 
 ## Contributing
 
