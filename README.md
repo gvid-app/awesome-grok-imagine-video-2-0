@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **106 examples**, with collection entries reviewed through **2026-10-12**.
+The collection currently contains **120 examples**, with collection entries reviewed through **2026-10-13**.
 
 ## How to use these prompts
 
@@ -123,6 +123,20 @@ The collection currently contains **106 examples**, with collection entries revi
 - [An unexpected character song](<#unexpected-character-song>)
 - [Conan and Behemoth figure battle](<#conan-behemoth-figure-battle>)
 - [Night gaze with a ChatGPT image workflow](<#night-gaze-chatgpt-reference>)
+- [A steampunk cupcake oven](<#steampunk-cupcake-oven-8726>)
+- [Guess the steampunk racetrack](<#guess-the-steampunk-racetrack-2199>)
+- [Industrial brass machinery](<#industrial-brass-machinery-0629>)
+- [Steampunk beauty parlor equipment](<#steampunk-beauty-parlor-6355>)
+- [Halloween zombie duo dance](<#halloween-zombie-duo-dance-8590>)
+- [Steampunk slot-car racing](<#steampunk-slot-car-racing-3566>)
+- [Pastel landscape with a giant robot](<#pastel-landscape-giant-robot-3817>)
+- [Martial arts under cherry blossoms](<#cherry-blossom-martial-arts-1328>)
+- [Anime character sound replacement](<#anime-character-sound-replacement-6410>)
+- [An ice-hockey contact scene](<#ice-hockey-contact-scene-4816>)
+- [A cat chasing a mouse](<#cat-chasing-mouse-3756>)
+- [Morning to evening to night](<#morning-evening-night-animation-8822>)
+- [VERA music video workflow](<#vera-latent-god-music-workflow-9468>)
+- [French bulldog training dance](<#french-bulldog-training-dance-9804>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -2490,6 +2504,322 @@ Prepare a portrait reference, then describe subtle eye and head movement under c
 **Shared by:** [∠だんだんありがと@めじゅ](<https://x.com/@Ema_Bonbon>)
 
 [Original post on X](<https://x.com/Ema_Bonbon/status/2109283628513657266>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#night-gaze-chatgpt-reference>)
+
+<a id="steampunk-cupcake-oven-8726"></a>
+
+## A steampunk cupcake oven
+
+[![A steampunk cupcake oven](<https://pbs.twimg.com/amplify_video_thumb/2109885896279592961/img/sx1ohdDUx_WJF1EU.jpg>)](<https://x.com/lighthouse42f/status/2109885914831048726>)
+
+A three-word prompt pairs a toy baking theme with brass gears, clocks and a cupcake display.
+
+**Model:** Grok Imagine Video
+
+```text
+Steampunk Easy Bake
+```
+
+### How to adapt it
+
+Combine a familiar household object with one material palette and a clear focal prop. Compare the supplied short prompt with the result.
+
+**Shared by:** [Cathy has this](<https://x.com/@lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2109885914831048726>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#steampunk-cupcake-oven-8726>)
+
+<a id="guess-the-steampunk-racetrack-2199"></a>
+
+## Guess the steampunk racetrack
+
+[![Guess the steampunk racetrack](<https://pbs.twimg.com/amplify_video_thumb/2109883360340480000/img/QO8cfdEkqkRDcbmQ.jpg>)](<https://x.com/lighthouse42f/status/2109883372944372199>)
+
+An open-ended four-word prompt accompanies a brass racetrack with miniature cars and oversized clocks.
+
+**Model:** Grok Imagine Video
+
+```text
+Guess what it is
+```
+
+### How to adapt it
+
+Use this as an ambiguity experiment. Add a named subject and action when you need a more predictable result.
+
+**Shared by:** [Cathy has this](<https://x.com/@lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2109883372944372199>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#guess-the-steampunk-racetrack-2199>)
+
+<a id="industrial-brass-machinery-0629"></a>
+
+## Industrial brass machinery
+
+[![Industrial brass machinery](<https://pbs.twimg.com/amplify_video_thumb/2109882302994259968/img/MjfHieki_dcKFNWI.jpg>)](<https://x.com/lighthouse42f/status/2109882316839620629>)
+
+A short industrial prompt accompanies dense brass machinery, exposed gears and steam in a workshop.
+
+**Model:** Grok Imagine Video
+
+```text
+Industrial pieces fun to do
+```
+
+### How to adapt it
+
+Specify one moving mechanism and keep the camera restrained so the machinery remains readable.
+
+**Shared by:** [Cathy has this](<https://x.com/@lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2109882316839620629>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#industrial-brass-machinery-0629>)
+
+<a id="steampunk-beauty-parlor-6355"></a>
+
+## Steampunk beauty parlor equipment
+
+[![Steampunk beauty parlor equipment](<https://pbs.twimg.com/amplify_video_thumb/2109881675102736384/img/x55h-tv7GZuBO-Kp.jpg>)](<https://x.com/lighthouse42f/status/2109881689497596355>)
+
+A short beauty-parlor prompt accompanies elaborate brass equipment in a dark vintage interior.
+
+**Model:** Grok Imagine Video
+
+```text
+Steam punk the old beauty parlor
+```
+
+### How to adapt it
+
+Name the salon fixture, its function and the desired movement to reduce ambiguity in an ornate setting.
+
+**Shared by:** [Cathy has this](<https://x.com/@lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2109881689497596355>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#steampunk-beauty-parlor-6355>)
+
+<a id="halloween-zombie-duo-dance-8590"></a>
+
+## Halloween zombie duo dance
+
+[![Halloween zombie duo dance](<https://pbs.twimg.com/amplify_video_thumb/2109743350224236544/img/mAKoEzx8iRGy4QfU.jpg>)](<https://x.com/splash_GL/status/2109773610827018590>)
+
+A detailed English prompt specifies two dancers, fixed positions, Japanese opening dialogue and beat-synced zooms.
+
+**Model:** Grok Imagine Video
+
+```text
+15s Halloween Zombie Duo Dance | 9:16 Vertical | Two Dancers | Fixed Background | Fixed Camera | Beat-Synced Zoom & Close-Up | Horror Trap Hip-Hop
+
+MUSIC / ENERGY:
+It begins right away with a conversation inviting someone to dance in Japanese, An intense beat that kicks in suddenly right from the start, 155 BPM horror trap hip-hop. Hard drums, heavy bass, High speed, sharp accents, energetic and dynamic.
+
+ABSOLUTE LOCK:
+Exactly two dancers only. Dancer A always stays on the LEFT, Dancer B always stays on the RIGHT. Same faces, bodies, hairstyles, outfits, positions, background, lighting, colors, and shadows throughout. No swapping, no crossing places, no morphing, no extra dancers, no cuts. Background never changes.
+
+Zombie Dance (Top Priority):
+Both dancers extend their arms straight out in front at shoulder height, bend their wrists precisely 90 degrees downward, and spread their fingers naturally and straight, unleashing an incredibly fast, aggressive, and high-energy "zombie dance." The performance features a sequence of movements including rapid "zombie steps" with stiff legs, explosive shoulder actions, intense chest pops, sharp head movements, powerful knee lifts, wide-kneed squats, sudden lunges, and vigorous, rhythmic body shaking.
+
+Use DOUBLE-TIME footwork at 155 BPM, rapid acceleration, abrupt freezes, explosive restarts, and hard beat accents.
+Include some sections where both dancers perform different dance moves at the same time while keeping the permanent zombie arm pose.
+
+DUO DANCE RULE:
+This is a duo dance, but they must not be perfectly synchronized all the time.
+They move in the same overall rhythm, but with slight timing offsets, alternating accents, and different body actions.
+
+FINISH(14.8-15s):
+The two of them strike a zombie pose, then blow a kiss to the camera together.
+
+APPEARANCE LOCK — ABSOLUTE PRIORITY:
+Preserve both dancers' original faces, natural skin tones, hairstyles, and makeup exactly as shown in the initial frame. No zombie makeup, horror makeup, corpse makeup, pale or gray skin, darkened eye sockets, facial discoloration, or grotesque facial effects. No blood, fake blood, bleeding, wounds, scars, bruises, or visible injuries. Express the zombie character exclusively through stiff body movements, unnatural head tilts, dragging steps, sharp shoulder hits, and eerie facial expressions. Do not alter either dancer's appearance throughout the video.
+
+CAMERA:
+Fixed frontal camera only. No camera movement, no pan, no tilt, no dolly.
+Use only fast beat-synced optical zoom-ins, snap zoom-outs, and brief punch-in close-up framing to create speed and impact while keeping the camera position fixed. Keep the same background at all times.
+```
+
+### How to adapt it
+
+Supply your own two-person starting frame. Keep left/right positions and appearance constraints explicit; test movement before adding all audio instructions.
+
+**Shared by:** [SPLASH GIRLS@AI Image](<https://x.com/@splash_GL>)
+
+[Original post on X](<https://x.com/splash_GL/status/2109773610827018590>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#halloween-zombie-duo-dance-8590>)
+
+<a id="steampunk-slot-car-racing-3566"></a>
+
+## Steampunk slot-car racing
+
+[![Steampunk slot-car racing](<https://pbs.twimg.com/amplify_video_thumb/2109884249495220224/img/yzzD6i9PfH7aMPEe.jpg>)](<https://x.com/lighthouse42f/status/2109884265504833566>)
+
+A creator-attributed Grok Imagine result presents miniature cars on an ornate brass racing circuit.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a visible track layout and a simple lap action as a starting reference; the original generation prompt was not shared.
+
+**Shared by:** [Cathy has this](<https://x.com/@lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2109884265504833566>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#steampunk-slot-car-racing-3566>)
+
+<a id="pastel-landscape-giant-robot-3817"></a>
+
+## Pastel landscape with a giant robot
+
+[![Pastel landscape with a giant robot](<https://pbs.twimg.com/amplify_video_thumb/2109881864097816576/img/KeJ7BfOWOtVODC1s.jpg>)](<https://x.com/dvorahfr/status/2109881959354683817>)
+
+A peaceful-color Grok Imagine result places a small figure in a blue field beneath a giant robot and a purple sky.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build a clear scale contrast between a small foreground figure and a large background subject, then use restrained motion.
+
+**Shared by:** [Déborah](<https://x.com/@dvorahfr>)
+
+[Original post on X](<https://x.com/dvorahfr/status/2109881959354683817>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#pastel-landscape-giant-robot-3817>)
+
+<a id="cherry-blossom-martial-arts-1328"></a>
+
+## Martial arts under cherry blossoms
+
+[![Martial arts under cherry blossoms](<https://pbs.twimg.com/amplify_video_thumb/2109868639172304896/img/a0T0BDO_8dX2oVGB.jpg>)](<https://x.com/KaTbgsJhym8493/status/2109868799109591328>)
+
+A Grok Imagine-tagged action result accompanies Japanese poetic copy about fighting beneath falling cherry blossoms.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with two clearly separated characters and one action beat. Treat the accompanying poem as context rather than a disclosed prompt.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/@KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2109868799109591328>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#cherry-blossom-martial-arts-1328>)
+
+<a id="anime-character-sound-replacement-6410"></a>
+
+## Anime character sound replacement
+
+[![Anime character sound replacement](<https://pbs.twimg.com/amplify_video_thumb/2109857959681667072/img/Fm-QHnUs2xfjAgUp.jpg>)](<https://x.com/FC_Cicadas/status/2109857981332656410>)
+
+The creator labels an anime clip as a sound-replacement test in Grok Imagine; the audio instructions are not shared.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep a saved visual clip and compare audio treatments separately. The archived post reports a test rather than providing reproducible settings.
+
+**Shared by:** [Cicadas Francois Cosmos 🇯🇵](<https://x.com/@FC_Cicadas>)
+
+[Original post on X](<https://x.com/FC_Cicadas/status/2109857981332656410>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#anime-character-sound-replacement-6410>)
+
+<a id="ice-hockey-contact-scene-4816"></a>
+
+## An ice-hockey contact scene
+
+[![An ice-hockey contact scene](<https://pbs.twimg.com/amplify_video_thumb/2109854400902758400/img/aE-OklocGmdQoCGR.jpg>)](<https://x.com/KaTbgsJhym8493/status/2109856438462144816>)
+
+A Grok Imagine-tagged rink scene accompanies Japanese poetic copy about a skating collision.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a wide rink view and a single contact action to inspect body motion. The source does not provide the generation prompt.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/@KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2109856438462144816>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#ice-hockey-contact-scene-4816>)
+
+<a id="cat-chasing-mouse-3756"></a>
+
+## A cat chasing a mouse
+
+[![A cat chasing a mouse](<https://pbs.twimg.com/amplify_video_thumb/2109846368760037376/img/7ygxaNLdOOPOlP7h.jpg>)](<https://x.com/Stefan_A/status/2109846846143123756>)
+
+The creator identifies a cat-and-mouse chase as a Grok Imagine animal-interaction example.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep both animals visible with a simple chase direction and a floor-level camera. Inspect contact and movement across the clip.
+
+**Shared by:** [Stefan Andersson](<https://x.com/@Stefan_A>)
+
+[Original post on X](<https://x.com/Stefan_A/status/2109846846143123756>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#cat-chasing-mouse-3756>)
+
+<a id="morning-evening-night-animation-8822"></a>
+
+## Morning to evening to night
+
+[![Morning to evening to night](<https://pbs.twimg.com/amplify_video_thumb/2109842652502056960/img/M3sw_lwJtPPvuJOr.jpg>)](<https://x.com/YaReYaRu30Life/status/2109842733179498822>)
+
+A Grok Imagine-tagged animation is captioned Morning to evening to Night, with a stylized sun in the preview.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Define distinct lighting stages and preserve the main composition between them. The caption is not a disclosed generation prompt.
+
+**Shared by:** [ヤレヤル（AI動画/AI画像/AI音楽）](<https://x.com/@YaReYaRu30Life>)
+
+[Original post on X](<https://x.com/YaReYaRu30Life/status/2109842733179498822>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#morning-evening-night-animation-8822>)
+
+<a id="vera-latent-god-music-workflow-9468"></a>
+
+## VERA music video workflow
+
+[![VERA music video workflow](<https://pbs.twimg.com/media/HUeogSja4AANegZ.jpg>)](<https://x.com/Zakhaar91/status/2109840229284909468>)
+
+The creator reports Grok Bot orchestration and Grok Imagine generation for most scenes in a VERA music video.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan the music and scene sequence separately, then assemble the clips. The source attributes most scenes to Grok Imagine, not the entire production.
+
+**Shared by:** [Vasi](<https://x.com/@Zakhaar91>)
+
+[Original post on X](<https://x.com/Zakhaar91/status/2109840229284909468>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#vera-latent-god-music-workflow-9468>)
+
+<a id="french-bulldog-training-dance-9804"></a>
+
+## French bulldog training dance
+
+[![French bulldog training dance](<https://pbs.twimg.com/amplify_video_thumb/2109836958901903360/img/aKeChq9W1aRiPKJO.jpg>)](<https://x.com/PamMktgNut/status/2109837067190419804>)
+
+A playful French bulldog training scene features paw waves and high kicks, credited as co-created with Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Choose one lead character and distinct supporting positions, then build short dance beats around a consistent costume palette.
+
+**Shared by:** [Pam Moore](<https://x.com/@PamMktgNut>)
+
+[Original post on X](<https://x.com/PamMktgNut/status/2109837067190419804>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#french-bulldog-training-dance-9804>)
 
 ## Contributing
 
