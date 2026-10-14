@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **120 examples**, with collection entries reviewed through **2026-10-13**.
+The collection currently contains **134 examples**, with collection entries reviewed through **2026-10-14**.
 
 ## How to use these prompts
 
@@ -137,6 +137,20 @@ The collection currently contains **120 examples**, with collection entries revi
 - [Morning to evening to night](<#morning-evening-night-animation-8822>)
 - [VERA music video workflow](<#vera-latent-god-music-workflow-9468>)
 - [French bulldog training dance](<#french-bulldog-training-dance-9804>)
+- [A GANTZ Character Gives Thanks](<#gantz-character-thank-you-dialogue>)
+- [Rooftop Sniper in the Rain](<#rooftop-sniper-rain-dialogue>)
+- [Dianmu and the Lightning Mirrors](<#dianmu-lightning-goddess-extension>)
+- [From Grok Video to a Mixamo Rig](<#grok-video-mixamo-motion-extraction>)
+- [An Embroidered Train at Night](<#embroidered-locomotive-night-animation>)
+- [A Piano Performance with Sync Limits](<#piano-performance-finger-sync-study>)
+- [A Bowling Comic with an Explosive Twist](<#anime-bowling-comic-capcut-edit>)
+- [A Steampunk Turtle Music Short](<#steampunk-turtle-suno-music-short>)
+- [A Ginza Walk Becomes a Kitten Rescue](<#ginza-kitten-rescue-fashion-clip>)
+- [A Warrior Faces a Minotaur](<#fantasy-warrior-minotaur-figure-battle>)
+- [Skateboarding Toward the Sunrise](<#sunrise-skateboard-action-clip>)
+- [A Couple Dances Underwater](<#underwater-couple-dance-scene>)
+- [A Rally Car on a Forest Road](<#forest-rally-car-dust-action>)
+- [A Lion Takes a Coffee Break](<#lion-coffee-break-multi-tool-video>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -2820,6 +2834,294 @@ Choose one lead character and distinct supporting positions, then build short da
 **Shared by:** [Pam Moore](<https://x.com/@PamMktgNut>)
 
 [Original post on X](<https://x.com/PamMktgNut/status/2109837067190419804>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#french-bulldog-training-dance-9804>)
+
+<a id="gantz-character-thank-you-dialogue"></a>
+
+## A GANTZ Character Gives Thanks
+
+[![A GANTZ Character Gives Thanks](<https://pbs.twimg.com/amplify_video_thumb/2110210486386245632/img/LNe0Y85MHA1BpH1h.jpg>)](<https://x.com/yoshi_world4444/status/2110210506162315432>)
+
+A short Japanese prompt asks a GANTZ-inspired character to thank manga creator Hiroya Oku.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+奥先生に感謝の言葉を
+```
+
+### How to adapt it
+
+Replace the person being thanked and use a character reference you can reuse. Keep the spoken request brief.
+
+**Shared by:** [yoshi@](<https://x.com/yoshi_world4444>)
+
+[Original post on X](<https://x.com/yoshi_world4444/status/2110210506162315432>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#gantz-character-thank-you-dialogue>)
+
+<a id="rooftop-sniper-rain-dialogue"></a>
+
+## Rooftop Sniper in the Rain
+
+[![Rooftop Sniper in the Rain](<https://pbs.twimg.com/amplify_video_thumb/2109857778114363393/img/6Obof-WqPtIKgc0k.jpg>)](<https://x.com/HaluAIArt/status/2109951026522370155>)
+
+A Japanese six-second prompt combines a rooftop sniper, a whispered line, rain close-ups and slow camera movement.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+曇り空と雨の街を見下ろすビル屋上で、ライフルを構える女性スナイパー。一瞬だけ寂しげな表情を浮かべた後、引き締まった顔つきに戻り「悪夢の続きは、向こうで見て」と呟いて静かに息を止める。カメラはスローモーションで彼女の頬を伝う雨粒とライフルを捉える映画のワンシーンのような6秒間。
+```
+
+### How to adapt it
+
+Keep the expression change, whispered line and close-up sequence, then replace the character and rooftop setting.
+
+**Shared by:** [はる](<https://x.com/HaluAIArt>)
+
+[Original post on X](<https://x.com/HaluAIArt/status/2109951026522370155>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#rooftop-sniper-rain-dialogue>)
+
+<a id="dianmu-lightning-goddess-extension"></a>
+
+## Dianmu and the Lightning Mirrors
+
+[![Dianmu and the Lightning Mirrors](<https://pbs.twimg.com/amplify_video_thumb/2110184834383724544/img/KsngmVRB0xJieETp.jpg>)](<https://x.com/hanagekkou/status/2110184967989010876>)
+
+The author animates a NanoBanana-generated lightning goddess with Grok Imagine and reports a 20-second extension.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with a reusable goddess image and give the lightning and mirrors distinct motion cues; review each continuation.
+
+**Shared by:** [華月光](<https://x.com/hanagekkou>)
+
+[Original post on X](<https://x.com/hanagekkou/status/2110184967989010876>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#dianmu-lightning-goddess-extension>)
+
+<a id="grok-video-mixamo-motion-extraction"></a>
+
+## From Grok Video to a Mixamo Rig
+
+[![From Grok Video to a Mixamo Rig](<https://pbs.twimg.com/amplify_video_thumb/2109995731964895232/img/FcN2JvcAtBZY4VfB.jpg>)](<https://x.com/meby_central/status/2109995828635136046>)
+
+A process demo compares Grok Imagine footage with Motion2MixamoRig motion extraction and an animated GLB character.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a clear full-body motion clip for external pose extraction, then inspect the rigged animation for tracking errors.
+
+**Shared by:** [MEBY](<https://x.com/meby_central>)
+
+[Original post on X](<https://x.com/meby_central/status/2109995828635136046>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#grok-video-mixamo-motion-extraction>)
+
+<a id="embroidered-locomotive-night-animation"></a>
+
+## An Embroidered Train at Night
+
+[![An Embroidered Train at Night](<https://pbs.twimg.com/amplify_video_thumb/2109785825219358720/img/IkD0oH9OOZ5QxD2p.jpg>)](<https://x.com/Ema_Bonbon/status/2110009158980583600>)
+
+An embroidered locomotive travels through a night scene in a Grok Imagine clip paired with a ChatGPT image-generation credit.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the stitched texture in the source image and use restrained train motion to preserve the embroidery details.
+
+**Shared by:** [∠だんだんありがと@めじゅ](<https://x.com/Ema_Bonbon>)
+
+[Original post on X](<https://x.com/Ema_Bonbon/status/2110009158980583600>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#embroidered-locomotive-night-animation>)
+
+<a id="piano-performance-finger-sync-study"></a>
+
+## A Piano Performance with Sync Limits
+
+[![A Piano Performance with Sync Limits](<https://pbs.twimg.com/amplify_video_thumb/2110020836283592706/img/i2CQYjiLBJbQMI3x.jpg>)](<https://x.com/noranekomaneki/status/2110020895142289423>)
+
+A Grok Imagine piano clip illustrates the author’s reported difficulty matching finger movements to the music.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a short phrase and a clear keyboard view, then check finger movement against the audio before extending the clip.
+
+**Shared by:** [のらねこ♂](<https://x.com/noranekomaneki>)
+
+[Original post on X](<https://x.com/noranekomaneki/status/2110020895142289423>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#piano-performance-finger-sync-study>)
+
+<a id="anime-bowling-comic-capcut-edit"></a>
+
+## A Bowling Comic with an Explosive Twist
+
+[![A Bowling Comic with an Explosive Twist](<https://pbs.twimg.com/amplify_video_thumb/2108801313396133888/img/8vtWbuo4ltsqZjyG.jpg>)](<https://x.com/bakubaku_hi/status/2109962365449994505>)
+
+An anime bowling gag combines Grok Imagine scenes and CapCut editing, with a strike followed by an exaggerated response.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan the strike and comic reaction as separate beats, then assemble the timing and captions in an editor.
+
+**Shared by:** [ばくやく| AI漫画・アニメ・イラスト制作](<https://x.com/bakubaku_hi>)
+
+[Original post on X](<https://x.com/bakubaku_hi/status/2109962365449994505>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#anime-bowling-comic-capcut-edit>)
+
+<a id="steampunk-turtle-suno-music-short"></a>
+
+## A Steampunk Turtle Music Short
+
+[![A Steampunk Turtle Music Short](<https://pbs.twimg.com/amplify_video_thumb/2109989507512905729/img/OGe8_Zyc4t_I5Jfe.jpg>)](<https://x.com/omusubihitotu/status/2109989965274988950>)
+
+A desert steampunk turtle short pairs Grok Imagine visuals with music credited to Suno AI.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Animate one distinctive mechanical creature, then pair the result with separately created music and deliberate pacing.
+
+**Shared by:** [おむすびひとつ](<https://x.com/omusubihitotu>)
+
+[Original post on X](<https://x.com/omusubihitotu/status/2109989965274988950>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#steampunk-turtle-suno-music-short>)
+
+<a id="ginza-kitten-rescue-fashion-clip"></a>
+
+## A Ginza Walk Becomes a Kitten Rescue
+
+[![A Ginza Walk Becomes a Kitten Rescue](<https://pbs.twimg.com/amplify_video_thumb/2109850529950289920/img/HBFmzb01wImzRuZ2.jpg>)](<https://x.com/_Mira_Z_/status/2109939706075005298>)
+
+A Grok Imagine-tagged street fashion clip is presented by its creator as a walk that turns into a kitten rescue.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Combine a street walk with one small interruption, such as noticing an animal, and keep the response easy to follow.
+
+**Shared by:** [MiraZ](<https://x.com/_Mira_Z_>)
+
+[Original post on X](<https://x.com/_Mira_Z_/status/2109939706075005298>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#ginza-kitten-rescue-fashion-clip>)
+
+<a id="fantasy-warrior-minotaur-figure-battle"></a>
+
+## A Warrior Faces a Minotaur
+
+[![A Warrior Faces a Minotaur](<https://pbs.twimg.com/amplify_video_thumb/2108420356805701632/img/Y3nXZMopn5v3kJ6i.jpg>)](<https://x.com/ban_chan7847/status/2110211496860905487>)
+
+A Grok Imagine-tagged fantasy figure animation stages a sword-wielding warrior against a minotaur.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a clearly posed two-character reference and describe one exchange rather than an entire battle.
+
+**Shared by:** [ばんちゃんねる](<https://x.com/ban_chan7847>)
+
+[Original post on X](<https://x.com/ban_chan7847/status/2110211496860905487>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#fantasy-warrior-minotaur-figure-battle>)
+
+<a id="sunrise-skateboard-action-clip"></a>
+
+## Skateboarding Toward the Sunrise
+
+[![Skateboarding Toward the Sunrise](<https://pbs.twimg.com/amplify_video_thumb/2110195017746890752/img/cyDktlTNnop0hiB8.jpg>)](<https://x.com/KaTbgsJhym8493/status/2110195396349948382>)
+
+A Grok Imagine-tagged skateboarding scene frames a rider against warm sunrise light.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the rider, board and landing area visible, and ask for one controlled movement before adding more tricks.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2110195396349948382>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#sunrise-skateboard-action-clip>)
+
+<a id="underwater-couple-dance-scene"></a>
+
+## A Couple Dances Underwater
+
+[![A Couple Dances Underwater](<https://pbs.twimg.com/amplify_video_thumb/2110168510072786944/img/ap4tVBAFXCi3yc8I.jpg>)](<https://x.com/KaTbgsJhym8493/status/2110168877187674382>)
+
+A Grok Imagine-tagged underwater scene brings a dancing couple together amid floating fabric and blue light.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Describe the dancers’ relative positions and one slow gesture; let fabric and bubbles carry the surrounding motion.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2110168877187674382>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#underwater-couple-dance-scene>)
+
+<a id="forest-rally-car-dust-action"></a>
+
+## A Rally Car on a Forest Road
+
+[![A Rally Car on a Forest Road](<https://pbs.twimg.com/amplify_video_thumb/2109908712366522368/img/wQ11LlDD46gTlS5s.jpg>)](<https://x.com/KaTbgsJhym8493/status/2109909082593546444>)
+
+A Grok Imagine-tagged rally clip places a race car on a forest road with dust and warm light.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Choose one road surface and camera angle, then specify the car’s path and the dust trail as separate motion cues.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2109909082593546444>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#forest-rally-car-dust-action>)
+
+<a id="lion-coffee-break-multi-tool-video"></a>
+
+## A Lion Takes a Coffee Break
+
+[![A Lion Takes a Coffee Break](<https://pbs.twimg.com/amplify_video_thumb/2109923609527607296/img/hjV4M31dAIb72CX8.jpg>)](<https://x.com/sam_tmk/status/2109923650820538650>)
+
+A lion coffee-break short credits GPT Image through Genspark, Grok Imagine animation, Suno music and CapCut editing.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build a clear character still, animate a simple coffee gesture, and add separately created music during editing.
+
+**Shared by:** [たまちゃん | Tamachan](<https://x.com/sam_tmk>)
+
+[Original post on X](<https://x.com/sam_tmk/status/2109923650820538650>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#lion-coffee-break-multi-tool-video>)
 
 ## Contributing
 
