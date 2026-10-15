@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **134 examples**, with collection entries reviewed through **2026-10-14**.
+The collection currently contains **148 examples**, with collection entries reviewed through **2026-10-15**.
 
 ## How to use these prompts
 
@@ -151,6 +151,20 @@ The collection currently contains **134 examples**, with collection entries revi
 - [A Couple Dances Underwater](<#underwater-couple-dance-scene>)
 - [A Rally Car on a Forest Road](<#forest-rally-car-dust-action>)
 - [A Lion Takes a Coffee Break](<#lion-coffee-break-multi-tool-video>)
+- [Japanese News Dialogue with Grok Voice](<#japanese-news-grok-voice-dialogue>)
+- [A Sapphire Tiger Comes to Life](<#sapphire-tiger-image-animation>)
+- [A Moth Flight Across Four Clips](<#moth-four-clip-continuity>)
+- [Super Supersonic Music Video](<#super-supersonic-suno-music-video>)
+- [Multiple Shots from One Image](<#one-image-multi-shot-workflow>)
+- [A Single-Generation Ad Example](<#single-generation-ad-example>)
+- [Dr Eggbot Animated Avatar](<#dr-eggbot-looped-avatar>)
+- [A Probe Passes a Gas Giant](<#gas-giant-gravity-slingshot>)
+- [A Grok Clip Becomes a Lyric Video](<#freebeat-lyric-video-workflow>)
+- [Replace Audio Workflow Observation](<#replace-audio-workflow-observation>)
+- [Tom and Nene Short Name Prompt](<#tom-nene-short-name-prompt>)
+- [Morning Stretch with Japanese Dialogue](<#morning-yoga-dialogue-prompt>)
+- [A Two-Character Finished-Meal Prompt](<#finished-meal-short-prompt>)
+- [An Elder Wizard and a Hydra Figure](<#elder-wizard-hydra-figure>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -3122,6 +3136,303 @@ Build a clear character still, animate a simple coffee gesture, and add separate
 **Shared by:** [たまちゃん | Tamachan](<https://x.com/sam_tmk>)
 
 [Original post on X](<https://x.com/sam_tmk/status/2109923650820538650>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#lion-coffee-break-multi-tool-video>)
+
+<a id="japanese-news-grok-voice-dialogue"></a>
+
+## Japanese News Dialogue with Grok Voice
+
+[![Japanese News Dialogue with Grok Voice](<https://pbs.twimg.com/amplify_video_thumb/2110608460383735808/img/T-02v0gd_MUNWZFm.jpg>)](<https://x.com/Mochi_AGI/status/2110608487743144239>)
+
+A Japanese news exchange credits Grok Voice for speech and Grok Imagine for video.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Draft a brief two-speaker exchange and assess speech timing separately from visual continuity.
+
+**Shared by:** [Mochi](<https://x.com/Mochi_AGI>)
+
+[Original post on X](<https://x.com/Mochi_AGI/status/2110608487743144239>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#japanese-news-grok-voice-dialogue>)
+
+<a id="sapphire-tiger-image-animation"></a>
+
+## A Sapphire Tiger Comes to Life
+
+[![A Sapphire Tiger Comes to Life](<https://pbs.twimg.com/amplify_video_thumb/2110602275236581376/img/mJT9gCGkqFQhc42j.jpg>)](<https://x.com/hanagekkou/status/2110602413124288819>)
+
+A gemstone blue tiger is animated with Grok Imagine after a separately generated portrait.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with a jewel-textured animal portrait and use restrained movement to preserve surface detail.
+
+**Shared by:** [華月光](<https://x.com/hanagekkou>)
+
+[Original post on X](<https://x.com/hanagekkou/status/2110602413124288819>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#sapphire-tiger-image-animation>)
+
+<a id="moth-four-clip-continuity"></a>
+
+## A Moth Flight Across Four Clips
+
+[![A Moth Flight Across Four Clips](<https://pbs.twimg.com/amplify_video_thumb/2110576471433502720/img/eY4BX9Rinn9ixTQw.jpg>)](<https://x.com/SurberusX/status/2110576759888662615>)
+
+Four Grok Imagine clips are chained frame to frame; the creator notes a mid-flight stall.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Continue from each previous frame and review trajectory and pauses before assembling the sequence.
+
+**Shared by:** [Surberus](<https://x.com/SurberusX>)
+
+[Original post on X](<https://x.com/SurberusX/status/2110576759888662615>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#moth-four-clip-continuity>)
+
+<a id="super-supersonic-suno-music-video"></a>
+
+## Super Supersonic Music Video
+
+[![Super Supersonic Music Video](<https://pbs.twimg.com/amplify_video_thumb/2110553834015842304/img/yKE9Y9F9ZwRfvB_s.jpg>)](<https://x.com/YamilePittol/status/2110554304482558373>)
+
+A space-themed music video combines Grok Imagine visuals with Suno music.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan a visual motif across short clips, then arrange them against separately produced music.
+
+**Shared by:** [Yamile ✨](<https://x.com/YamilePittol>)
+
+[Original post on X](<https://x.com/YamilePittol/status/2110554304482558373>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#super-supersonic-suno-music-video>)
+
+<a id="one-image-multi-shot-workflow"></a>
+
+## Multiple Shots from One Image
+
+[![Multiple Shots from One Image](<https://pbs.twimg.com/amplify_video_thumb/2110471796440858624/img/vmIiHvg5Sp6fjoH9.jpg>)](<https://x.com/MIPAGUY/status/2110553835034837444>)
+
+A creator describes deriving every shot from one Grok Imagine image and animating it in place.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Reuse a consistent source frame while varying shot framing, then inspect character consistency.
+
+**Shared by:** [MIPA Guy](<https://x.com/MIPAGUY>)
+
+[Original post on X](<https://x.com/MIPAGUY/status/2110553835034837444>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#one-image-multi-shot-workflow>)
+
+<a id="single-generation-ad-example"></a>
+
+## A Single-Generation Ad Example
+
+[![A Single-Generation Ad Example](<https://pbs.twimg.com/amplify_video_thumb/2019323421977374720/img/4pfoG4Um33kgIvTy.jpg>)](<https://x.com/wirelyss/status/2110553737345278171>)
+
+A creator shares an advertisement attributed to one Grok Imagine generation.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use one clear product action and inspect text, branding and continuity in the generated result.
+
+**Shared by:** [Wirelyss 👁️‍🗨️💫](<https://x.com/wirelyss>)
+
+[Original post on X](<https://x.com/wirelyss/status/2110553737345278171>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#single-generation-ad-example>)
+
+<a id="dr-eggbot-looped-avatar"></a>
+
+## Dr Eggbot Animated Avatar
+
+[![Dr Eggbot Animated Avatar](<https://pbs.twimg.com/amplify_video_thumb/2110552196190212096/img/0i7Ff7gI6v0V6AcQ.jpg>)](<https://x.com/xEllisWyattx/status/2110552959167975677>)
+
+A creator shares a Dr Eggbot avatar made with Grok Bot and animated with Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Choose a readable avatar silhouette and plan a short gesture with compatible start and end poses.
+
+**Shared by:** [Ellis Wyatt](<https://x.com/xEllisWyattx>)
+
+[Original post on X](<https://x.com/xEllisWyattx/status/2110552959167975677>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#dr-eggbot-looped-avatar>)
+
+<a id="gas-giant-gravity-slingshot"></a>
+
+## A Probe Passes a Gas Giant
+
+[![A Probe Passes a Gas Giant](<https://pbs.twimg.com/amplify_video_thumb/2110552476818837504/img/B8PH5D3PDxgvqiiH.jpg>)](<https://x.com/Acezhang01/status/2110552508221559017>)
+
+A probe swings past a gas giant in a Grok Imagine gravity-slingshot visualization.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Specify a clear probe trajectory and camera position, and validate orbital physics separately.
+
+**Shared by:** [Acezhang](<https://x.com/Acezhang01>)
+
+[Original post on X](<https://x.com/Acezhang01/status/2110552508221559017>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#gas-giant-gravity-slingshot>)
+
+<a id="freebeat-lyric-video-workflow"></a>
+
+## A Grok Clip Becomes a Lyric Video
+
+[![A Grok Clip Becomes a Lyric Video](<https://pbs.twimg.com/amplify_video_thumb/2110473289969577985/img/Sb_06yaCNQBuXLlv.jpg>)](<https://x.com/ZivahedX/status/2110551230732796085>)
+
+A creator turns a Grok Imagine video into a lyric video using Freebeat AI for music, lyrics and visuals.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Animate a source clip, then handle lyrics, music and visual timing in a separate editing workflow.
+
+**Shared by:** [𝒁𝑰𝑽𝑨𝑯𝑯 ✞✳️](<https://x.com/ZivahedX>)
+
+[Original post on X](<https://x.com/ZivahedX/status/2110551230732796085>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#freebeat-lyric-video-workflow>)
+
+<a id="replace-audio-workflow-observation"></a>
+
+## Replace Audio Workflow Observation
+
+[![Replace Audio Workflow Observation](<https://pbs.twimg.com/amplify_video_thumb/2110540000144314368/img/DcDRMOccrhoWxx3O.jpg>)](<https://x.com/akiyoshisan/status/2110541369542676895>)
+
+A creator shares a Grok-led music workflow and distinguishes audio replacement from lip sync.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Evaluate an audio replacement against existing mouth movement rather than assuming it will create matching lip sync.
+
+**Shared by:** [右よし左よし秋よし@AIエンタメ](<https://x.com/akiyoshisan>)
+
+[Original post on X](<https://x.com/akiyoshisan/status/2110541369542676895>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#replace-audio-workflow-observation>)
+
+<a id="tom-nene-short-name-prompt"></a>
+
+## Tom and Nene Short Name Prompt
+
+[![Tom and Nene Short Name Prompt](<https://pbs.twimg.com/amplify_video_thumb/2110533551385194496/img/Jpxprx0lDPVCs0W5.jpg>)](<https://x.com/Kozakura228/status/2110533575804412182>)
+
+A Japanese name-only Grok Imagine prompt accompanies a short character video.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+トム君とネネちゃん✨
+```
+
+### How to adapt it
+
+Pair a short character-name prompt with your own reference image when identity needs to be controlled.
+
+**Shared by:** [Kozakura](<https://x.com/Kozakura228>)
+
+[Original post on X](<https://x.com/Kozakura228/status/2110533575804412182>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#tom-nene-short-name-prompt>)
+
+<a id="morning-yoga-dialogue-prompt"></a>
+
+## Morning Stretch with Japanese Dialogue
+
+[![Morning Stretch with Japanese Dialogue](<https://pbs.twimg.com/amplify_video_thumb/2110255719291490304/img/hJWC4Jwn2cetyQgP.jpg>)](<https://x.com/HaluAIArt/status/2110509707865846053>)
+
+A detailed Japanese morning-stretch prompt includes speech and acoustic music; the creator notes a changed face.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+【映像指定】
+明るく自然光が差し込む白を基調とした部屋。ヨガマットの上に座っている女性が、腕を頭上に伸ばして気持ちよさそうにストレッチをしている。カメラは彼女の表情から徐々に優しく微笑む顔へとゆっくりズームインする。爽やかで温かみのある朝の日常風景、高画質、シネマティックライティング。
+【セリフ】
+「ん〜っ、今日もお互いマイペースにがんばろっか！」
+【BGM】
+明るく爽やかなアコースティックギターと優しいピアノの音色（朝の心地よい始まりを感じさせるゆったりとしたポップス風BGM）
+```
+
+### How to adapt it
+
+Keep the gesture simple and compare the face with your source image before accepting or extending the clip.
+
+**Shared by:** [はる](<https://x.com/HaluAIArt>)
+
+[Original post on X](<https://x.com/HaluAIArt/status/2110509707865846053>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#morning-yoga-dialogue-prompt>)
+
+<a id="finished-meal-short-prompt"></a>
+
+## A Two-Character Finished-Meal Prompt
+
+[![A Two-Character Finished-Meal Prompt](<https://pbs.twimg.com/amplify_video_thumb/2110267727999074305/img/17iu2tiibPyJUYhl.jpg>)](<https://x.com/Katsurakiri/status/2110267743853543651>)
+
+The short Japanese prompt 完食 accompanies a Grok Imagine video example.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+完食
+```
+
+### How to adapt it
+
+Use a short completion cue with a clear food-related reference, then assess the motion the model supplies.
+
+**Shared by:** [桂桐@Katsurakiri](<https://x.com/Katsurakiri>)
+
+[Original post on X](<https://x.com/Katsurakiri/status/2110267743853543651>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#finished-meal-short-prompt>)
+
+<a id="elder-wizard-hydra-figure"></a>
+
+## An Elder Wizard and a Hydra Figure
+
+[![An Elder Wizard and a Hydra Figure](<https://pbs.twimg.com/amplify_video_thumb/2108424540997246977/img/1Q_nyHfe96-V-YkK.jpg>)](<https://x.com/ban_chan7847/status/2110573880855105866>)
+
+A fantasy figure animation tagged Grok Imagine pairs an elder wizard with a hydra dragon.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Provide a clear fantasy-figure image and stage one readable interaction between the characters.
+
+**Shared by:** [ばんちゃんねる](<https://x.com/ban_chan7847>)
+
+[Original post on X](<https://x.com/ban_chan7847/status/2110573880855105866>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#elder-wizard-hydra-figure>)
 
 ## Contributing
 
