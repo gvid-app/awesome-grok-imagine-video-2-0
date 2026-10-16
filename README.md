@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **148 examples**, with collection entries reviewed through **2026-10-15**.
+The collection currently contains **162 examples**, with collection entries reviewed through **2026-10-16**.
 
 ## How to use these prompts
 
@@ -165,6 +165,20 @@ The collection currently contains **148 examples**, with collection entries revi
 - [Morning Stretch with Japanese Dialogue](<#morning-yoga-dialogue-prompt>)
 - [A Two-Character Finished-Meal Prompt](<#finished-meal-short-prompt>)
 - [An Elder Wizard and a Hydra Figure](<#elder-wizard-hydra-figure>)
+- [Super Dog with a Short English Prompt](<#super-dog-marschand-prompt>)
+- [Dracula in a Crimson Exosuit](<#dracula-crimson-exosuit-prompt>)
+- [A Japanese Animation Greeting](<#japanese-animation-hello-prompt>)
+- [Living Ramen from a Short Prompt](<#living-ramen-short-prompt>)
+- [Intercept: An Anime Action Scene](<#intercept-anime-action-scene>)
+- [Grok Footage in a Resolve Effects Workflow](<#resolve-gravity-gleech-workflow>)
+- [Benjamin at a Ghostly Halloween Party](<#benjamin-ghostly-halloween-party>)
+- [A Journey to Mars Storybook Video](<#journey-to-mars-storybook-video>)
+- [I Don’t Want You Anymore: Music Video](<#dont-want-you-anymore-music-video>)
+- [Sinsia: Rate Limited Music Video](<#sinsia-rate-limited-workflow>)
+- [An Angel Above a Waterfall Temple](<#angel-waterfall-temple-scene>)
+- [A Rider Through the Night City](<#night-city-rider-scene>)
+- [Hermes of the Aegean: Fantasy Episode](<#aegean-hermes-fantasy-episode>)
+- [An Okinawa Morning Video Workflow](<#okinawa-morning-multi-tool-video>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -3433,6 +3447,302 @@ Provide a clear fantasy-figure image and stage one readable interaction between 
 **Shared by:** [ばんちゃんねる](<https://x.com/ban_chan7847>)
 
 [Original post on X](<https://x.com/ban_chan7847/status/2110573880855105866>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#elder-wizard-hydra-figure>)
+
+<a id="super-dog-marschand-prompt"></a>
+
+## Super Dog with a Short English Prompt
+
+[![Super Dog with a Short English Prompt](<https://pbs.twimg.com/amplify_video_thumb/2110931840211070976/img/kCEydO6kL1XRKdNC.jpg>)](<https://x.com/JenniferWez31/status/2110931868313133549>)
+
+A short Grok Imagine prompt names a super dog without specifying a camera or action.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `en`
+
+```text
+Super dog marschand!
+```
+
+### How to adapt it
+
+Use a short character cue with your own reference, then inspect the action and costume the model supplies.
+
+**Shared by:** [Jennifer Wetzel](<https://x.com/JenniferWez31>)
+
+[Original post on X](<https://x.com/JenniferWez31/status/2110931868313133549>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#super-dog-marschand-prompt>)
+
+<a id="dracula-crimson-exosuit-prompt"></a>
+
+## Dracula in a Crimson Exosuit
+
+[![Dracula in a Crimson Exosuit](<https://pbs.twimg.com/amplify_video_thumb/2110930580632158208/img/XNfzj02JnvRCnP7b.jpg>)](<https://x.com/TheEerieHollows/status/2110930615029965276>)
+
+A compact Grok Imagine prompt combines a gothic character with a crimson science-fiction suit.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `en`
+
+```text
+Dracula in a Crimson Exosuit
+```
+
+### How to adapt it
+
+Combine a recognizable silhouette with one material or color cue and review costume consistency.
+
+**Shared by:** [Myst(eerie)0us Vincent Malarkey](<https://x.com/TheEerieHollows>)
+
+[Original post on X](<https://x.com/TheEerieHollows/status/2110930615029965276>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#dracula-crimson-exosuit-prompt>)
+
+<a id="japanese-animation-hello-prompt"></a>
+
+## A Japanese Animation Greeting
+
+[![A Japanese Animation Greeting](<https://pbs.twimg.com/amplify_video_thumb/2110930095015960576/img/C73gdRKFfl41Tu9L.jpg>)](<https://x.com/YujiOtoko84567/status/2110930108504780991>)
+
+A brief Japanese Grok Imagine greeting prompt accompanies a character animation.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+アニメーションでこんにちはx
+```
+
+### How to adapt it
+
+Pair a greeting with a clear reference and review expression and gestures before adding dialogue.
+
+**Shared by:** [夜明けは近い](<https://x.com/YujiOtoko84567>)
+
+[Original post on X](<https://x.com/YujiOtoko84567/status/2110930108504780991>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#japanese-animation-hello-prompt>)
+
+<a id="living-ramen-short-prompt"></a>
+
+## Living Ramen from a Short Prompt
+
+[![Living Ramen from a Short Prompt](<https://pbs.twimg.com/amplify_video_thumb/2110929171904188416/img/4h-erGpnFCXPLCPH.jpg>)](<https://x.com/YujiOtoko84567/status/2110929186290622689>)
+
+The Japanese prompt 生きて居るラーメン accompanies a playful Grok Imagine food animation.
+
+**Model:** Grok Imagine Video
+
+### Original video prompt · `ja`
+
+```text
+生きて居るラーメン
+```
+
+### How to adapt it
+
+Give one food item a simple living quality and check whether its motion remains visually readable.
+
+**Shared by:** [夜明けは近い](<https://x.com/YujiOtoko84567>)
+
+[Original post on X](<https://x.com/YujiOtoko84567/status/2110929186290622689>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#living-ramen-short-prompt>)
+
+<a id="intercept-anime-action-scene"></a>
+
+## Intercept: An Anime Action Scene
+
+[![Intercept: An Anime Action Scene](<https://pbs.twimg.com/amplify_video_thumb/2110931458965622784/img/2qFSnH7e666_9QCg.jpg>)](<https://x.com/TheOddsAndEndsX/status/2110931698905161765>)
+
+An anime action clip titled Intercept is shared with the Grok Imagine tag.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Stage a single interception with clear subject separation and inspect fast movement frame by frame.
+
+**Shared by:** [Odd & Ends](<https://x.com/TheOddsAndEndsX>)
+
+[Original post on X](<https://x.com/TheOddsAndEndsX/status/2110931698905161765>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#intercept-anime-action-scene>)
+
+<a id="resolve-gravity-gleech-workflow"></a>
+
+## Grok Footage in a Resolve Effects Workflow
+
+[![Grok Footage in a Resolve Effects Workflow](<https://pbs.twimg.com/amplify_video_thumb/2110906798467411968/img/SUI4R1t9POFbdmyX.jpg>)](<https://x.com/monomyth/status/2110907105809232296>)
+
+A creator applies Gravity and GLEECH in DaVinci Resolve to Grok Imagine video and music.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Generate a source clip, then evaluate external effects and editing separately from the original footage.
+
+**Shared by:** [Eugene Ray](<https://x.com/monomyth>)
+
+[Original post on X](<https://x.com/monomyth/status/2110907105809232296>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#resolve-gravity-gleech-workflow>)
+
+<a id="benjamin-ghostly-halloween-party"></a>
+
+## Benjamin at a Ghostly Halloween Party
+
+[![Benjamin at a Ghostly Halloween Party](<https://pbs.twimg.com/amplify_video_thumb/2110572385359527936/img/C3S4MW3WZOcT8uj3.jpg>)](<https://x.com/gazokuneko/status/2110575939591782806>)
+
+A Grok Imagine character video presents Benjamin at a ghost-themed Halloween party.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep a distinctive character silhouette while adding a limited set of seasonal props and background motion.
+
+**Shared by:** [雅俗ねこ](<https://x.com/gazokuneko>)
+
+[Original post on X](<https://x.com/gazokuneko/status/2110575939591782806>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#benjamin-ghostly-halloween-party>)
+
+<a id="journey-to-mars-storybook-video"></a>
+
+## A Journey to Mars Storybook Video
+
+[![A Journey to Mars Storybook Video](<https://pbs.twimg.com/amplify_video_thumb/2110551373007683584/img/ZDrg8NAgbzVaPlGI.jpg>)](<https://x.com/WildIceTexas/status/2110551514649632837>)
+
+A creator adapts material from a Journey to Mars storybook using Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start from a storybook scene and animate one narrative beat before assembling a longer sequence.
+
+**Shared by:** [Lorri Porter](<https://x.com/WildIceTexas>)
+
+[Original post on X](<https://x.com/WildIceTexas/status/2110551514649632837>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#journey-to-mars-storybook-video>)
+
+<a id="dont-want-you-anymore-music-video"></a>
+
+## I Don’t Want You Anymore: Music Video
+
+[![I Don’t Want You Anymore: Music Video](<https://pbs.twimg.com/amplify_video_thumb/2110547756058071040/img/c_fRXzUcBE_flmyy.jpg>)](<https://x.com/MsSevier_/status/2110548912486445077>)
+
+A music video credits Grok Imagine for video and Suno for music.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build a short visual sequence around a song, then handle music and clip timing in an editing workflow.
+
+**Shared by:** [Ms. Sevier](<https://x.com/MsSevier_>)
+
+[Original post on X](<https://x.com/MsSevier_/status/2110548912486445077>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#dont-want-you-anymore-music-video>)
+
+<a id="sinsia-rate-limited-workflow"></a>
+
+## Sinsia: Rate Limited Music Video
+
+[![Sinsia: Rate Limited Music Video](<https://pbs.twimg.com/amplify_video_thumb/2110570718261886976/img/KkYCsdcwPEVGUfpu.jpg>)](<https://x.com/XAstrial/status/2110571179056447908>)
+
+A pop video combines Grok Imagine, Claude, Midjourney, Suno and Seedance in a multi-tool workflow.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan the artist identity and song first, then track which tool produces each visual and audio element.
+
+**Shared by:** [Astrial](<https://x.com/XAstrial>)
+
+[Original post on X](<https://x.com/XAstrial/status/2110571179056447908>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#sinsia-rate-limited-workflow>)
+
+<a id="angel-waterfall-temple-scene"></a>
+
+## An Angel Above a Waterfall Temple
+
+[![An Angel Above a Waterfall Temple](<https://pbs.twimg.com/amplify_video_thumb/2110530753172037632/img/MwXXxR7Hm5cW2wcI.jpg>)](<https://x.com/KaTbgsJhym8493/status/2110531050674020412>)
+
+An angel and a waterfall temple feature in a fantasy video tagged Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a wide composition with a clear foreground character and restrained waterfall and cloud motion.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2110531050674020412>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#angel-waterfall-temple-scene>)
+
+<a id="night-city-rider-scene"></a>
+
+## A Rider Through the Night City
+
+[![A Rider Through the Night City](<https://pbs.twimg.com/amplify_video_thumb/2110303400093196288/img/MU7SklNR5sKpaZbQ.jpg>)](<https://x.com/KaTbgsJhym8493/status/2110422887022706811>)
+
+A Grok Imagine-tagged video accompanies a Japanese description of a fast ride between city buildings.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Define a clear travel direction and camera path, then review background geometry during rapid movement.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2110422887022706811>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#night-city-rider-scene>)
+
+<a id="aegean-hermes-fantasy-episode"></a>
+
+## Hermes of the Aegean: Fantasy Episode
+
+[![Hermes of the Aegean: Fantasy Episode](<https://pbs.twimg.com/amplify_video_thumb/2110539809894887424/img/e1mt9NvwcOVbytcJ.jpg>)](<https://x.com/03abe_takashi/status/2110540062723314055>)
+
+A fantasy episode set around the Aegean credits Grok Imagine and mentions Suno.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan a brief location reveal and keep episode editing and music production separate from individual generated clips.
+
+**Shared by:** [阿部 孝](<https://x.com/03abe_takashi>)
+
+[Original post on X](<https://x.com/03abe_takashi/status/2110540062723314055>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#aegean-hermes-fantasy-episode>)
+
+<a id="okinawa-morning-multi-tool-video"></a>
+
+## An Okinawa Morning Video Workflow
+
+[![An Okinawa Morning Video Workflow](<https://pbs.twimg.com/amplify_video_thumb/2110503983110656000/img/N060ZZHUm9eb5cOj.jpg>)](<https://x.com/sam_tmk/status/2110504085329965333>)
+
+A morning video credits GPT image2.5 for images, Grok Imagine for video, Suno for music and CapCut for editing.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Animate a prepared still, add separately produced music and assemble the sequence in an editor.
+
+**Shared by:** [たまちゃん | Tamachan](<https://x.com/sam_tmk>)
+
+[Original post on X](<https://x.com/sam_tmk/status/2110504085329965333>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#okinawa-morning-multi-tool-video>)
 
 ## Contributing
 
