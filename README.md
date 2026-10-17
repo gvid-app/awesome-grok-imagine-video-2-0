@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **162 examples**, with collection entries reviewed through **2026-10-16**.
+The collection currently contains **176 examples**, with collection entries reviewed through **2026-10-17**.
 
 ## How to use these prompts
 
@@ -179,6 +179,20 @@ The collection currently contains **162 examples**, with collection entries revi
 - [A Rider Through the Night City](<#night-city-rider-scene>)
 - [Hermes of the Aegean: Fantasy Episode](<#aegean-hermes-fantasy-episode>)
 - [An Okinawa Morning Video Workflow](<#okinawa-morning-multi-tool-video>)
+- [Rick Hand Gestures from a Short Prompt](<#rick-hand-gestures-short-prompt>)
+- [Dracula Rules a Stone City](<#dracula-stone-city-werewolves>)
+- [A Rocket Roadster Races at Monaco](<#roadster-monaco-reference-race>)
+- [The King’s Dream of Seven Cows](<#seven-cows-kings-dream>)
+- [Jade’s Inner Voice](<#jade-inner-voice-grok-bot>)
+- [Morning Light Through an Amber Visor](<#amber-visor-morning-light>)
+- [A Car Assembles Across Four Clips](<#car-self-assembly-four-clip-workflow>)
+- [Heavy Lumber: An Animated Baseball Card](<#heavy-lumber-baseball-short>)
+- [The Heart of the Pride](<#heart-of-pride-chatgpt-animation>)
+- [From a Local Qwen Image to Grok Animation](<#local-qwen-kiki-animation-workflow>)
+- [An Elegant Tango Music Video](<#elegant-tango-suno-music-video>)
+- [Is It Safe? A Looping Video Example](<#is-it-safe-looping-video>)
+- [An Angel with Unrequested Dialogue](<#angel-unrequested-dialogue>)
+- [Grok Footage in a Bot-Edited Music Video](<#grok-bot-remotion-lyrics-workflow>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -3743,6 +3757,294 @@ Animate a prepared still, add separately produced music and assemble the sequenc
 **Shared by:** [たまちゃん | Tamachan](<https://x.com/sam_tmk>)
 
 [Original post on X](<https://x.com/sam_tmk/status/2110504085329965333>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#okinawa-morning-multi-tool-video>)
+
+<a id="rick-hand-gestures-short-prompt"></a>
+
+## Rick Hand Gestures from a Short Prompt
+
+[![Rick Hand Gestures from a Short Prompt](<https://pbs.twimg.com/amplify_video_thumb/2111329121842143233/img/V5OVdJGZq-PfPQYN.jpg>)](<https://x.com/bigliptonlou/status/2111329148970958892>)
+
+A brief English prompt asks an animated Rick character to perform hand gestures.
+
+**Model:** Grok Imagine Video
+
+```text
+Make Rick throw up gang signs
+```
+
+### How to adapt it
+
+Replace the character and specify one neutral hand gesture to explore a similar short instruction.
+
+**Shared by:** [Hbj](<https://x.com/bigliptonlou>)
+
+[Original post on X](<https://x.com/bigliptonlou/status/2111329148970958892>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#rick-hand-gestures-short-prompt>)
+
+<a id="dracula-stone-city-werewolves"></a>
+
+## Dracula Rules a Stone City
+
+[![Dracula Rules a Stone City](<https://pbs.twimg.com/amplify_video_thumb/2111273938495959041/img/yeKE2jiR3wQ7I_bu.jpg>)](<https://x.com/TheEerieHollows/status/2111273975536136205>)
+
+A short English prompt places Dracula above a stone city populated by werewolves.
+
+**Model:** Grok Imagine Video
+
+```text
+Dracula ruling over a Stone City of Werewolves
+```
+
+### How to adapt it
+
+Change the ruler, inhabitants and city material while keeping the relationship between them clear.
+
+**Shared by:** [Myst(eerie)0us Vincent Malarkey](<https://x.com/TheEerieHollows>)
+
+[Original post on X](<https://x.com/TheEerieHollows/status/2111273975536136205>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#dracula-stone-city-werewolves>)
+
+<a id="roadster-monaco-reference-race"></a>
+
+## A Rocket Roadster Races at Monaco
+
+[![A Rocket Roadster Races at Monaco](<https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg>)](<https://x.com/SuperGeekCRC/status/2111282777387843851>)
+
+A reference-based prompt imagines a rocket Roadster lapping Formula 1 cars at Monaco.
+
+**Model:** Grok Imagine Video
+
+```text
+Imagine @Image1 racing in the new Tesla Roadster rocket against Formula 1 cars at Monaco 🇲🇨 and winning the race by lapping all other cars
+```
+
+### How to adapt it
+
+Supply your own reference image in place of @Image1 and define the race outcome as a fictional scene.
+
+**Shared by:** [SuperGeekCRC](<https://x.com/SuperGeekCRC>)
+
+[Original post on X](<https://x.com/SuperGeekCRC/status/2111282777387843851>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#roadster-monaco-reference-race>)
+
+<a id="seven-cows-kings-dream"></a>
+
+## The King’s Dream of Seven Cows
+
+[![The King’s Dream of Seven Cows](<https://pbs.twimg.com/amplify_video_thumb/2111257112290394112/img/i29mASlJmxgV7gk4.jpg>)](<https://x.com/PaulAnonymous6/status/2111257133887230433>)
+
+An English prompt adapts the king’s dream of seven fat cows and seven skinny cows.
+
+**Model:** Grok Imagine Video
+
+```text
+The King's dream "seven fat cows eaten up by seven skinny cows".
+```
+
+### How to adapt it
+
+Keep a clear number of subjects and a single story beat when adapting another dream or fable.
+
+**Shared by:** [Y](<https://x.com/PaulAnonymous6>)
+
+[Original post on X](<https://x.com/PaulAnonymous6/status/2111257133887230433>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#seven-cows-kings-dream>)
+
+<a id="jade-inner-voice-grok-bot"></a>
+
+## Jade’s Inner Voice
+
+[![Jade’s Inner Voice](<https://pbs.twimg.com/amplify_video_thumb/2111334659313504256/img/knUpW1-PnPY3Z-iz.jpg>)](<https://x.com/perry_lin/status/2111334903833129050>)
+
+A drama excerpt pairs a character with inner narration; the author credits Grok Imagine and Grok Bot editing.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan inner narration separately from visible speech, then credit any editing or voice tools used.
+
+**Shared by:** [Perry Lin](<https://x.com/perry_lin>)
+
+[Original post on X](<https://x.com/perry_lin/status/2111334903833129050>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#jade-inner-voice-grok-bot>)
+
+<a id="amber-visor-morning-light"></a>
+
+## Morning Light Through an Amber Visor
+
+[![Morning Light Through an Amber Visor](<https://pbs.twimg.com/amplify_video_thumb/2111331878095454208/img/BVlJeNsvZdiOeHkr.jpg>)](<https://x.com/Z_XSophie/status/2111332243679625339>)
+
+A Grok Imagine portrait shows a character wearing an amber visor in dappled daylight.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use your own character reference and specify how sunlight falls across translucent eyewear.
+
+**Shared by:** [SophieZX](<https://x.com/Z_XSophie>)
+
+[Original post on X](<https://x.com/Z_XSophie/status/2111332243679625339>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#amber-visor-morning-light>)
+
+<a id="car-self-assembly-four-clip-workflow"></a>
+
+## A Car Assembles Across Four Clips
+
+[![A Car Assembles Across Four Clips](<https://pbs.twimg.com/amplify_video_thumb/2111310555617390592/img/rGW5x_ChvZcjIrMg.jpg>)](<https://x.com/rexx_xer82545/status/2111310708642361687>)
+
+The author joins four Grok Imagine clips from successive final frames and overlays a coded assembly HUD.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with an owned image, carry each final frame into the next segment, and add interface overlays in post.
+
+**Shared by:** [xer rexx](<https://x.com/rexx_xer82545>)
+
+[Original post on X](<https://x.com/rexx_xer82545/status/2111310708642361687>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#car-self-assembly-four-clip-workflow>)
+
+<a id="heavy-lumber-baseball-short"></a>
+
+## Heavy Lumber: An Animated Baseball Card
+
+[![Heavy Lumber: An Animated Baseball Card](<https://pbs.twimg.com/amplify_video_thumb/2111309655653904384/img/6OLl2YadUwUmo7Ln.jpg>)](<https://x.com/SVinyl73/status/2111309670375936399>)
+
+A Grok Imagine clip animates a baseball collectible card captioned “Jr Heavy Lumber.”
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Animate an owned card illustration with one action and inspect whether borders and lettering remain stable.
+
+**Shared by:** [X](<https://x.com/SVinyl73>)
+
+[Original post on X](<https://x.com/SVinyl73/status/2111309670375936399>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#heavy-lumber-baseball-short>)
+
+<a id="heart-of-pride-chatgpt-animation"></a>
+
+## The Heart of the Pride
+
+[![The Heart of the Pride](<https://pbs.twimg.com/amplify_video_thumb/2111286895409836032/img/t9h1V9ODrXH7i-pL.jpg>)](<https://x.com/Sherice0799/status/2111287033733824667>)
+
+A lion artwork created with ChatGPT is animated with Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Animate your own animal illustration and specify subtle head, fur or environmental motion.
+
+**Shared by:** [Sherice](<https://x.com/Sherice0799>)
+
+[Original post on X](<https://x.com/Sherice0799/status/2111287033733824667>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#heart-of-pride-chatgpt-animation>)
+
+<a id="local-qwen-kiki-animation-workflow"></a>
+
+## From a Local Qwen Image to Grok Animation
+
+[![From a Local Qwen Image to Grok Animation](<https://pbs.twimg.com/amplify_video_thumb/2111249598140534784/img/ZjmShO4b8VmGidw5.jpg>)](<https://x.com/DavidGetchel/status/2111249625630003527>)
+
+The author describes a Telegram and Kiki workflow for local Qwen image creation followed by Grok Imagine animation.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep image creation and video animation as separate stages, recording the prompts and inputs used at each step.
+
+**Shared by:** [Dave](<https://x.com/DavidGetchel>)
+
+[Original post on X](<https://x.com/DavidGetchel/status/2111249625630003527>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#local-qwen-kiki-animation-workflow>)
+
+<a id="elegant-tango-suno-music-video"></a>
+
+## An Elegant Tango Music Video
+
+[![An Elegant Tango Music Video](<https://pbs.twimg.com/amplify_video_thumb/2111265479402868736/img/kzTfQN3rmA7NMG2b.jpg>)](<https://x.com/omusubihitotu/status/2111266500787204605>)
+
+A 1940s-inspired tango video credits Grok Imagine visuals and Suno AI v6 music.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Develop visual motifs for a song, generate short clips, and assemble them against separately licensed audio.
+
+**Shared by:** [おむすびひとつ](<https://x.com/omusubihitotu>)
+
+[Original post on X](<https://x.com/omusubihitotu/status/2111266500787204605>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#elegant-tango-suno-music-video>)
+
+<a id="is-it-safe-looping-video"></a>
+
+## Is It Safe? A Looping Video Example
+
+[![Is It Safe? A Looping Video Example](<https://pbs.twimg.com/amplify_video_thumb/2111321658351091713/img/R7UpISKkvtd8Y7da.jpg>)](<https://x.com/Gooboberti/status/2111321814744158224>)
+
+The creator presents a short Grok Imagine result and highlights the looping video feature.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a repeating action and compare the end and start frames when designing your own loop.
+
+**Shared by:** [Gooboberti](<https://x.com/Gooboberti>)
+
+[Original post on X](<https://x.com/Gooboberti/status/2111321814744158224>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#is-it-safe-looping-video>)
+
+<a id="angel-unrequested-dialogue"></a>
+
+## An Angel with Unrequested Dialogue
+
+[![An Angel with Unrequested Dialogue](<https://pbs.twimg.com/amplify_video_thumb/2111300204687409152/img/yHc1yIRgyXpBz9-2.jpg>)](<https://x.com/gektimbul/status/2111301201530961929>)
+
+The creator reports that an angel video produced dialogue without any dialogue instructions.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Review generated speech before publishing, and explicitly specify silence or dialogue when it matters.
+
+**Shared by:** [Dayu Dolma](<https://x.com/gektimbul>)
+
+[Original post on X](<https://x.com/gektimbul/status/2111301201530961929>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#angel-unrequested-dialogue>)
+
+<a id="grok-bot-remotion-lyrics-workflow"></a>
+
+## Grok Footage in a Bot-Edited Music Video
+
+[![Grok Footage in a Bot-Edited Music Video](<https://pbs.twimg.com/amplify_video_thumb/2110385854032265217/img/IPoqxTPw2vXVzNl4.jpg>)](<https://x.com/old_pgmrs_will/status/2110387063979962528>)
+
+A music-video workflow combines Grok Imagine footage with bot-selected Remotion or HyperFrames lyric captions.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the song, lyrics and generated footage as separate inputs, then inspect the assembled edit and caption timing.
+
+**Shared by:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](<https://x.com/old_pgmrs_will>)
+
+[Original post on X](<https://x.com/old_pgmrs_will/status/2110387063979962528>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#grok-bot-remotion-lyrics-workflow>)
 
 ## Contributing
 
