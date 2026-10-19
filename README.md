@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **176 examples**, with collection entries reviewed through **2026-10-17**.
+The collection currently contains **190 examples**, with collection entries reviewed through **2026-10-19**.
 
 ## How to use these prompts
 
@@ -193,6 +193,20 @@ The collection currently contains **176 examples**, with collection entries revi
 - [Is It Safe? A Looping Video Example](<#is-it-safe-looping-video>)
 - [An Angel with Unrequested Dialogue](<#angel-unrequested-dialogue>)
 - [Grok Footage in a Bot-Edited Music Video](<#grok-bot-remotion-lyrics-workflow>)
+- [A Spanish Reunion Dialogue](<#spanish-padre-arino-reunion>)
+- [A Star-Powered Unicorn](<#star-powered-unicorn-spanish>)
+- [Ghost Soldiers from Two Words](<#ghost-soldiers-short-prompt>)
+- [A Model Y Introduction Video](<#model-y-introduction-short-prompt>)
+- [An Angel Wrapped in Expanding Light](<#angel-wings-expanding-light>)
+- [Animate This Image: Minimal Instruction](<#animate-this-image-minimal>)
+- [A Cottage Through ImagineArt](<#cottage-imagineart-grok-workflow>)
+- [GPT Image Artwork to Grok Video](<#gpt-image-grok-video-workflow>)
+- [A Purple Qipao in Window Light](<#purple-qipao-window-shadow>)
+- [An Instrumental Music Video Workflow](<#instrumental-song-grok-bot-workflow>)
+- [The Watcher’s Hymn: A Shared Workflow](<#watchers-hymn-midjourney-grok>)
+- [Hello…weeeen: A Halloween Workflow](<#helloween-stable-diffusion-grok>)
+- [Black Monday Meets Halloween](<#black-monday-halloween-animation>)
+- [Animating an Intestines Illustration](<#intestines-illustration-animation>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -4045,6 +4059,299 @@ Keep the song, lyrics and generated footage as separate inputs, then inspect the
 **Shared by:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](<https://x.com/old_pgmrs_will>)
 
 [Original post on X](<https://x.com/old_pgmrs_will/status/2110387063979962528>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#grok-bot-remotion-lyrics-workflow>)
+
+<a id="spanish-padre-arino-reunion"></a>
+
+## A Spanish Reunion Dialogue
+
+[![A Spanish Reunion Dialogue](<https://pbs.twimg.com/amplify_video_thumb/2112031801464221696/img/No9tSB8O6FUYFAPu.jpg>)](<https://x.com/PUI72918516/status/2112031829939442176>)
+
+A Spanish dialogue prompt stages a reunion between Padre and Arino.
+
+**Model:** Grok Imagine Video
+
+```text
+Padre! ¡Cuánto tiempo!
+Arino, querida! ¡Cuánto deseaba volver a verte!
+```
+
+### How to adapt it
+
+Give each speaker one short line and review pronunciation and turn taking.
+
+**Shared by:** [arisa(PUI符愛)](<https://x.com/PUI72918516>)
+
+[Original post on X](<https://x.com/PUI72918516/status/2112031829939442176>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#spanish-padre-arino-reunion>)
+
+<a id="star-powered-unicorn-spanish"></a>
+
+## A Star-Powered Unicorn
+
+[![A Star-Powered Unicorn](<https://pbs.twimg.com/amplify_video_thumb/2112023843539714048/img/W8CiJafWtSRGP9Ux.jpg>)](<https://x.com/FelipeMD95907/status/2112023892999221585>)
+
+A short Spanish prompt asks for a unicorn with star powers.
+
+**Model:** Grok Imagine Video
+
+```text
+Crea unicornio con poderes de estrella
+```
+
+### How to adapt it
+
+Keep the creature and one magical effect clear before adding camera instructions.
+
+**Shared by:** [Felipe MD](<https://x.com/FelipeMD95907>)
+
+[Original post on X](<https://x.com/FelipeMD95907/status/2112023892999221585>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#star-powered-unicorn-spanish>)
+
+<a id="ghost-soldiers-short-prompt"></a>
+
+## Ghost Soldiers from Two Words
+
+[![Ghost Soldiers from Two Words](<https://pbs.twimg.com/amplify_video_thumb/2112015899523715072/img/mbiO9u6lk-r-mevb.jpg>)](<https://x.com/TheEerieHollows/status/2112015932453261424>)
+
+A two-word English prompt introduces a ghostly soldier scene.
+
+**Model:** Grok Imagine Video
+
+```text
+Ghost Soldiers
+```
+
+### How to adapt it
+
+Use one subject phrase, then add a single movement or lighting instruction for comparison.
+
+**Shared by:** [Myst(eerie)0us Vincent Malarkey](<https://x.com/TheEerieHollows>)
+
+[Original post on X](<https://x.com/TheEerieHollows/status/2112015932453261424>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#ghost-soldiers-short-prompt>)
+
+<a id="model-y-introduction-short-prompt"></a>
+
+## A Model Y Introduction Video
+
+[![A Model Y Introduction Video](<https://pbs.twimg.com/amplify_video_thumb/2112013269422444544/img/pjFbLqDjEiPIxvTU.jpg>)](<https://x.com/nopess007/status/2112013311948853740>)
+
+An English prompt requests an introduction video for a Tesla Model Y 2026.
+
+**Model:** Grok Imagine Video
+
+```text
+Video to introduce Tesla Model Y 2026
+```
+
+### How to adapt it
+
+Use your own product and check generated logos, geometry and factual claims before publication.
+
+**Shared by:** [Ess Nop](<https://x.com/nopess007>)
+
+[Original post on X](<https://x.com/nopess007/status/2112013311948853740>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#model-y-introduction-short-prompt>)
+
+<a id="angel-wings-expanding-light"></a>
+
+## An Angel Wrapped in Expanding Light
+
+[![An Angel Wrapped in Expanding Light](<https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg>)](<https://x.com/SaSHeaven26/status/2112002389104349278>)
+
+An English prompt describes wings closing around an angel before light expands and she ascends.
+
+**Model:** Grok Imagine Video
+
+```text
+A angel taking her wings covering herself until her light expands through the wings and penetrates her whole body , she flies into the third heaven
+```
+
+### How to adapt it
+
+Describe transformations as a sequence of visible actions and check continuity between them.
+
+**Shared by:** [Sas](<https://x.com/SaSHeaven26>)
+
+[Original post on X](<https://x.com/SaSHeaven26/status/2112002389104349278>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#angel-wings-expanding-light>)
+
+<a id="animate-this-image-minimal"></a>
+
+## Animate This Image: Minimal Instruction
+
+[![Animate This Image: Minimal Instruction](<https://pbs.twimg.com/amplify_video_thumb/2111989307187838976/img/x37ZcFWSLRxXaUwL.jpg>)](<https://x.com/Screenguy69/status/2111989446929461526>)
+
+A minimal English instruction accompanies a Grok Imagine animation example.
+
+**Model:** Grok Imagine Video
+
+```text
+Animate this image
+```
+
+### How to adapt it
+
+Supply your own still and compare a minimal animation request with a specific movement instruction.
+
+**Shared by:** [Barry Duffield](<https://x.com/Screenguy69>)
+
+[Original post on X](<https://x.com/Screenguy69/status/2111989446929461526>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#animate-this-image-minimal>)
+
+<a id="cottage-imagineart-grok-workflow"></a>
+
+## A Cottage Through ImagineArt
+
+[![A Cottage Through ImagineArt](<https://pbs.twimg.com/amplify_video_thumb/2112053595767963648/img/ZifEmHfWtjEwSvxw.jpg>)](<https://x.com/ai_with_shah/status/2112053786911056315>)
+
+A cottage scene is attributed to Grok Imagine accessed through ImagineArt.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use an owned landscape reference and specify one gentle environmental movement.
+
+**Shared by:** [Shah](<https://x.com/ai_with_shah>)
+
+[Original post on X](<https://x.com/ai_with_shah/status/2112053786911056315>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#cottage-imagineart-grok-workflow>)
+
+<a id="gpt-image-grok-video-workflow"></a>
+
+## GPT Image Artwork to Grok Video
+
+[![GPT Image Artwork to Grok Video](<https://pbs.twimg.com/amplify_video_thumb/2112044122848772096/img/UVytNn9eF9PbGuLU.jpg>)](<https://x.com/leo_xiaolei/status/2112044225219236123>)
+
+The creator credits GPT Image 2.5 for the still and Grok Imagine for the video.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Record still-image creation and animation as separate steps, preserving the original input.
+
+**Shared by:** [水族店刘老板](<https://x.com/leo_xiaolei>)
+
+[Original post on X](<https://x.com/leo_xiaolei/status/2112044225219236123>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#gpt-image-grok-video-workflow>)
+
+<a id="purple-qipao-window-shadow"></a>
+
+## A Purple Qipao in Window Light
+
+[![A Purple Qipao in Window Light](<https://pbs.twimg.com/amplify_video_thumb/2112020027008598017/img/KByjUFzIeKvMJvKT.jpg>)](<https://x.com/rexx_xer82545/status/2112020267904208904>)
+
+A purple-qipao scene combines a ChatGPT first frame with Grok Imagine animation.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Create a first frame with clear window light and give the animation a restrained motion direction.
+
+**Shared by:** [xer rexx](<https://x.com/rexx_xer82545>)
+
+[Original post on X](<https://x.com/rexx_xer82545/status/2112020267904208904>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#purple-qipao-window-shadow>)
+
+<a id="instrumental-song-grok-bot-workflow"></a>
+
+## An Instrumental Music Video Workflow
+
+[![An Instrumental Music Video Workflow](<https://pbs.twimg.com/amplify_video_thumb/2111993693498667008/img/75otRp_MoG9FgjJm.jpg>)](<https://x.com/atomtanstudio/status/2111994716950843714>)
+
+The creator describes Grok Bot assembling a music video from a supplied instrumental song and Grok Imagine footage.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the supplied song, orchestration instructions and individual clip prompts separately documented.
+
+**Shared by:** [Rich · Atom Tan Studio](<https://x.com/atomtanstudio>)
+
+[Original post on X](<https://x.com/atomtanstudio/status/2111994716950843714>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#instrumental-song-grok-bot-workflow>)
+
+<a id="watchers-hymn-midjourney-grok"></a>
+
+## The Watcher’s Hymn: A Shared Workflow
+
+[![The Watcher’s Hymn: A Shared Workflow](<https://pbs.twimg.com/amplify_video_thumb/2111991494391517184/img/coiIqzlGqSAM9Ptl.jpg>)](<https://x.com/crusadersen/status/2111991533381763279>)
+
+A stylized character video credits Midjourney and Grok Imagine in a shared visual workflow.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Separate source-art creation from animation and preserve tool credits for each stage.
+
+**Shared by:** [Crusader Sentinel](<https://x.com/crusadersen>)
+
+[Original post on X](<https://x.com/crusadersen/status/2111991533381763279>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#watchers-hymn-midjourney-grok>)
+
+<a id="helloween-stable-diffusion-grok"></a>
+
+## Hello…weeeen: A Halloween Workflow
+
+[![Hello…weeeen: A Halloween Workflow](<https://pbs.twimg.com/amplify_video_thumb/2111985578816446464/img/w1w7VPbCU1ZCJKHQ.jpg>)](<https://x.com/aiimaginarium/status/2111985649419252026>)
+
+An anime-style character clip captioned “Hello…weeeen” credits Stable Diffusion alongside Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Create a seasonal still, animate one clear action and credit each contributing tool.
+
+**Shared by:** [メガネとチョーカー /sweet glasses](<https://x.com/aiimaginarium>)
+
+[Original post on X](<https://x.com/aiimaginarium/status/2111985649419252026>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#helloween-stable-diffusion-grok>)
+
+<a id="black-monday-halloween-animation"></a>
+
+## Black Monday Meets Halloween
+
+[![Black Monday Meets Halloween](<https://pbs.twimg.com/amplify_video_thumb/2111873129358520320/img/zQHVEBP6jguyavIh.jpg>)](<https://x.com/hanagekkou/status/2111873222002213019>)
+
+A Halloween market scene uses Manus artwork attributed to GPT Image 2.5 and Grok Imagine animation.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Develop a fictional visual metaphor in a still, then animate lighting and background elements.
+
+**Shared by:** [華月光](<https://x.com/hanagekkou>)
+
+[Original post on X](<https://x.com/hanagekkou/status/2111873222002213019>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#black-monday-halloween-animation>)
+
+<a id="intestines-illustration-animation"></a>
+
+## Animating an Intestines Illustration
+
+[![Animating an Intestines Illustration](<https://pbs.twimg.com/amplify_video_thumb/2112050395035955200/img/b_xMllpkxoVhcqcW.jpg>)](<https://x.com/ClaudiaNurs/status/2112050649294671890>)
+
+The creator attributes an animated digestive-system illustration to Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use an owned diagram and specify restrained motion, checking the animation against its intended teaching purpose.
+
+**Shared by:** [Claudia](<https://x.com/ClaudiaNurs>)
+
+[Original post on X](<https://x.com/ClaudiaNurs/status/2112050649294671890>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#intestines-illustration-animation>)
 
 ## Contributing
 
