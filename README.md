@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **190 examples**, with collection entries reviewed through **2026-10-19**.
+The collection currently contains **204 examples**, with collection entries reviewed through **2026-10-20**.
 
 ## How to use these prompts
 
@@ -207,6 +207,20 @@ The collection currently contains **190 examples**, with collection entries revi
 - [Hello…weeeen: A Halloween Workflow](<#helloween-stable-diffusion-grok>)
 - [Black Monday Meets Halloween](<#black-monday-halloween-animation>)
 - [Animating an Intestines Illustration](<#intestines-illustration-animation>)
+- [Deer at Mountain Sunrise](<#deer-at-mountain-sunrise>)
+- [A Future City with Aerial Traffic](<#future-city-aerial-traffic>)
+- [A Robot Rides a Fantasy Dragon](<#robot-riding-falcor>)
+- [A Captioned Starship Explainer](<#starship-captioned-explainer>)
+- [Action in a Torchlit Fantasy Hall](<#torchlit-fantasy-hall>)
+- [A Cozy Anime Workshop Scene](<#cozy-anime-workshop>)
+- [Cosmic Clock Artwork in Motion](<#cosmic-clock-art-animation>)
+- [A Golden Gown in a Palace Hall](<#golden-gown-palace-walk>)
+- [A Golden Gown Portrait Close-Up](<#golden-gown-portrait-closeup>)
+- [Make It Motion: An Anime Example](<#make-it-motion-anime>)
+- [Famous Paintings Animated Through Korpi](<#paintings-through-korpi>)
+- [A Spaceport Launch Sequence](<#spaceport-launch-sequence>)
+- [An Early Grok Imagine Logo Animation](<#early-grok-cosmic-logo>)
+- [A Halloween Escape by Broomstick](<#halloween-aerial-escape>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -4352,6 +4366,298 @@ Use an owned diagram and specify restrained motion, checking the animation again
 **Shared by:** [Claudia](<https://x.com/ClaudiaNurs>)
 
 [Original post on X](<https://x.com/ClaudiaNurs/status/2112050649294671890>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#intestines-illustration-animation>)
+
+<a id="deer-at-mountain-sunrise"></a>
+
+## Deer at Mountain Sunrise
+
+[![Deer at Mountain Sunrise](<https://pbs.twimg.com/amplify_video_thumb/2112422436566425600/img/igFEX3DPb1fsem8L.jpg>)](<https://x.com/HawkinsonLindy/status/2112422511124332928>)
+
+A short English prompt places deer among rocks and pine trees beneath a mountain sunrise.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `en`
+
+```text
+Sun rising over mountains pine trees birds signing buck deer and doe deer leap over rocks and run into the forest
+```
+
+### How to adapt it
+
+Keep one animal action and a clear time of day; check that the animals stay consistent across the shot.
+
+**Shared by:** [Lindy Hawkinson](<https://x.com/HawkinsonLindy>)
+
+[Original post on X](<https://x.com/HawkinsonLindy/status/2112422511124332928>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#deer-at-mountain-sunrise>)
+
+<a id="future-city-aerial-traffic"></a>
+
+## A Future City with Aerial Traffic
+
+[![A Future City with Aerial Traffic](<https://pbs.twimg.com/amplify_video_thumb/2112415762736709632/img/qvfMDrMME-qJeD85.jpg>)](<https://x.com/cradrrat/status/2112415823528939708>)
+
+An expansive futuristic city combines illuminated towers, elevated roads and flying vehicles.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Describe the city silhouette, traffic layers and camera path separately.
+
+**Shared by:** [cradrrat](<https://x.com/cradrrat>)
+
+[Original post on X](<https://x.com/cradrrat/status/2112415823528939708>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#future-city-aerial-traffic>)
+
+<a id="robot-riding-falcor"></a>
+
+## A Robot Rides a Fantasy Dragon
+
+[![A Robot Rides a Fantasy Dragon](<https://pbs.twimg.com/amplify_video_thumb/2112422352214798336/img/f-pmPGtXo8bGsuMR.jpg>)](<https://x.com/cradrrat/status/2112422531336692135>)
+
+The creator credits Grok Imagine for a robot riding Falcor through a night sky.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use an original rider and creature, specifying their relative positions and flight direction.
+
+**Shared by:** [cradrrat](<https://x.com/cradrrat>)
+
+[Original post on X](<https://x.com/cradrrat/status/2112422531336692135>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#robot-riding-falcor>)
+
+<a id="starship-captioned-explainer"></a>
+
+## A Captioned Starship Explainer
+
+[![A Captioned Starship Explainer](<https://pbs.twimg.com/amplify_video_thumb/2112421073287282688/img/zccXZjpU_yzYpxiL.jpg>)](<https://x.com/OrbitalHustle/status/2112421177318617451>)
+
+The creator credits Grok Imagine for the visuals in a captioned Starship explainer.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Generate a clear vehicle shot and add independently checked explanatory captions in an editor.
+
+**Shared by:** [OrbitalHustle](<https://x.com/OrbitalHustle>)
+
+[Original post on X](<https://x.com/OrbitalHustle/status/2112421177318617451>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#starship-captioned-explainer>)
+
+<a id="torchlit-fantasy-hall"></a>
+
+## Action in a Torchlit Fantasy Hall
+
+[![Action in a Torchlit Fantasy Hall](<https://pbs.twimg.com/amplify_video_thumb/2112417088719515648/img/C0jF8VUhyhR1InEE.jpg>)](<https://x.com/TheCFormula/status/2112417137759334599>)
+
+The creator attributes a fantasy action scene in a stone hall to Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Establish the room and character positions before adding coordinated movement.
+
+**Shared by:** [@TheCFormula credo.](<https://x.com/TheCFormula>)
+
+[Original post on X](<https://x.com/TheCFormula/status/2112417137759334599>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#torchlit-fantasy-hall>)
+
+<a id="cozy-anime-workshop"></a>
+
+## A Cozy Anime Workshop Scene
+
+[![A Cozy Anime Workshop Scene](<https://pbs.twimg.com/amplify_video_thumb/2112380656462479360/img/Yz6sQxXKcwjAL4t4.jpg>)](<https://x.com/chang_/status/2112380830790377602>)
+
+A Grok Imagine post shows two stylized characters moving inside a warmly lit workshop.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use an owned character still and ask for small gestures while preserving the background layout.
+
+**Shared by:** [Chang](<https://x.com/chang_>)
+
+[Original post on X](<https://x.com/chang_/status/2112380830790377602>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#cozy-anime-workshop>)
+
+<a id="cosmic-clock-art-animation"></a>
+
+## Cosmic Clock Artwork in Motion
+
+[![Cosmic Clock Artwork in Motion](<https://pbs.twimg.com/amplify_video_thumb/2112380567291625472/img/hmc6KcBSgV3mZIiy.jpg>)](<https://x.com/AlinEugenC/status/2112380631133180396>)
+
+The creator credits ChatGPT artwork and Grok Imagine generation for a cosmic clock animation.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Prepare a detailed still first, then animate the central mechanism and surrounding light.
+
+**Shared by:** [Alin Eugen Costin](<https://x.com/AlinEugenC>)
+
+[Original post on X](<https://x.com/AlinEugenC/status/2112380631133180396>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#cosmic-clock-art-animation>)
+
+<a id="golden-gown-palace-walk"></a>
+
+## A Golden Gown in a Palace Hall
+
+[![A Golden Gown in a Palace Hall](<https://pbs.twimg.com/amplify_video_thumb/2112416354364211200/img/Wznqs3Hi_jzIQ-LV.jpg>)](<https://x.com/AlmazaAi/status/2112416410035204565>)
+
+A Grok Imagine post shows a woman in a flowing gold gown walking through an ornate palace hall.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Define the walking direction, fabric movement and camera approach for a fashion shot.
+
+**Shared by:** [Almaza Aimukhametova](<https://x.com/AlmazaAi>)
+
+[Original post on X](<https://x.com/AlmazaAi/status/2112416410035204565>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#golden-gown-palace-walk>)
+
+<a id="golden-gown-portrait-closeup"></a>
+
+## A Golden Gown Portrait Close-Up
+
+[![A Golden Gown Portrait Close-Up](<https://pbs.twimg.com/amplify_video_thumb/2112415839999709184/img/9wyMnyZjZp22skZK.jpg>)](<https://x.com/AlmazaAi/status/2112415880869220847>)
+
+A Grok Imagine post presents a close portrait with subtle facial movement inside an ornate hall.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use an owned portrait and specify a subtle head turn and restrained camera movement.
+
+**Shared by:** [Almaza Aimukhametova](<https://x.com/AlmazaAi>)
+
+[Original post on X](<https://x.com/AlmazaAi/status/2112415880869220847>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#golden-gown-portrait-closeup>)
+
+<a id="make-it-motion-anime"></a>
+
+## Make It Motion: An Anime Example
+
+[![Make It Motion: An Anime Example](<https://pbs.twimg.com/amplify_video_thumb/2112355980029632512/img/5Q0d8HdLKY0wdmZ4.jpg>)](<https://x.com/EvolutionLaker/status/2112356006596653098>)
+
+A three-word instruction accompanies an animated montage of recognizable anime characters.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `en`
+
+```text
+Make it motion
+```
+
+### How to adapt it
+
+Try a short movement instruction on an owned illustration, then add constraints if character details drift.
+
+**Shared by:** [Jonathonne](<https://x.com/EvolutionLaker>)
+
+[Original post on X](<https://x.com/EvolutionLaker/status/2112356006596653098>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#make-it-motion-anime>)
+
+<a id="paintings-through-korpi"></a>
+
+## Famous Paintings Animated Through Korpi
+
+[![Famous Paintings Animated Through Korpi](<https://pbs.twimg.com/amplify_video_thumb/2112348334379651072/img/olj1xtpJ2QuVNoXY.jpg>)](<https://x.com/KorpiAi/status/2112355622171631627>)
+
+A Korpi demonstration presents Grok Imagine animations of the Mona Lisa, Starry Night and The Great Wave.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Animate a public-domain artwork with restrained motion and compare the result with the original composition.
+
+**Shared by:** [Korpi AI](<https://x.com/KorpiAi>)
+
+[Original post on X](<https://x.com/KorpiAi/status/2112355622171631627>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#paintings-through-korpi>)
+
+<a id="spaceport-launch-sequence"></a>
+
+## A Spaceport Launch Sequence
+
+[![A Spaceport Launch Sequence](<https://pbs.twimg.com/amplify_video_thumb/2112351001348825089/img/t8jHocxq2fu8IbMD.jpg>)](<https://x.com/kendreik/status/2112351020647063815>)
+
+A creator shares an English prompt for a spaceport video with a launch and a flight toward the Moon.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `en`
+
+```text
+According to artist kendreik @kendreik videos of spaceports , recent videos old 2 months create video of spaceport and future trafic to space to moon
+```
+
+### How to adapt it
+
+Specify the launch shot separately from space travel; use references only when they are available.
+
+**Shared by:** [KENDREIK Artist](<https://x.com/kendreik>)
+
+[Original post on X](<https://x.com/kendreik/status/2112351020647063815>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#spaceport-launch-sequence>)
+
+<a id="early-grok-cosmic-logo"></a>
+
+## An Early Grok Imagine Logo Animation
+
+[![An Early Grok Imagine Logo Animation](<https://pbs.twimg.com/amplify_video_thumb/2112350329417191424/img/pWZYLA_C4lshQbdc.jpg>)](<https://x.com/OffRoadCampBoys/status/2112350338120581360>)
+
+A creator shares an early Grok Imagine video with a glowing cosmic ring and animated logo.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use your own wordmark and test whether letterforms remain readable during the transition.
+
+**Shared by:** [OffRoadCampingBoys](<https://x.com/OffRoadCampBoys>)
+
+[Original post on X](<https://x.com/OffRoadCampBoys/status/2112350338120581360>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#early-grok-cosmic-logo>)
+
+<a id="halloween-aerial-escape"></a>
+
+## A Halloween Escape by Broomstick
+
+[![A Halloween Escape by Broomstick](<https://pbs.twimg.com/amplify_video_thumb/2112381928561340416/img/LFjOTYV87_RwA8Ki.jpg>)](<https://x.com/Watashi_MaryT/status/2112382010677428498>)
+
+A creator credits Grok Imagine for a Halloween action scene with a witch and an airborne escape.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan the chase, arrival and escape as separate story beats with consistent character references.
+
+**Shared by:** [🎀 𝑀𝒶𝓇𝓎𝒯 🎀 🇦🇷🇵🇪🇯🇵](<https://x.com/Watashi_MaryT>)
+
+[Original post on X](<https://x.com/Watashi_MaryT/status/2112382010677428498>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#halloween-aerial-escape>)
 
 ## Contributing
 
