@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **204 examples**, with collection entries reviewed through **2026-10-20**.
+The collection currently contains **218 examples**, with collection entries reviewed through **2026-10-21**.
 
 ## How to use these prompts
 
@@ -221,6 +221,20 @@ The collection currently contains **204 examples**, with collection entries revi
 - [A Spaceport Launch Sequence](<#spaceport-launch-sequence>)
 - [An Early Grok Imagine Logo Animation](<#early-grok-cosmic-logo>)
 - [A Halloween Escape by Broomstick](<#halloween-aerial-escape>)
+- [A Tennis Serve and Dailydose Brand Reveal](<#tennis-serve-dailydose-brand-reveal>)
+- [Hiro Becomes a Steampunk Shiba Samurai](<#hiro-steampunk-shiba-samurai>)
+- [A Steampunk Butterfly Dog Takes Flight](<#steampunk-butterfly-dog-flight>)
+- [Grok Helps in a Blacksmith Workshop](<#grok-blacksmith-workshop>)
+- [Cosmic Eyes with a Deep Voiceover Prompt](<#cosmic-eyes-deep-voiceover>)
+- [A Lion on a Golden Celestial Path](<#lion-golden-celestial-path>)
+- [An Angel on a Colorful Flower Path](<#angel-colorful-flower-path>)
+- [A Futuristic Fashion Dance](<#futuristic-fashion-couple-dance>)
+- [A Swordswoman After Practice](<#swordswoman-after-practice>)
+- [An Imagined Feeling Becomes a Cosmic Portrait](<#grok-feelings-cosmic-portrait>)
+- [Lucid Dream-State with Adobe Post-Processing](<#lucid-dream-state-adobe-workflow>)
+- [A Miami Fan Music Video Workflow](<#rush-criminal-miami-music-video>)
+- [A Bird Flies Along a Sunrise Coast](<#bird-coastal-sunrise-flight>)
+- [A Perseus Fantasy Figure in Motion](<#perseus-fantasy-figure-animation>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -4658,6 +4672,303 @@ Plan the chase, arrival and escape as separate story beats with consistent chara
 **Shared by:** [🎀 𝑀𝒶𝓇𝓎𝒯 🎀 🇦🇷🇵🇪🇯🇵](<https://x.com/Watashi_MaryT>)
 
 [Original post on X](<https://x.com/Watashi_MaryT/status/2112382010677428498>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#halloween-aerial-escape>)
+
+<a id="tennis-serve-dailydose-brand-reveal"></a>
+
+## A Tennis Serve and Dailydose Brand Reveal
+
+[![A Tennis Serve and Dailydose Brand Reveal](<https://pbs.twimg.com/amplify_video_thumb/2112756937381326848/img/jk5lYu5pRs3fUA1A.jpg>)](<https://x.com/dailydose2004/status/2112756975326908609>)
+
+A creator shares a tennis commercial with a serve, racket close-ups and an overhead brand reveal.
+
+**Model:** Grok Imagine Video
+
+```text
+Create a 6 second cinematic tennis brand reveal for Dailydose .
+
+Scene 1: The Serve (6s): Create a photorealistic 16:9 premium tennis commercial. A beautiful female tennis player wearing a vibrant hot-pink fitted tennis top, crisp white pleated tennis skirt, matching pink headband and pink tennis shoes performs a powerful serve with a Dailydose tennis racket. Track the ball with dynamic cinematic camera movement, then freeze time for a dramatic close-up of her outfit, racket and ball.
+
+Scene 2: The Brand Reveal (6s): Continue seamlessly from Scene 1. Follow the tennis ball flying across the court, then rise into an aerial view revealing white and pink tennis balls arranged to spell “Dailydose” on the court. Finish with a clean, stable overhead brand reveal.
+
+Style: Ultra-realistic, premium sports advertising, smooth camera movement, consistent character and outfit, natural lighting, crisp details, no extra text, no misspelled lettering.
+```
+
+### How to adapt it
+
+Replace the brand and outfit while keeping the serve-to-overhead structure. Check lettering and continuity between shots.
+
+**Shared by:** [Dailydose](<https://x.com/dailydose2004>)
+
+[Original post on X](<https://x.com/dailydose2004/status/2112756975326908609>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#tennis-serve-dailydose-brand-reveal>)
+
+<a id="hiro-steampunk-shiba-samurai"></a>
+
+## Hiro Becomes a Steampunk Shiba Samurai
+
+[![Hiro Becomes a Steampunk Shiba Samurai](<https://pbs.twimg.com/amplify_video_thumb/2112754224903979008/img/eTrYjw9bbWQR_bPl.jpg>)](<https://x.com/schaniteration2/status/2112754273981497746>)
+
+A short transformation prompt turns a pet dog into an armored steampunk samurai.
+
+**Model:** Grok Imagine Video
+
+```text
+Make Hiro turn into a steampunk animated Kurosawa Shiba Samurai.  No talking and Japanese music.
+```
+
+### How to adapt it
+
+Use your own pet reference and specify the armor, music and whether speech is allowed.
+
+**Shared by:** [Simon](<https://x.com/schaniteration2>)
+
+[Original post on X](<https://x.com/schaniteration2/status/2112754273981497746>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#hiro-steampunk-shiba-samurai>)
+
+<a id="steampunk-butterfly-dog-flight"></a>
+
+## A Steampunk Butterfly Dog Takes Flight
+
+[![A Steampunk Butterfly Dog Takes Flight](<https://pbs.twimg.com/amplify_video_thumb/2112752511471812608/img/u2nwWiQ8uzWhWHNx.jpg>)](<https://x.com/Opalmnbz/status/2112752525497536691>)
+
+A two-line prompt gives a small dog butterfly wings and sends it flying across a room.
+
+**Model:** Grok Imagine Video
+
+```text
+Grok imagine a dog butterfly flying away 
+Steampunk
+```
+
+### How to adapt it
+
+Start with your own pet photo and describe wing style and the flight direction.
+
+**Shared by:** [Opal🦋](<https://x.com/Opalmnbz>)
+
+[Original post on X](<https://x.com/Opalmnbz/status/2112752525497536691>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#steampunk-butterfly-dog-flight>)
+
+<a id="grok-blacksmith-workshop"></a>
+
+## Grok Helps in a Blacksmith Workshop
+
+[![Grok Helps in a Blacksmith Workshop](<https://pbs.twimg.com/amplify_video_thumb/2112730596418125824/img/RYRMp-6LgiopUd5H.jpg>)](<https://x.com/lighthouse42f/status/2112730618614456333>)
+
+A brief prompt accompanies a warm, gear-filled fantasy forge with sparks and working characters.
+
+**Model:** Grok Imagine Video
+
+```text
+Grok helping in black smith shop
+```
+
+### How to adapt it
+
+Name the workshop activity and one visible motion, then specify the framing and lighting.
+
+**Shared by:** [Cathy has this](<https://x.com/lighthouse42f>)
+
+[Original post on X](<https://x.com/lighthouse42f/status/2112730618614456333>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#grok-blacksmith-workshop>)
+
+<a id="cosmic-eyes-deep-voiceover"></a>
+
+## Cosmic Eyes with a Deep Voiceover Prompt
+
+[![Cosmic Eyes with a Deep Voiceover Prompt](<https://pbs.twimg.com/amplify_video_thumb/2112728615062261760/img/OGILI4iOvDclpSFs.jpg>)](<https://x.com/kendreik/status/2112728646582735171>)
+
+A creator pairs surreal planetary and green cosmic imagery with a short deep-voiceover instruction.
+
+**Model:** Grok Imagine Video
+
+```text
+With voicer over deep : the eyes that can see beyond moon and mars to take humanity where we never been before ...
+```
+
+### How to adapt it
+
+Replace the narration with your own line and check the spoken delivery separately from the visuals.
+
+**Shared by:** [KENDREIK Artist](<https://x.com/kendreik>)
+
+[Original post on X](<https://x.com/kendreik/status/2112728646582735171>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#cosmic-eyes-deep-voiceover>)
+
+<a id="lion-golden-celestial-path"></a>
+
+## A Lion on a Golden Celestial Path
+
+[![A Lion on a Golden Celestial Path](<https://pbs.twimg.com/amplify_video_thumb/2112769723201134592/img/QS-S8PfgeX57-4g_.jpg>)](<https://x.com/SheilaAnnNCM/status/2112769974960067064>)
+
+A lion moves from a rocky sunset scene into a luminous fantasy path surrounded by lion portraits.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+For a similar experiment, use one animal and a clear transition from a real setting into a luminous fantasy scene.
+
+**Shared by:** [Sheila Ann](<https://x.com/SheilaAnnNCM>)
+
+[Original post on X](<https://x.com/SheilaAnnNCM/status/2112769974960067064>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#lion-golden-celestial-path>)
+
+<a id="angel-colorful-flower-path"></a>
+
+## An Angel on a Colorful Flower Path
+
+[![An Angel on a Colorful Flower Path](<https://pbs.twimg.com/amplify_video_thumb/2112769691923992576/img/-DYZp2_oi0_qEYnX.jpg>)](<https://x.com/yael_maimon/status/2112769708944490582>)
+
+An angelic figure stands among glowing flowers as a dark blue garden fills with bright color.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Try a restrained character action while gradually changing the garden lighting and flower colors.
+
+**Shared by:** [Yael Maimon](<https://x.com/yael_maimon>)
+
+[Original post on X](<https://x.com/yael_maimon/status/2112769708944490582>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#angel-colorful-flower-path>)
+
+<a id="futuristic-fashion-couple-dance"></a>
+
+## A Futuristic Fashion Dance
+
+[![A Futuristic Fashion Dance](<https://pbs.twimg.com/amplify_video_thumb/2112766099913633792/img/PtsLjegUvVuingBD.jpg>)](<https://x.com/watersavvy/status/2112766207627571687>)
+
+A couple in dark and reflective outfits dances before the clip shifts to a red futuristic interior.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Define the two outfits and a simple dance before testing a change of setting.
+
+**Shared by:** [angelique](<https://x.com/watersavvy>)
+
+[Original post on X](<https://x.com/watersavvy/status/2112766207627571687>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#futuristic-fashion-couple-dance>)
+
+<a id="swordswoman-after-practice"></a>
+
+## A Swordswoman After Practice
+
+[![A Swordswoman After Practice](<https://pbs.twimg.com/amplify_video_thumb/2112524465225801728/img/BzrNm8wQf-uj8TYs.jpg>)](<https://x.com/KaTbgsJhym8493/status/2112634961895530530>)
+
+A swordswoman in a white jacket and dark hakama pauses indoors while holding her training mask.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Focus on a single pause, a small head movement and steady framing for a quiet character study.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2112634961895530530>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#swordswoman-after-practice>)
+
+<a id="grok-feelings-cosmic-portrait"></a>
+
+## An Imagined Feeling Becomes a Cosmic Portrait
+
+[![An Imagined Feeling Becomes a Cosmic Portrait](<https://pbs.twimg.com/amplify_video_thumb/2112723658707812352/img/IZDN6vWp2ALKgVzh.jpg>)](<https://x.com/VeiledVault/status/2112723708163059716>)
+
+A creator animates a Grok-generated image into a blue cosmic portrait with subtle face and head movement.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Create your own abstract character portrait first, then animate one small expression or head turn.
+
+**Shared by:** [Vaults](<https://x.com/VeiledVault>)
+
+[Original post on X](<https://x.com/VeiledVault/status/2112723708163059716>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#grok-feelings-cosmic-portrait>)
+
+<a id="lucid-dream-state-adobe-workflow"></a>
+
+## Lucid Dream-State with Adobe Post-Processing
+
+[![Lucid Dream-State with Adobe Post-Processing](<https://pbs.twimg.com/amplify_video_thumb/2112721977941069824/img/pQpTK7qPL1pvcvA5.jpg>)](<https://x.com/Delerat7/status/2112721993376403915>)
+
+A purple eye sits inside a rotating, fractured abstract composition made with Grok Imagine and Adobe edits.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Choose one visual motif for the animation and plan any extra compositing or finishing as separate editing steps.
+
+**Shared by:** [Sean McDaniel](<https://x.com/Delerat7>)
+
+[Original post on X](<https://x.com/Delerat7/status/2112721993376403915>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#lucid-dream-state-adobe-workflow>)
+
+<a id="rush-criminal-miami-music-video"></a>
+
+## A Miami Fan Music Video Workflow
+
+[![A Miami Fan Music Video Workflow](<https://pbs.twimg.com/amplify_video_thumb/2112717022358646784/img/U88HvfQBv0MZw0Js.jpg>)](<https://x.com/thefirmament17/status/2112717512932839758>)
+
+A fan music video combines Grok Imagine performance shots with other AI tools, editing and color grading.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan performance, filler shots, timing and grading separately, using your own characters and music.
+
+**Shared by:** [thefirmament17](<https://x.com/thefirmament17>)
+
+[Original post on X](<https://x.com/thefirmament17/status/2112717512932839758>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#rush-criminal-miami-music-video>)
+
+<a id="bird-coastal-sunrise-flight"></a>
+
+## A Bird Flies Along a Sunrise Coast
+
+[![A Bird Flies Along a Sunrise Coast](<https://pbs.twimg.com/amplify_video_thumb/2112526428852060160/img/yaX3mZ6lFN_oGHDV.jpg>)](<https://x.com/KaTbgsJhym8493/status/2112657613389476185>)
+
+A low coastal flight follows a bird over waves and cliffs toward a golden sunrise.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Specify flight height, coastline direction and sunrise lighting to organize a continuous travel shot.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2112657613389476185>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#bird-coastal-sunrise-flight>)
+
+<a id="perseus-fantasy-figure-animation"></a>
+
+## A Perseus Fantasy Figure in Motion
+
+[![A Perseus Fantasy Figure in Motion](<https://pbs.twimg.com/amplify_video_thumb/2112131559436492800/img/JhnvYgtQ0-E-OkIA.jpg>)](<https://x.com/ban_chan7847/status/2112657612672290983>)
+
+A shield-bearing fantasy warrior moves through a torchlit classical temple with a severed monster head.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use your own fantasy figure and test a simple step or pose change while keeping costume and props consistent.
+
+**Shared by:** [ばんちゃんねる](<https://x.com/ban_chan7847>)
+
+[Original post on X](<https://x.com/ban_chan7847/status/2112657612672290983>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#perseus-fantasy-figure-animation>)
 
 ## Contributing
 
