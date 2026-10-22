@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **218 examples**, with collection entries reviewed through **2026-10-21**.
+The collection currently contains **232 examples**, with collection entries reviewed through **2026-10-22**.
 
 ## How to use these prompts
 
@@ -235,6 +235,20 @@ The collection currently contains **218 examples**, with collection entries revi
 - [A Miami Fan Music Video Workflow](<#rush-criminal-miami-music-video>)
 - [A Bird Flies Along a Sunrise Coast](<#bird-coastal-sunrise-flight>)
 - [A Perseus Fantasy Figure in Motion](<#perseus-fantasy-figure-animation>)
+- [A Flight Attendant in Two Japanese Dialogue Shots](<#flight-attendant-two-shot-greeting>)
+- [A Russian Affirmation in a City Portrait](<#russian-affirmation-city-portrait>)
+- [A Roadster Takes Flight Above Traffic](<#roadster-rocket-traffic-fantasy>)
+- [Grok Imagine Shares a Jungle Character Story](<#imagine-jungle-character-story>)
+- [Roman Villains and a First-Frame Workflow](<#roman-villain-first-frame-workflow>)
+- [A Blue-Haired Violinist in a Green Meadow](<#blue-haired-violinist-meadow>)
+- [A Red Future Motorcycle on a Night Ride](<#red-future-motorcycle-night-ride>)
+- [An Evening Greeting with a Sake Tray](<#kimono-sake-tray-evening>)
+- [An Anime Maid Changes Her Stance](<#anime-maid-courtyard-stance>)
+- [An Anime Cheer Team and a Pronunciation Limit](<#anime-cheer-team-pronunciation-test>)
+- [Coffee and a Cat by a Painted Window](<#painted-cat-coffee-window>)
+- [A Luminous Heart Inside a Galaxy Vortex](<#luminous-heart-galaxy-vortex>)
+- [A Space-Goblin School Anime Montage](<#space-goblin-school-anime-montage>)
+- [Rock with SI: A Grok and Bot Video](<#rock-with-si-bot-music-video>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -4969,6 +4983,313 @@ Use your own fantasy figure and test a simple step or pose change while keeping 
 **Shared by:** [ばんちゃんねる](<https://x.com/ban_chan7847>)
 
 [Original post on X](<https://x.com/ban_chan7847/status/2112657612672290983>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#perseus-fantasy-figure-animation>)
+
+<a id="flight-attendant-two-shot-greeting"></a>
+
+## A Flight Attendant in Two Japanese Dialogue Shots
+
+[![A Flight Attendant in Two Japanese Dialogue Shots](<https://pbs.twimg.com/amplify_video_thumb/2112867819109175296/img/DdPt9liN_suHdfQI.jpg>)](<https://x.com/HaluAIArt/status/2112869008752218288>)
+
+A cabin greeting moves from a wider view to a close-up, with a Japanese two-scene prompt drafted through Gemini.
+
+**Model:** Grok Imagine Video
+
+### Two-scene video prompt · `ja`
+
+```text
+【全体指示】
+ * 動画長: 6秒（各シーン3秒）
+ * スタイル: シネマティック、リアル、高品質
+ * 人物の一貫性: @Image1 と @Image2 の女性の顔立ち、ヘアスタイル、帽子、制服（ネイビーのスーツ、青と白のスカーフ）を完全に一致させてください。
+【シーン構成】
+ * Scene 1（0〜3秒）：全身カット
+   * ビジュアル: @Image1 をベースに使用。客室乗務員の女性が飛行機の通路で少し前かがみになり、乗客に優しく微笑みかけながら口元を動かして話しかける。カメラはゆっくりと前にズームイン。
+   * 音声（セリフ）: 「本日もご搭乗いただき、誠にありがとうございます。」
+ * Scene 2（3〜6秒）：アップカット
+   * ビジュアル: @Image2 をベースに使用。女性の顔のクローズアップ。少し首をかしげ、首元のスカーフが揺れる中、親しみやすい笑顔で話しかける。
+   * 音声（セリフ）: 「快適な空の旅をお楽しみくださいね。」
+【BGM・音響効果】
+ * BGM: 上心感のある穏やかで優しいピアノとストリングスのアンビエント曲。
+ * 環境音: 飛行機内の静かな環境音（うっすらとしたジェット音）。
+```
+
+### How to adapt it
+
+Replace both reference images with matching views of your own character, then test each three-second dialogue shot.
+
+**Shared by:** [はる](<https://x.com/HaluAIArt>)
+
+[Original post on X](<https://x.com/HaluAIArt/status/2112869008752218288>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#flight-attendant-two-shot-greeting>)
+
+<a id="russian-affirmation-city-portrait"></a>
+
+## A Russian Affirmation in a City Portrait
+
+[![A Russian Affirmation in a City Portrait](<https://pbs.twimg.com/amplify_video_thumb/2112773588415864832/img/JjUXJbEncS7Oo6B4.jpg>)](<https://x.com/AlmazaAi/status/2112773638802002348>)
+
+A close-up portrait against city lights accompanies an author-shared Russian affirmation prompt.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `ru`
+
+```text
+Творец любит меня безусловной любовью.
+Я принимаю столько любви Творца, сколько необходимо моей Душе.
+Да будет так
+```
+
+### How to adapt it
+
+Use a short line in your preferred language and test facial motion and delivery before extending the speech.
+
+**Shared by:** [Almaza Aimukhametova](<https://x.com/AlmazaAi>)
+
+[Original post on X](<https://x.com/AlmazaAi/status/2112773638802002348>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#russian-affirmation-city-portrait>)
+
+<a id="roadster-rocket-traffic-fantasy"></a>
+
+## A Roadster Takes Flight Above Traffic
+
+[![A Roadster Takes Flight Above Traffic](<https://pbs.twimg.com/amplify_video_thumb/2112765941310222336/img/DeWpDxRZvODE8WnG.jpg>)](<https://x.com/RadCyberTruck/status/2112766018804453885>)
+
+A stylized driver enters a roadster before rocket flames launch the car above highway traffic.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `en`
+
+```text
+An anime woman wearing a sports bra and beige leggings stepping into the new Tesla Roadster with rocket trust as she blesses off flies over traffic.
+```
+
+### How to adapt it
+
+Substitute your own vehicle design and separate boarding, ignition and flight into clear action beats.
+
+**Shared by:** [kyle smith](<https://x.com/RadCyberTruck>)
+
+[Original post on X](<https://x.com/RadCyberTruck/status/2112766018804453885>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#roadster-rocket-traffic-fantasy>)
+
+<a id="imagine-jungle-character-story"></a>
+
+## Grok Imagine Shares a Jungle Character Story
+
+[![Grok Imagine Shares a Jungle Character Story](<https://pbs.twimg.com/amplify_video_thumb/2113057760166211584/img/gGHAUiRNMW2XD0ou.jpg>)](<https://x.com/imagine/status/2113064946833801575>)
+
+An @imagine post illustrates its character-creation guide with an animated jungle adventure featuring two explorers.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Create consistent character views before planning separate dialogue and reaction shots for an adventure.
+
+**Shared by:** [Grok Imagine](<https://x.com/imagine>)
+
+[Original post on X](<https://x.com/imagine/status/2113064946833801575>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#imagine-jungle-character-story>)
+
+<a id="roman-villain-first-frame-workflow"></a>
+
+## Roman Villains and a First-Frame Workflow
+
+[![Roman Villains and a First-Frame Workflow](<https://pbs.twimg.com/amplify_video_thumb/2113065777238847488/img/rX7rHau1gjtbVSbT.jpg>)](<https://x.com/bustinbronko/status/2113065889168036090>)
+
+A Roman-themed trailer accompanies the author’s advice to anchor recurring villain faces in the first frame.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build a reference for each recurring character, then compare facial details across separately generated shots.
+
+**Shared by:** [Jean Paul Biancolin](<https://x.com/bustinbronko>)
+
+[Original post on X](<https://x.com/bustinbronko/status/2113065889168036090>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#roman-villain-first-frame-workflow>)
+
+<a id="blue-haired-violinist-meadow"></a>
+
+## A Blue-Haired Violinist in a Green Meadow
+
+[![A Blue-Haired Violinist in a Green Meadow](<https://pbs.twimg.com/amplify_video_thumb/2112895799877341185/img/wq8nczswO-0H4Jof.jpg>)](<https://x.com/kouka_selica/status/2112896036935266511>)
+
+A cat-eared, blue-haired character plays a violin outdoors in a short Grok-attributed animation.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the bowing action simple and check hand placement and instrument continuity across the clip.
+
+**Shared by:** [紅夏](<https://x.com/kouka_selica>)
+
+[Original post on X](<https://x.com/kouka_selica/status/2112896036935266511>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#blue-haired-violinist-meadow>)
+
+<a id="red-future-motorcycle-night-ride"></a>
+
+## A Red Future Motorcycle on a Night Ride
+
+[![A Red Future Motorcycle on a Night Ride](<https://pbs.twimg.com/amplify_video_thumb/2112888109662941184/img/Stif1j-caBBO7YyT.jpg>)](<https://x.com/KOa5p/status/2112888173638701371>)
+
+A red futuristic motorcycle travels through a neon city before the clip cuts to the rider’s face.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use an original bike and rider design, then contrast a tracking shot with a short character close-up.
+
+**Shared by:** [テマリ](<https://x.com/KOa5p>)
+
+[Original post on X](<https://x.com/KOa5p/status/2112888173638701371>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#red-future-motorcycle-night-ride>)
+
+<a id="kimono-sake-tray-evening"></a>
+
+## An Evening Greeting with a Sake Tray
+
+[![An Evening Greeting with a Sake Tray](<https://pbs.twimg.com/amplify_video_thumb/2112875361998610432/img/huoyjlepE68jmrMU.jpg>)](<https://x.com/KaTbgsJhym8493/status/2112875383708401773>)
+
+A woman in a dark kimono holds a sake tray in a warmly lit wooden interior.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Specify one greeting gesture and stable tray placement to keep the props readable during movement.
+
+**Shared by:** [(PCF) ヤーガー（士魂）](<https://x.com/KaTbgsJhym8493>)
+
+[Original post on X](<https://x.com/KaTbgsJhym8493/status/2112875383708401773>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#kimono-sake-tray-evening>)
+
+<a id="anime-maid-courtyard-stance"></a>
+
+## An Anime Maid Changes Her Stance
+
+[![An Anime Maid Changes Her Stance](<https://pbs.twimg.com/amplify_video_thumb/2112646158342553600/img/pxOba4mnmzKmDdnL.jpg>)](<https://x.com/sanojiEZ/status/2112862712753774716>)
+
+An anime-style maid character opens her arms and changes stance in a moonlit courtyard.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with a clear silhouette and test one arm movement while holding the costume and setting consistent.
+
+**Shared by:** [ザンギ・Ｆ・左之字](<https://x.com/sanojiEZ>)
+
+[Original post on X](<https://x.com/sanojiEZ/status/2112862712753774716>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#anime-maid-courtyard-stance>)
+
+<a id="anime-cheer-team-pronunciation-test"></a>
+
+## An Anime Cheer Team and a Pronunciation Limit
+
+[![An Anime Cheer Team and a Pronunciation Limit](<https://pbs.twimg.com/amplify_video_thumb/2112862067728560129/img/_ZrSCEGgvZ0HbuCb.jpg>)](<https://x.com/Silver1969Dtb/status/2112862117506564598>)
+
+An anime cheer sequence illustrates the author’s reported difficulty getting a team name pronounced as intended.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Test the exact spoken team name in a short clip before producing a longer cheer routine.
+
+**Shared by:** [葵ぎん@高嶺の華](<https://x.com/Silver1969Dtb>)
+
+[Original post on X](<https://x.com/Silver1969Dtb/status/2112862117506564598>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#anime-cheer-team-pronunciation-test>)
+
+<a id="painted-cat-coffee-window"></a>
+
+## Coffee and a Cat by a Painted Window
+
+[![Coffee and a Cat by a Painted Window](<https://pbs.twimg.com/media/HVIQ1u7WEAAZblM.jpg>)](<https://x.com/olchaygoren/status/2112769698307641490>)
+
+Hands hold an open book beside coffee and a cat, framed by a swirling painted landscape outside the window.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Choose a small foreground action and gentle background motion to preserve the illustration’s composition.
+
+**Shared by:** [Günaydın & İYİGECELER](<https://x.com/olchaygoren>)
+
+[Original post on X](<https://x.com/olchaygoren/status/2112769698307641490>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#painted-cat-coffee-window>)
+
+<a id="luminous-heart-galaxy-vortex"></a>
+
+## A Luminous Heart Inside a Galaxy Vortex
+
+[![A Luminous Heart Inside a Galaxy Vortex](<https://pbs.twimg.com/amplify_video_thumb/2112757118826606593/img/vUtLXzC6GTo9gmTT.jpg>)](<https://x.com/unplayed_keys/status/2112757177525875175>)
+
+A bright heart-shaped glow pulses within a swirling field of stars and luminous particles.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Define a central shape and a single direction of rotation to make an abstract motion study easier to compare.
+
+**Shared by:** [Unplayed Keys](<https://x.com/unplayed_keys>)
+
+[Original post on X](<https://x.com/unplayed_keys/status/2112757177525875175>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#luminous-heart-galaxy-vortex>)
+
+<a id="space-goblin-school-anime-montage"></a>
+
+## A Space-Goblin School Anime Montage
+
+[![A Space-Goblin School Anime Montage](<https://pbs.twimg.com/amplify_video_thumb/2112759763641450496/img/3zzx8_7U4ghuA0Uf.jpg>)](<https://x.com/picatrix_picori/status/2112760279100448878>)
+
+A stylized school character and a towering creature appear in a montage credited to several AI tools.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan each character beat separately and keep image creation, animation and montage editing distinct.
+
+**Shared by:** [Picatrix Picori](<https://x.com/picatrix_picori>)
+
+[Original post on X](<https://x.com/picatrix_picori/status/2112760279100448878>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#space-goblin-school-anime-montage>)
+
+<a id="rock-with-si-bot-music-video"></a>
+
+## Rock with SI: A Grok and Bot Video
+
+[![Rock with SI: A Grok and Bot Video](<https://pbs.twimg.com/amplify_video_thumb/2112731232597344256/img/T8QweU2kmXkHJ4cC.jpg>)](<https://x.com/VOLDEMORT2X/status/2112732054899331449>)
+
+A fictional Elon Musk performs in a music-video edit credited to Grok Imagine and Grok Bot.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use your own music and plan performance shots and transitions separately before assembling the edit.
+
+**Shared by:** [SPACELESS](<https://x.com/VOLDEMORT2X>)
+
+[Original post on X](<https://x.com/VOLDEMORT2X/status/2112732054899331449>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#rock-with-si-bot-music-video>)
 
 ## Contributing
 
