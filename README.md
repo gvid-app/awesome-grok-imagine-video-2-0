@@ -7,7 +7,7 @@ A curated collection for anyone exploring Grok Imagine Video 2.0 prompts and exa
 
 **[Watch videos and browse Grok Imagine Video prompts and examples](<https://gvid.app/grok-imagine-video-2-prompts>)**
 
-The collection currently contains **232 examples**, with collection entries reviewed through **2026-10-22**.
+The collection currently contains **246 examples**, with collection entries reviewed through **2026-10-23**.
 
 ## How to use these prompts
 
@@ -249,6 +249,20 @@ The collection currently contains **232 examples**, with collection entries revi
 - [A Luminous Heart Inside a Galaxy Vortex](<#luminous-heart-galaxy-vortex>)
 - [A Space-Goblin School Anime Montage](<#space-goblin-school-anime-montage>)
 - [Rock with SI: A Grok and Bot Video](<#rock-with-si-bot-music-video>)
+- [A Walk Through Trintopolis on Mars](<#trintopolis-martian-dome-city>)
+- [Three Characters in a Green-Screen Dance Loop](<#three-character-green-screen-loop-dance>)
+- [A Fluffy Cloud Joins a Japanese Character Scene](<#fluffy-cloud-japanese-character-dialogue>)
+- [An Isaiah Verse Prompt and a Garden Table Scene](<#isaiah-verse-garden-table-scene>)
+- [Sena Dances from Choreography References](<#sena-choreography-reference-production-note>)
+- [A Penguin Turns the Wrong Way](<#penguin-turns-the-wrong-way>)
+- [A Cat-Eared Character in a Graveyard](<#graveyard-cat-animation>)
+- [A Fujisawa Woodblock Print in Motion](<#hiroshige-fujisawa-print-animation>)
+- [A Goblin Walks Through a Forest](<#goblin-forest-walk-animation>)
+- [Next Doll: A Cinema Anime Comic](<#next-doll-cinema-anime-comic>)
+- [A Nebula Goddess from a Meta AI Image](<#ngc-1501-goddess-meta-image-animation>)
+- [Take Five: A Coffee Video Workflow](<#take-five-coffee-multi-tool-video>)
+- [Awaiting: A Grok and Suno Short Film](<#awaiting-grok-suno-short-film>)
+- [Computer Work Without a Humming Instruction](<#computer-work-without-humming>)
 
 <a id="korean-student-vlog-smartphone-video-8761"></a>
 
@@ -5290,6 +5304,335 @@ Use your own music and plan performance shots and transitions separately before 
 **Shared by:** [SPACELESS](<https://x.com/VOLDEMORT2X>)
 
 [Original post on X](<https://x.com/VOLDEMORT2X/status/2112732054899331449>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#rock-with-si-bot-music-video>)
+
+<a id="trintopolis-martian-dome-city"></a>
+
+## A Walk Through Trintopolis on Mars
+
+[![A Walk Through Trintopolis on Mars](<https://pbs.twimg.com/amplify_video_thumb/2113484455377588224/img/b5kJsCHSJRBNuuWR.jpg>)](<https://x.com/KimMaria8ry/status/2113484518522753246>)
+
+A fictional Martian dome city pairs an elaborate world-building prompt with a futuristic couple walking through a crowd.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `en`
+
+```text
+Welcome to Trintopolis 💫
+
+A City known as Trintopolis sits on a Martian hill burnished by the sun, under a gigantic fortified dome.  Within the city are skyscrapers spanning 2200 feet high constructed of glass and transparent in color.  Walkways made of bright white crystal serve as the streets of the city.  There are shops for retail, restaurants to eat at and parks to play in.  A Museum chronicling  Earth's adventures and eventual landing on Mars is prominently displayed in the Museum's halls.
+There are two schools for children and a building called The Iloppheray for higher thought.
+A group of Council Members walk through t h e City observing the order; the commerce.
+Elon Musk, as one of the Governing Leaders walks in front of the group dressed in black and gold futuristic clothing.  Alongside him, next to his side, is his ladylove, a woman of brown color with caramel latte skin tone.  Her hair is cinnamon brown in color with warm caramel and golden honeysuckle highlights.  Her lips are a pink rose blush tinged in cherry color.  Her eyelashes are long.  She is dressed in a futuristic suit of the 23rd Century.  There is a gentle smile on her face as she watches Elon lead the group through  Trintopolis.  Men, women and children go about their daily activities as Elon and the Council Members observe the City.
+
+" Overcast diffused light",  "slow dolly-in", 85 mm lens, atmospheric depth of field,  camera pans slowly to the left, volumetric lighting,  parallax effect,  glow effect,  cross fade,  high resolution output,  native audio generation,  --ar 16.9,  ultra cinematic 4k style film,  no dialogue,  no text
+```
+
+### How to adapt it
+
+Start with the city layout and one camera move; use original characters and treat 4k and audio wording as requests, not verified output settings.
+
+**Shared by:** [Kim Maria](<https://x.com/KimMaria8ry>)
+
+[Original post on X](<https://x.com/KimMaria8ry/status/2113484518522753246>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#trintopolis-martian-dome-city>)
+
+<a id="three-character-green-screen-loop-dance"></a>
+
+## Three Characters in a Green-Screen Dance Loop
+
+[![Three Characters in a Green-Screen Dance Loop](<https://pbs.twimg.com/amplify_video_thumb/2113192406191656960/img/keQNyYESSpMcWdAI.jpg>)](<https://x.com/Eris_Create_Lab/status/2113193356457390160>)
+
+A detailed Japanese prompt directs synchronized anime dancing, fixed framing and a flat green background.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `ja`
+
+```text
+15秒のシームレスなループダンス動画。
+
+画像の3人が、横並びの位置関係を保ちながら、明るくノリのよいポップダンスを踊る。左右のステップタッチ、軽い膝のバウンス、肩と腰のリズム、胸元での小さなアームロール、左右交互の腕の振りを組み合わせる。全員が同じビートで踊り、動きには自然な重心移動と弾力がある。
+
+左の金髪の人物は伸びやかで元気に、中央の水色の髪の人物は弾むように楽しそうに、右の白髪の人物はクールで余裕のある表情で踊る。基本の振り付けは揃えつつ、顔の傾きや手の仕草に小さな個性を持たせる。自然なまばたき。髪と衣装は身体の動きに合わせて柔らかく揺れる。
+
+最初から踊っている状態で始まり、最後まで同じテンポで踊り続ける。終盤の振り付けが冒頭へ自然につながり、接続部分で身体、手足、髪の位置と動く方向が連続する。終了ポーズ、停止、フェードは入れない。
+
+各人物の顔、髪型、髪色、瞳、耳、衣装、配色、体格、元のイラストの画風を維持する。3人はそれぞれの位置で踊り、交差や重なりを避ける。大きな移動や回転はせず、正面を中心に踊る。
+
+固定カメラ、一定の画角。3人の頭、髪、手先、靴まで常に画面内に収め、外周に余白を保つ。ズーム、パン、カット切り替え、モーションブラーなし。
+
+背景は元画像の鮮やかな緑一色を、全フレームで均一に維持する。背景の模様、陰影、グラデーション、床、落ち影、小物、文字、光の演出を追加しない。人物に緑色の反射光を加えず、髪や指先の輪郭を明瞭に保つ。
+
+【映像表現・作画品質】
+
+元画像の線画とセル塗りを保った、高品質な日本の2Dアニメのダンスシーン。輪郭線はシャープで安定し、顔、手指、衣装のチェック柄を一貫して描く。立体的な3DCG調や実写的な質感へ変化させない。
+
+キャラクターの動きは2コマ打ちを基調としたリミテッドアニメーション。フレーム補間されたような過剰に滑らかな動きではなく、明確なキーポーズ、短いタメ、素早い切り返しでリズムを表現する。ビートの要所でポーズを一瞬読ませ、次の動作へ歯切れよく移る。単純にフレームを間引いたような等間隔のカクつきにはしない。
+
+身体の動きを先行させ、髪と衣装は少し遅れて追従し、落ち着く。常時ふわふわ揺れ続ける動きや、ゴムのような身体の変形を避ける。モーションブラー、残像、線のちらつきなし。アニメらしい軽快さと、3人の振り付けのシンクロを優先する。
+```
+
+### How to adapt it
+
+Use a reference image you own, keep all three dancers in frame and compare the final pose with the opening before calling the result seamless.
+
+**Shared by:** [Eris Create Lab](<https://x.com/Eris_Create_Lab>)
+
+[Original post on X](<https://x.com/Eris_Create_Lab/status/2113193356457390160>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#three-character-green-screen-loop-dance>)
+
+<a id="fluffy-cloud-japanese-character-dialogue"></a>
+
+## A Fluffy Cloud Joins a Japanese Character Scene
+
+[![A Fluffy Cloud Joins a Japanese Character Scene](<https://pbs.twimg.com/amplify_video_thumb/2113139481348075520/img/7LaD9PJM47nzlAMx.jpg>)](<https://x.com/image_sho/status/2113139513182880169>)
+
+A short Japanese prompt asks for a cloud-like character to join an illustrated group and speak Japanese.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `ja`
+
+```text
+＊くももか
+
+これに雲みたいにフワフワしたキャラクターを足して日本語で喋ってる動画を作って。
+```
+
+### How to adapt it
+
+Supply your own group illustration and specify who should speak; add the new character without changing the original cast.
+
+**Shared by:** [翔創](<https://x.com/image_sho>)
+
+[Original post on X](<https://x.com/image_sho/status/2113139513182880169>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#fluffy-cloud-japanese-character-dialogue>)
+
+<a id="isaiah-verse-garden-table-scene"></a>
+
+## An Isaiah Verse Prompt and a Garden Table Scene
+
+[![An Isaiah Verse Prompt and a Garden Table Scene](<https://pbs.twimg.com/amplify_video_thumb/2113501660676845568/img/BySgoiylYD1c2UFO.jpg>)](<https://x.com/Bchalk_777_777/status/2113501711633367121>)
+
+A source-labeled Isaiah verse prompt accompanies a Jesus-like figure and companions gathered around a sunlit garden table.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `en`
+
+```text
+“When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you; when you walk through fire you shall not be burned, and the flame shall not consume you.” Isaiah 43:2: ✝️
+```
+
+### How to adapt it
+
+Choose one visual metaphor and a clear subject path; compare the resulting action with the language used in the source.
+
+**Shared by:** [Restful\_Path\_777](<https://x.com/Bchalk_777_777>)
+
+[Original post on X](<https://x.com/Bchalk_777_777/status/2113501711633367121>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#isaiah-verse-garden-table-scene>)
+
+<a id="sena-choreography-reference-production-note"></a>
+
+## Sena Dances from Choreography References
+
+[![Sena Dances from Choreography References](<https://pbs.twimg.com/amplify_video_thumb/2113500855144198145/img/u0BQ-PS9fWvimMI0.jpg>)](<https://x.com/LumiStageGame/status/2113501527403118633>)
+
+An anime dance example accompanies a creator comparison of choreography references and a first-frame grid.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Compare one reference workflow at a time using the same character, duration and scene before drawing conclusions about pose fidelity.
+
+**Shared by:** [LumiStage](<https://x.com/LumiStageGame>)
+
+[Original post on X](<https://x.com/LumiStageGame/status/2113501527403118633>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#sena-choreography-reference-production-note>)
+
+<a id="penguin-turns-the-wrong-way"></a>
+
+## A Penguin Turns the Wrong Way
+
+[![A Penguin Turns the Wrong Way](<https://pbs.twimg.com/amplify_video_thumb/2113416335204220928/img/U5Rz5zpoKYU4QeFs.jpg>)](<https://x.com/SyuzaPenguin/status/2113416375301763166>)
+
+Two plush penguins sit on a sofa as the larger one turns away, illustrating a creator-reported direction mismatch.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Specify the starting orientation and which shoulder should lead the turn, then check the result frame by frame.
+
+**Shared by:** [しゅざ](<https://x.com/SyuzaPenguin>)
+
+[Original post on X](<https://x.com/SyuzaPenguin/status/2113416375301763166>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#penguin-turns-the-wrong-way>)
+
+<a id="graveyard-cat-animation"></a>
+
+## A Cat-Eared Character in a Graveyard
+
+[![A Cat-Eared Character in a Graveyard](<https://pbs.twimg.com/amplify_video_thumb/2113428512531226624/img/OMjpP5XqJe_PduK9.jpg>)](<https://x.com/yumesyokunin/status/2113428579459752320>)
+
+A cat-eared cartoon character dances among cats, pumpkins and gravestones in a clip attributed to Grok Imagine.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Keep the animal silhouette clear and choose one small action against a simple, atmospheric background.
+
+**Shared by:** [夢職人](<https://x.com/yumesyokunin>)
+
+[Original post on X](<https://x.com/yumesyokunin/status/2113428579459752320>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#graveyard-cat-animation>)
+
+<a id="hiroshige-fujisawa-print-animation"></a>
+
+## A Fujisawa Woodblock Print in Motion
+
+[![A Fujisawa Woodblock Print in Motion](<https://pbs.twimg.com/amplify_video_thumb/2113316203821416448/img/0Ba_iaPWd4qHsxfV.jpg>)](<https://x.com/_kcm_kcm_kcm_/status/2113316228454609346>)
+
+A short animation brings figures and scenery from a Hiroshige-attributed Fujisawa print into motion.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use a suitable source artwork and limit motion to a few figures while preserving the flat composition and printed texture.
+
+**Shared by:** [S.K.](<https://x.com/_kcm_kcm_kcm_>)
+
+[Original post on X](<https://x.com/_kcm_kcm_kcm_/status/2113316228454609346>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#hiroshige-fujisawa-print-animation>)
+
+<a id="goblin-forest-walk-animation"></a>
+
+## A Goblin Walks Through a Forest
+
+[![A Goblin Walks Through a Forest](<https://pbs.twimg.com/amplify_video_thumb/2113246920277979136/img/7Gu8eLnxoPklQGha.jpg>)](<https://x.com/inuta2013/status/2113247195785011386>)
+
+A stylized goblin walks along a forest path in a compact character-motion example.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Define a steady walking pace and keep the camera direction consistent to inspect foot contact and character stability.
+
+**Shared by:** [かみいずみさω](<https://x.com/inuta2013>)
+
+[Original post on X](<https://x.com/inuta2013/status/2113247195785011386>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#goblin-forest-walk-animation>)
+
+<a id="next-doll-cinema-anime-comic"></a>
+
+## Next Doll: A Cinema Anime Comic
+
+[![Next Doll: A Cinema Anime Comic](<https://pbs.twimg.com/amplify_video_thumb/2111567913513877504/img/d3Y70aSX1OEe68ZJ.jpg>)](<https://x.com/bakubaku_hi/status/2113223855133319422>)
+
+A short cinema gag combines Grok Imagine animation with CapCut editing in an episodic anime comic.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan the setup, reaction and payoff as separate beats, then assemble timing and text in an editor.
+
+**Shared by:** [ばくやく| AI漫画・アニメ・イラスト制作](<https://x.com/bakubaku_hi>)
+
+[Original post on X](<https://x.com/bakubaku_hi/status/2113223855133319422>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#next-doll-cinema-anime-comic>)
+
+<a id="ngc-1501-goddess-meta-image-animation"></a>
+
+## A Nebula Goddess from a Meta AI Image
+
+[![A Nebula Goddess from a Meta AI Image](<https://pbs.twimg.com/amplify_video_thumb/2113190857541369856/img/swch9H47SuSGGafg.jpg>)](<https://x.com/hanagekkou/status/2113191279349948722>)
+
+A blue fantasy portrait is animated with Grok Imagine after an image-generation step credited to Meta AI.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Create a reference portrait you can use, then test subtle automatic motion before adding a detailed video instruction.
+
+**Shared by:** [華月光](<https://x.com/hanagekkou>)
+
+[Original post on X](<https://x.com/hanagekkou/status/2113191279349948722>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#ngc-1501-goddess-meta-image-animation>)
+
+<a id="take-five-coffee-multi-tool-video"></a>
+
+## Take Five: A Coffee Video Workflow
+
+[![Take Five: A Coffee Video Workflow](<https://pbs.twimg.com/amplify_video_thumb/2113180878809772032/img/nJVw16JKiiMpPzIB.jpg>)](<https://x.com/sam_tmk/status/2113180933583180169>)
+
+An anthropomorphic lion in a cafe appears in an edit credited to GPT Image 2.5, Grok Imagine, Suno and CapCut.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build the visual sequence first, animate the shots, then add your own or licensed music and edit the pacing separately.
+
+**Shared by:** [たまちゃん | Tamachan](<https://x.com/sam_tmk>)
+
+[Original post on X](<https://x.com/sam_tmk/status/2113180933583180169>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#take-five-coffee-multi-tool-video>)
+
+<a id="awaiting-grok-suno-short-film"></a>
+
+## Awaiting: A Grok and Suno Short Film
+
+[![Awaiting: A Grok and Suno Short Film](<https://pbs.twimg.com/amplify_video_thumb/2111668444664082432/img/1Kn-KVOb2ss4jcdA.jpg>)](<https://x.com/n93seo/status/2113510740074348727>)
+
+A neon-lit street short credits Grok for its script, Grok Imagine for visuals and sound, and Suno for music.
+
+**Model:** Grok Imagine Video
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Separate the script, animated shots, sound design and music so each contribution can be revised independently.
+
+**Shared by:** [n93seo](<https://x.com/n93seo>)
+
+[Original post on X](<https://x.com/n93seo/status/2113510740074348727>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#awaiting-grok-suno-short-film>)
+
+<a id="computer-work-without-humming"></a>
+
+## Computer Work Without a Humming Instruction
+
+[![Computer Work Without a Humming Instruction](<https://pbs.twimg.com/amplify_video_thumb/2113446215719456768/img/giZtg9hwCxYUCBK8.jpg>)](<https://x.com/dojiaking929/status/2113446267275866362>)
+
+A creator simplifies an animation request to computer work after earlier attempts at depicting music production.
+
+**Model:** Grok Imagine Video
+
+### Original prompt · `ja`
+
+```text
+パソコン作業をしてるところ
+```
+
+### How to adapt it
+
+Test a single visible task first, then add humming or other audio instructions one at a time.
+
+**Shared by:** [中村聡晃(Toshiaki Nakamura)](<https://x.com/dojiaking929>)
+
+[Original post on X](<https://x.com/dojiaking929/status/2113446267275866362>) · [View in the Gvid gallery](<https://gvid.app/grok-imagine-video-2-prompts#computer-work-without-humming>)
 
 ## Contributing
 
